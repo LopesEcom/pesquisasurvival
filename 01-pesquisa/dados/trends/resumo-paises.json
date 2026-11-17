@@ -1,0 +1,410 @@
+{
+ "fonte": "Google Trends via pytrends, coleta 16/11/2026; topico 'Survival kit' (/m/067rck) e 'Survivalism' (/m/019sl2) independem de idioma; momento = media das ultimas 12 semanas / media dos 5 anos anteriores",
+ "paises": [
+  {
+   "pais": "IE",
+   "idioma": "inglês",
+   "pop_mi": 5.3,
+   "topico_kit_momento": 17.18,
+   "topico_kit_pico": "2026-11-08",
+   "pico_recente": true,
+   "ult4": [
+    45,
+    92,
+    100,
+    73
+   ],
+   "termo_local_mais_forte": null,
+   "interesse_12m": 9,
+   "interesse_3m": 19,
+   "survivalism_12m": 28,
+   "prepper_12m": 0
+  },
+  {
+   "pais": "IT",
+   "idioma": "italiano",
+   "pop_mi": 59,
+   "topico_kit_momento": 6.54,
+   "topico_kit_pico": "2025-03-23",
+   "pico_recente": true,
+   "ult4": [
+    7,
+    6,
+    72,
+    37
+   ],
+   "termo_local_mais_forte": {
+    "termo": "kit di emergenza",
+    "momento": 83.33,
+    "pico": "2026-11-08",
+    "ult4": [
+     0,
+     0,
+     3,
+     1
+    ]
+   },
+   "interesse_12m": 5,
+   "interesse_3m": 13,
+   "survivalism_12m": 9,
+   "prepper_12m": 0
+  },
+  {
+   "pais": "GB",
+   "idioma": "inglês",
+   "pop_mi": 69,
+   "topico_kit_momento": 4.4,
+   "topico_kit_pico": "2026-10-25",
+   "pico_recente": true,
+   "ult4": [
+    100,
+    71,
+    65,
+    60
+   ],
+   "termo_local_mais_forte": {
+    "termo": "food stockpile",
+    "momento": 39.35,
+    "pico": "2026-07-12",
+    "ult4": [
+     11,
+     7,
+     4,
+     4
+    ]
+   },
+   "interesse_12m": 13,
+   "interesse_3m": 26,
+   "survivalism_12m": 34,
+   "prepper_12m": 0
+  },
+  {
+   "pais": "PT",
+   "idioma": "português",
+   "pop_mi": 10.4,
+   "topico_kit_momento": 3.44,
+   "topico_kit_pico": "2025-04-27",
+   "pico_recente": false,
+   "ult4": [
+    0,
+    19,
+    23,
+    10
+   ],
+   "termo_local_mais_forte": {
+    "termo": "kit de emergência",
+    "momento": 12.61,
+    "pico": "2025-04-27",
+    "ult4": [
+     5,
+     30,
+     29,
+     5
+    ]
+   },
+   "interesse_12m": 4,
+   "interesse_3m": 3,
+   "survivalism_12m": 15,
+   "prepper_12m": 0
+  },
+  {
+   "pais": "FR",
+   "idioma": "francês",
+   "pop_mi": 68,
+   "topico_kit_momento": 3.23,
+   "topico_kit_pico": "2025-03-16",
+   "pico_recente": false,
+   "ult4": [
+    51,
+    49,
+    34,
+    28
+   ],
+   "termo_local_mais_forte": {
+    "termo": "kit d'urgence",
+    "momento": 9.72,
+    "pico": "2026-10-25",
+    "ult4": [
+     25,
+     12,
+     7,
+     4
+    ]
+   },
+   "interesse_12m": 12,
+   "interesse_3m": 16,
+   "survivalism_12m": 29,
+   "prepper_12m": 0
+  },
+  {
+   "pais": "LT",
+   "idioma": "lituano",
+   "pop_mi": 2.9,
+   "topico_kit_momento": 2.91,
+   "topico_kit_pico": "2026-02-01",
+   "pico_recente": true,
+   "ult4": [
+    0,
+    12,
+    12,
+    0
+   ],
+   "termo_local_mais_forte": {
+    "termo": "karas",
+    "momento": 0.87,
+    "pico": "2022-02-20",
+    "ult4": [
+     8,
+     12,
+     12,
+     11
+    ]
+   },
+   "interesse_12m": 3,
+   "interesse_3m": 3,
+   "survivalism_12m": 7,
+   "prepper_12m": 0
+  },
+  {
+   "pais": "ES",
+   "idioma": "espanhol",
+   "pop_mi": 48,
+   "topico_kit_momento": 2.33,
+   "topico_kit_pico": "2025-03-23",
+   "pico_recente": true,
+   "ult4": [
+    3,
+    10,
+    12,
+    18
+   ],
+   "termo_local_mais_forte": {
+    "termo": "mochila de emergencia",
+    "momento": 15.28,
+    "pico": "2026-11-15",
+    "ult4": [
+     0,
+     2,
+     3,
+     4
+    ]
+   },
+   "interesse_12m": 5,
+   "interesse_3m": 7,
+   "survivalism_12m": 17,
+   "prepper_12m": 0
+  },
+  {
+   "pais": "BE",
+   "idioma": "francês/holandês",
+   "pop_mi": 11.8,
+   "topico_kit_momento": 1.89,
+   "topico_kit_pico": "2026-04-19",
+   "pico_recente": false,
+   "ult4": [
+    6,
+    6,
+    15,
+    7
+   ],
+   "termo_local_mais_forte": null,
+   "interesse_12m": 42,
+   "interesse_3m": 23,
+   "survivalism_12m": 19,
+   "prepper_12m": 4
+  },
+  {
+   "pais": "NL",
+   "idioma": "holandês",
+   "pop_mi": 18,
+   "topico_kit_momento": 1.79,
+   "topico_kit_pico": "2025-11-16",
+   "pico_recente": false,
+   "ult4": [
+    18,
+    9,
+    14,
+    11
+   ],
+   "termo_local_mais_forte": {
+    "termo": "noodpakket",
+    "momento": 1.87,
+    "pico": "2025-11-16",
+    "ult4": [
+     19,
+     9,
+     14,
+     11
+    ]
+   },
+   "interesse_12m": 100,
+   "interesse_3m": 68,
+   "survivalism_12m": 11,
+   "prepper_12m": 7
+  },
+  {
+   "pais": "US",
+   "idioma": "inglês",
+   "pop_mi": 335,
+   "topico_kit_momento": 1.48,
+   "topico_kit_pico": "2026-10-25",
+   "pico_recente": true,
+   "ult4": [
+    100,
+    92,
+    73,
+    100
+   ],
+   "termo_local_mais_forte": {
+    "termo": "emergency food",
+    "momento": 1.96,
+    "pico": "2026-11-15",
+    "ult4": [
+     98,
+     99,
+     60,
+     100
+    ]
+   },
+   "interesse_12m": 11,
+   "interesse_3m": 12,
+   "survivalism_12m": 35,
+   "prepper_12m": 0
+  },
+  {
+   "pais": "AT",
+   "idioma": "alemão",
+   "pop_mi": 9.2,
+   "topico_kit_momento": 1.27,
+   "topico_kit_pico": "2024-07-14",
+   "pico_recente": false,
+   "ult4": [
+    0,
+    18,
+    19,
+    0
+   ],
+   "termo_local_mais_forte": null,
+   "interesse_12m": 3,
+   "interesse_3m": 3,
+   "survivalism_12m": 9,
+   "prepper_12m": 9
+  },
+  {
+   "pais": "FI",
+   "idioma": "finlandês",
+   "pop_mi": 5.6,
+   "topico_kit_momento": 1.16,
+   "topico_kit_pico": "2022-02-27",
+   "pico_recente": false,
+   "ult4": [
+    0,
+    28,
+    22,
+    33
+   ],
+   "termo_local_mais_forte": {
+    "termo": "72 tuntia",
+    "momento": 2.16,
+    "pico": "2022-03-06",
+    "ult4": [
+     0,
+     1,
+     0,
+     0
+    ]
+   },
+   "interesse_12m": 4,
+   "interesse_3m": 5,
+   "survivalism_12m": 13,
+   "prepper_12m": 0
+  },
+  {
+   "pais": "SE",
+   "idioma": "sueco",
+   "pop_mi": 10.5,
+   "topico_kit_momento": 1.07,
+   "topico_kit_pico": "2022-02-27",
+   "pico_recente": false,
+   "ult4": [
+    0,
+    2,
+    1,
+    2
+   ],
+   "termo_local_mais_forte": {
+    "termo": "krisberedskap",
+    "momento": 1.26,
+    "pico": "2022-02-27",
+    "ult4": [
+     2,
+     2,
+     2,
+     1
+    ]
+   },
+   "interesse_12m": 3,
+   "interesse_3m": 2,
+   "survivalism_12m": 22,
+   "prepper_12m": 1
+  },
+  {
+   "pais": "PL",
+   "idioma": "polonês",
+   "pop_mi": 37,
+   "topico_kit_momento": 0.98,
+   "topico_kit_pico": "2025-12-14",
+   "pico_recente": false,
+   "ult4": [
+    0,
+    6,
+    5,
+    0
+   ],
+   "termo_local_mais_forte": {
+    "termo": "plecak ewakuacyjny",
+    "momento": 4.37,
+    "pico": "2025-09-14",
+    "ult4": [
+     6,
+     6,
+     5,
+     5
+    ]
+   },
+   "interesse_12m": 1,
+   "interesse_3m": 1,
+   "survivalism_12m": 16,
+   "prepper_12m": 0
+  },
+  {
+   "pais": "DE",
+   "idioma": "alemão",
+   "pop_mi": 84,
+   "topico_kit_momento": 0.97,
+   "topico_kit_pico": "2022-02-27",
+   "pico_recente": false,
+   "ult4": [
+    31,
+    24,
+    28,
+    25
+   ],
+   "termo_local_mais_forte": {
+    "termo": "Notfallrucksack",
+    "momento": 3.2,
+    "pico": "2026-09-20",
+    "ult4": [
+     7,
+     4,
+     5,
+     4
+    ]
+   },
+   "interesse_12m": 3,
+   "interesse_3m": 2,
+   "survivalism_12m": 12,
+   "prepper_12m": 14
+  }
+ ]
+}

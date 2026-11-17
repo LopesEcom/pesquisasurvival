@@ -1,0 +1,113 @@
+{
+ "gerado_em": "2026-11-16T06:32:34.025Z",
+ "ofertas": [
+  {
+   "url": "https://casarefugio.impultienda.ar/",
+   "slug": "casarefugio.impultienda.ar",
+   "construtor": null,
+   "checkout": [],
+   "menor_preco": 14.9,
+   "maior_preco": 37,
+   "taxa_comprador": null,
+   "garantia_dias": 15,
+   "bumps": 0,
+   "vsl": false,
+   "pixel_meta": 0
+  },
+  {
+   "url": "https://le-manuel-de-survie.impultienda.ar/",
+   "slug": "le-manuel-de-survie.impultienda.ar",
+   "construtor": null,
+   "checkout": [],
+   "menor_preco": 29.99,
+   "maior_preco": 29.99,
+   "taxa_comprador": null,
+   "garantia_dias": null,
+   "bumps": 0,
+   "vsl": false,
+   "pixel_meta": 0
+  },
+  {
+   "url": "https://blackoutreport.de/72-stunden-vorsorge",
+   "slug": "blackoutreport.de-72-stunden-vorsorge",
+   "construtor": "Shopify",
+   "checkout": [],
+   "menor_preco": null,
+   "maior_preco": null,
+   "taxa_comprador": null,
+   "garantia_dias": null,
+   "bumps": 0,
+   "vsl": false,
+   "pixel_meta": 0
+  },
+  {
+   "url": "https://standbysupplyco.com/pages/uk-household-water-report",
+   "slug": "standbysupplyco.com-pages-uk-household-water-repor",
+   "construtor": "Shopify",
+   "checkout": [
+    "Shopify"
+   ],
+   "menor_preco": null,
+   "maior_preco": null,
+   "taxa_comprador": null,
+   "garantia_dias": null,
+   "bumps": 0,
+   "vsl": false,
+   "pixel_meta": 0
+  },
+  {
+   "url": "https://helorafit.com/pages/uk-emergency-radio-report",
+   "slug": "helorafit.com-pages-uk-emergency-radio-repor",
+   "construtor": "Shopify",
+   "checkout": [],
+   "menor_preco": 39.9,
+   "maior_preco": 99.9,
+   "taxa_comprador": null,
+   "garantia_dias": null,
+   "bumps": 0,
+   "vsl": false,
+   "pixel_meta": 0
+  },
+  {
+   "url": "https://virest.de/products/hydra-x1-notfall-wasserfilter-1-500-liter",
+   "slug": "virest.de-products-hydra-x1-notfall-wass",
+   "construtor": null,
+   "checkout": [
+    "Shopify"
+   ],
+   "menor_preco": 19.99,
+   "maior_preco": 359.94,
+   "taxa_comprador": null,
+   "garantia_dias": null,
+   "bumps": 0,
+   "vsl": false,
+   "pixel_meta": 0
+  },
+  {
+   "url": "https://krisensicher26.de/",
+   "slug": "krisensicher26.de",
+   "construtor": "Shopify",
+   "checkout": [],
+   "menor_preco": null,
+   "maior_preco": null,
+   "taxa_comprador": null,
+   "garantia_dias": null,
+   "bumps": 0,
+   "vsl": false,
+   "pixel_meta": 0
+  },
+  {
+   "url": "https://nord-survival.com/products/kit-de-survie-72h",
+   "slug": "nord-survival.com-products-kit-de-survie-72h",
+   "construtor": "Shopify",
+   "checkout": [],
+   "menor_preco": null,
+   "maior_preco": null,
+   "taxa_comprador": null,
+   "garantia_dias": null,
+   "bumps": 0,
+   "vsl": false,
+   "pixel_meta": 0
+  }
+ ]
+}

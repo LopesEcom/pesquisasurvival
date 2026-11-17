@@ -1,0 +1,247 @@
+{
+ "url": "https://www.theamishways.com/book/",
+ "slug": "theamishways.com-book",
+ "url_final": "https://www.theamishways.com/bfo",
+ "titulo": "The Amish Ways",
+ "construtor": null,
+ "estrutura": [
+  "H2: Customer reviews",
+  "H3: 4.7 out of 5",
+  "H2: 🪵 Trusted By Over 0 Self-Reliant Families",
+  "H1: Only Today (11/16/2026) -- You've Got 82% OFF",
+  "H3: Coupon Applied. Discounted Cart Available for"
+ ],
+ "ctas": [],
+ "checkouts": [
+  {
+   "url": "https://www.digistore24.com/",
+   "plataforma": "Digistore24"
+  },
+  {
+   "url": "https://www.digistore24.com/info/imprint/2?lang=en",
+   "plataforma": "Digistore24"
+  },
+  {
+   "url": "https://www.digistore24.com/info/terms/2?lang=en",
+   "plataforma": "Digistore24"
+  },
+  {
+   "url": "https://www.digistore24.com/info/privacy/2?lang=en",
+   "plataforma": "Digistore24"
+  },
+  {
+   "url": "https://www.digistore24.com/info/contact/2?lang=en",
+   "plataforma": "Digistore24"
+  },
+  {
+   "url": "https://www.digistore24.com/trusted-badge/13522/TMYJYe05bP5JkQE/salespage",
+   "plataforma": "Digistore24"
+  },
+  {
+   "url": "https://www.digistore24.com",
+   "plataforma": "Digistore24"
+  }
+ ],
+ "precos": [
+  {
+   "valor": 166,
+   "moeda": "$",
+   "tipo": "ancora",
+   "ancora": true,
+   "parcela": false,
+   "contexto": "× BLACK FRIDAY 82% OFF $166 $29.25 Last Books Avail"
+  },
+  {
+   "valor": 29.25,
+   "moeda": "$",
+   "tipo": "preco",
+   "ancora": false,
+   "parcela": false,
+   "contexto": "× BLACK FRIDAY 82% OFF $166 $29.25 Last Books Available! "
+  },
+  {
+   "valor": 29,
+   "moeda": "$",
+   "tipo": "preco",
+   "ancora": false,
+   "parcela": false,
+   "contexto": "available for much longer. They usually cost $29 each, but you’ll receive"
+  },
+  {
+   "valor": 87,
+   "moeda": "$",
+   "tipo": "preco",
+   "ancora": false,
+   "parcela": false,
+   "contexto": ". You’ll receive all of these guides, worth $87, for FREE. Think about "
+  },
+  {
+   "valor": 6081,
+   "moeda": "$",
+   "tipo": "preco",
+   "ancora": false,
+   "parcela": false,
+   "contexto": "e American household has monthly expenses of $6,081. That amounts to $72,972"
+  },
+  {
+   "valor": 72972,
+   "moeda": "$",
+   "tipo": "preco",
+   "ancora": false,
+   "parcela": false,
+   "contexto": " monthly expenses of $6,081. That amounts to $72,972 each year, and this sum "
+  },
+  {
+   "valor": 1000,
+   "moeda": "$",
+   "tipo": "preco",
+   "ancora": false,
+   "parcela": false,
+   "contexto": "that money. If this Amish knowledge cost you $1,000 to acquire, it would sti"
+  },
+  {
+   "valor": 166,
+   "moeda": "$",
+   "tipo": "preco",
+   "ancora": false,
+   "parcela": false,
+   "contexto": "ty, and DIY Projects from the 1900s, not for $166 but only $29.25. 📦Esti"
+  },
+  {
+   "valor": 29.25,
+   "moeda": "$",
+   "tipo": "preco",
+   "ancora": false,
+   "parcela": false,
+   "contexto": "ojects from the 1900s, not for $166 but only $29.25. 📦Estimated delivery i"
+  },
+  {
+   "valor": 29.25,
+   "moeda": "$",
+   "tipo": "preco",
+   "ancora": false,
+   "parcela": false,
+   "contexto": "end us a short e-mail, and we’ll refund your $29.25—no questions asked. An"
+  },
+  {
+   "valor": 136.75,
+   "moeda": "$",
+   "tipo": "preco",
+   "ancora": false,
+   "parcela": false,
+   "contexto": "on the button below now. Instant savings of $136.75 Still available for 49:4"
+  }
+ ],
+ "elementos": {
+  "garantia_dias": null,
+  "mencoes_bonus": 0,
+  "acesso_imediato": false,
+  "acesso_vitalicio": false,
+  "pix": false,
+  "parcelamento": false,
+  "contador": false,
+  "depoimentos": false,
+  "faq": false,
+  "video": true,
+  "vsl": false,
+  "quiz": false,
+  "whatsapp_print": false
+ },
+ "rastreio": {
+  "pixel_meta": [
+   "8003566353065116"
+  ],
+  "tiktok": false,
+  "gtm": "GTM-TMM7XT8T",
+  "ga4": "G-52XBL9GV9Z",
+  "utmify": false,
+  "clarity": true,
+  "hotjar": false
+ },
+ "altura_celular_px": 52059,
+ "prints": {
+  "celular": "celular.jpg",
+  "computador": "computador.jpg"
+ },
+ "checkout": [
+  {
+   "url": "https://www.digistore24.com/",
+   "plataforma": "Digistore24",
+   "produto": "Automatize Suas Vendas Online e Comissões de Afiliados | Digistore24",
+   "precos": [
+    {
+     "valor": 300000,
+     "moeda": "$",
+     "tipo": "ancora",
+     "ancora": true,
+     "parcela": false,
+     "contexto": "dedor ou afiliado com receita anual acima de $300,000? Clique aqui para o onbo"
+    },
+    {
+     "valor": 3,
+     "moeda": "$",
+     "tipo": "ancora",
+     "ancora": true,
+     "parcela": false,
+     "contexto": "nloads e eBooks Eventos e Seminários Mais de $3 Bilhões Em Vendas Proce"
+    },
+    {
+     "valor": 10000,
+     "moeda": "$",
+     "tipo": "ancora",
+     "ancora": true,
+     "parcela": false,
+     "contexto": "marketing de afiliados está gastando mais de $10,000/dia em anúncios? A Digis"
+    },
+    {
+     "valor": 1000000,
+     "moeda": "$",
+     "tipo": "ancora",
+     "ancora": true,
+     "parcela": false,
+     "contexto": "mpreendedores digitais já alcançaram mais de $1,000,000 em receita com a Digisto"
+    }
+   ],
+   "bumps": [],
+   "pagamentos": [],
+   "print": "checkout-1.jpg",
+   "erro": null,
+   "url_final": "https://www.digistore24.com/pt/"
+  },
+  {
+   "url": "https://www.digistore24.com/info/imprint/2?lang=en",
+   "plataforma": "Digistore24",
+   "produto": "Legal Notice | Digistore24",
+   "precos": [],
+   "bumps": [],
+   "pagamentos": [],
+   "print": "checkout-2.jpg",
+   "erro": null,
+   "url_final": "https://www.digistore24.com/info/imprint/2?lang=en"
+  },
+  {
+   "url": "https://www.digistore24.com/info/terms/2?lang=en",
+   "plataforma": "Digistore24",
+   "produto": "Digistore24 Legal Terms and Conditions | Digistore24",
+   "precos": [
+    {
+     "valor": 500,
+     "moeda": "$",
+     "tipo": "preco",
+     "ancora": false,
+     "parcela": false,
+     "contexto": "YOUR EXCLUSIVE REMEDY WILL BE LIMITED TO USD $500.00. THIS LIMITATION OF LIAB"
+    }
+   ],
+   "bumps": [],
+   "pagamentos": [],
+   "print": "checkout-3.jpg",
+   "erro": null,
+   "url_final": "https://www.digistore24.com/info/terms/2?lang=en"
+  }
+ ],
+ "lacunas": [
+  "Upsell e downsell pós-compra não são visíveis sem comprar: declarar como não obtido."
+ ],
+ "texto": "×\nBLACK FRIDAY\n82% OFF\n$166 $29.25\n\nLast Books Available!\n\nGet Yours Before They're All Gone!\n\n\"If you want to survive an economic collapse, a Civil War, \n\nor an EMP and other major disasters, all you need to do is learn from the only people who would hardly even notice them.\"\n\nThe Amish live in a world without electricity and running water…without supermarkets, pharmacies, and many other modern necessities that would vanish for us in a collapse.\n\nFor the first time ever, you can find all their life-saving secrets inside a unique book called The Amish Ways. \n\nBelow, you’ll find some of the things that are waiting for you inside the book like the Amish Fridge That Needs no Electricity, Amish Ibuprofen, Why You Should Paint Your House Red, What Item an Amish Would Never Store in Their Pantry But You Probably Do, How to Make Long-lasting Bread in a Jar, or An Ingenious Amish AC, just to name a few! \n\nAbout the Author\n\nEddie Swartzentruber was born and raised in one of the strictest Old Order Amish communities.\n\nFor the Swartzentrubers, riding in cars is prohibited, except in a medical emergency. They avoid the use of electricity and indoor plumbing altogether. Many other common devices and technologies you take for granted are also disallowed for being deemed too worldly, including stuff like Velcro or bicycles.\n\nBut that does not mean this community hasn’t found and invented new ways of doing things. Before leaving the community, Eddie had the unique opportunity to witness all of these first-hand, learning the projects and skills that make the Amish self-sufficient and prepared for any crisis that will hit America.\n\nEddie married a beautiful woman and built a life for himself in the outside world, but he never forgot what he’d experienced during his “Amish Years”. \n\nAnd seeing how soft and dependent the rest of the world has become, he’s decided to share these Amish secrets for the first time ever.\n\nHere is What You Will Find Inside The Amish Ways: \n\nUnlike others, this book is very easy to use! Each project, recipe, and remedy comes with detailed step-by-step instructions, a full list of materials, color photos, and helpful tips that only an insider from the Amish community would know.\n\nHere are just some of the survival secrets and skills \n\nyou’ll discover inside The Amish Ways:\n\nWhat Happens if You bury a Barrel in Your Own Backyard?\n\nYou’re going to discover the simple way to build a small Amish root cellar in your own backyard. \n\nYou can even make it using a trash can or an old blue barrel you’d normally throw away.\n\nHow to Brew Yourself a Batch of Amish Ibuprofen\n\nThis is the natural remedy they use for headaches, sore muscles, swollen joints, menstrual cramps, toothaches, backaches…any type of pain really. \n\nThe best part is that creating this one secret Amish remedy only requires a few common backyard plants and weeds. And my guess is nature probably grows them around your house right now.\n\nThe Amish Medicinal Garden \n\nYou Should Have in Your Backyard\n\nThis will help you create dozens of the powerful remedies that have allowed the Amish to thrive without modern healthcare. \n\nOn the day it collapses for the rest of us, you’ll be so grateful to have this natural pharmacy on your property. While sick and desperate people will be willing to trade anything for painkillers or antibiotics, you’ll simply walk out and pick yours off the ground.\n\nHow to Make Water Out of Thin Air\n\nThis little Amish invention will probably save your life and the life of everyone you love when the tap runs dry and any wells left are contaminated or simply out of water.\n\nWhy The Amish Make Ash Circles Around Their Plants\n\nThis method is completely natural, and besides warding off pests, it will also draw in pollinators and other helpful bugs that will make your garden flourish.\n\nWhy You Should Never Store Water in a Blue Barrel\n\nYou’ll do well to find out about this before it’s too late.\n\nThen I’ll show you how to keep your water safe long-term using a time-tested Amish method that doesn’t use bleach or pool shock.\n\nHow to Keep the Lights On \nAfter the Grid Goes Down, Like the Amish Do\n\nYou are going to also discover how to keep the lights on using oil lamps. \n\nA single lamp can run for 258 hours on just one gallon of oil. That means it will outlast any flashlight, and it’s cheaper than anything that runs on batteries.\n\nForgotten, Long-Lasting Foods That Don’t Need Refrigeration\n\nMany of these foods have been forgotten with the discovery of electricity but luckily not inside the Amish communities. These foods will be in great need in the next crisis, when most of us will be left without power. \n\nSo, if you want to have a blackout-proof food stockpile, instead of purchasing expensive, unhealthy, and nutrient deprived survival foods, wouldn’t you be better off with what our great-grandparents kept in their pantries?\n\nHow to Take Care of Your Livestock \nWhen They Are Sick\n\nIf you ever see one of your chickens take this position, they’re almost certainly sick, and the first step is rapid isolation so the rest don’t catch whatever they’ve got. Inside The Amish Ways, I’ll give you specific remedies for several common chicken diseases. \n\nBut one thing that is generally good and safe is boiling some garlic cloves and onions and giving the water to your sick chicken to drink.\n\nThat’s often all it takes to put them back on their feet.\n\nHow the Amish Heat And Cool Their Homes \n\nWithout Electricity\n\nThese tools are powered not by electricity, gas, or propane but by something that costs you nothing.\n\nWhy The Amish Keep Eggs Covered in Salt\n\nThis forgotten preservation method, which also requires beeswax and olive oil, will keep eggs good for about two years without refrigeration.\n\nThe Three Plants You Need \nto Make “Amish Amoxicillin”\n\nWhen synthetic antibiotics vanish in a crisis and common infections turn deadly, you can still use this remedy. \n\nOne of the three ingredients is this strange-looking lichen that you’ve probably seen hanging from old or dying trees. It’s called Usnea, and herbalists usually make a poultice with it to fight bacterial skin infections.\n\nThe Amish Cough-Busting Syrup\n\nTake a black radish and cut it in half. Then, using a spoon, carve out one half. The radish will start oozing liquid, and once it does, you need to add two things: honey and a sliced onion. \n\nPut back the other half of the radish, and let it rest for four hours. Pour the mixture in a glass bottle and store inside your fridge. Or your Amish Fridge. Then take a single scoop whenever you have a nagging cough or sore throat.\n\nThe Amish Parasite Flush\n\nDo you know how to use this common plant to flush out internal parasites that may be sapping your energy and endangering your health? The plant’s called wormwood, and you may have seen it before. It got its name because it was widely used to kill intestinal worms back in the day. \n\nThe remedy we will make from it is called the Amish Parasite Flush. Unfortunately, a lot of people never suspect that an intestinal worm may be behind their low energy, rashes, ravenous appetite, constipation, brain fog, or other medical problems. But once they drink this remedy, their life improves literally overnight.\n\nCanning Amish Poor Man’s Steak\n\nAs the name suggests, this long-lasting food is cheap to make, so you can create an entire stockpile for darker days. \n\nIt’s also incredibly nutritious and will give you energy, fill your belly and lift your spirit during dark times.\n\nHow to Make an Amish Fridge \nThat Needs No Electricity\n\nMany Amish recipes are already long-lasting without refrigeration. But there are some foods that would spoil in no time were it not for their Amish fridge. \n\nIn a blackout—especially a long-term one—this one Amish invention may end up saving more lives than any other. So, I hope you’ll add one to your own home while there is still time.\n\nWhat Amish Would Never Store in Their Pantry, \nbut Most Americans Do!\n\nYou’ll also discover what an Amish would never store in his pantry, but most Americans do. \n\nIf you have this item in your stockpile, remove it immediately!\n\nHow To Make Forever Butter That Lasts Till You’re 90\n\nStart by slowly melting butter in a saucepan over low heat. After it separates into milk solids and clear liquid butterfat, you need to strain the butterfat after it’s turned a light golden color. \n\nThe secret is to never let it simmer or boil.\n\nHow To Grow Potatoes In Thin Air\n\nIn case you don’t know how the Amish manage to grow potatoes and other foods out of thin air, the book will show you in minute detail. So, from now on you’ll be able to turn any empty space into a hidden food growing area.\n\nWhat the Amish Ate During the Great Depression\n\nWhen things got tough for everyone and food was very hard to come by, the Amish still had these nutritious foods to rely on. \n\nThey’re super cheap to make and a snap to prepare. The step-by-step recipes are all inside the book, and I bet you already have most of the ingredients in your pantry.\n\nAmish Bread in a Jar\n\nYou’ll also discover the bread in a jar recipe the Amish brought with them from Europe. \n\nThis bread is not baked in an oven but right inside the jar, so you can easily can it to make it last indefinitely.\n\nWhere The Amish Grow Almost All Their Survival Food \n\nAnother thing you’ll read about in The Amish Ways is how to build the year-round underground food garden. \n\nUse this unusual, earth-sheltered greenhouse to grow food and medicine year-round—all hidden away from curious neighbors, looters, FEMA and any other unwanted intruders.\n\nThe Amish Black Drawing Salve\n\nThis remedy is a staple of every Amish apothecary and for good reason! It’s one of the best ways to deal with skin infections, splinters, slivers, boils, warts, pus, bug bites, and bee stings. \n\nJust smear some black salve over the affected area, cover with a bandage or cloth, and then just wait. The nasty stuff will come right out!\n\nThe Amish Painkilling Tincture\n\nYou’re also going to learn how to make the Amish painkilling tincture using a few common plants that are probably already growing in your own backyard.\n\nAmish Items to Stock Up On\n\nBefore the Next Great Depression\n\nThese items alone may save your family from starving during a severe economic downturn or collapse.\n\n…and a lot more survival secrets that The Amish have passed down for generations!\n\nBut for The Amish Ways to save you during dark times, you must get it beforehand. Just like canned foods and other necessities, this book will probably sell out fast as a crisis gets near.\n\nThree Life-Saving Gifts + Life-time Support and Answers to Any Question You May Have\n\nIf you decide to get The Amish Ways today, while this page is still up, I’m going to give you three gifts, which won’t be available for much longer. They usually cost $29 each, but you’ll receive them for free.\n\nThe first gift you’ll receive is called How to Outlive an EMP the Amish Way. There’s no denying that when it comes to a long-term blackout, the Amish are among the most prepared simply because they don’t rely on complex electronics or electricity like the rest of us do. And you’ll already know a lot about how to survive an EMP by reading The Amish Ways.\n\nBut this disaster will bring a unique set of challenges that go far beyond not being able to refrigerate your food. An EMP will spell the end of modern society, and in its aftermath, you’ll need the step-by-step survival plan that this book provides.\n\nIt will show you what to do day by day after the collapse as well as how to make your house invisible to looters, how to hide your water reserves and filter water off grid, enhanced security measures, ingenious ways to communicate in a blackout, plus dozens of vital DIY projects like the Amish graywater system or the biomass stove, just to name a few.\n\nThe second gift is Anti-Looter Traps That You Should Make on Your Property. \n\nThis will show you exactly how to build and install the most effective traps for stopping intruders. You cannot be on guard 24/7. Once you have these in your backyard and around the house, you’ll be able to relax knowing that your family and stockpile are safe even as you sleep. These traps are especially designed for looters trying to break into your home in a crisis when there will be no more 911 to call.\n\nThe third gift you’ll receive is called DIY Projects from the 1900s. \n\nThe Amish aren’t the only ones to have thrived thanks to ingenious DIY projects that require no electricity. At the beginning of the last century, most of America did not have power. This book will show you the projects our great-grandparents had on their property back then. And most importantly, it will provide exact blueprints and lists of materials needed to build each one on your own property to become more self-sufficient.\n\nYou’ll receive all of these guides, worth $87, for FREE.\n\nThink about how much money you pay each month for utilities, food, medicine, and other things that the Amish produce themselves. The average American household has monthly expenses of $6,081. That amounts to $72,972 each year, and this sum adds up year after year.\n\nIf you follow The Amish Ways, you will save a good deal of that money. If this Amish knowledge cost you $1,000 to acquire, it would still be a very, very good investment.\n\nBut the higher the price, the fewer people that would get their hands on this lifesaving knowledge.\n\nSo today you can get The Amish Ways plus How to Outlive an EMP the Amish Way, Anti-Looter Traps That You Should Make on Your Property, and DIY Projects from the 1900s, not for $166 but only $29.25.\n\n📦Estimated delivery if you order now: Thu 11/19 - Sat 11/21\nOnce your order gets shipped, you will receive the tracking details via e-mail.\n\nThere has never been a book like this.\n\nAnd nowhere on the Internet can you learn these skills. The Amish don’t have websites, YouTube channels, or any other way to share what they do.\n\nThis book is the ONLY way to have Amish resilience and self-sufficiency at your fingertips—from their unique canning and food preservation methods to their kitchen woodstoves and the underfloor water heating system it powers for free. And don’t forget their old-fashioned kerosene lamps that burn clean, ingenious off-grid washing machines, gravity-fed hot showers, and earth-sheltered greenhouses where you can grow hundreds of pounds of extra food that’s hidden from prying eyes. There are hundreds of time-tested Amish secrets inside The Amish Ways, and they will make you self-sufficient on your own property and practically bullet proof to any crisis you can imagine.\n\nWhat Our Customers Say About \n\n“The Amish Ways”:\n\n‹\n›\n★★★★★\n★★★★★\n★★★★★\nCustomer reviews\n4.7 out of 5\n★★★★☆\n214 global ratings\n5 star\n83%\n4 star\n10%\n3 star\n4%\n2 star\n2%\n1 star\n1%\n\n\n\nElke Mccurley\n\nReviewed in the United States on January 31, 2025\n\n★★★★★\nI love this book. It explains how to start your own yard, what plants harmonize, practical tips to recognize herbs, and so much more. I can only recommend it.\nMatt Wright\n\nReviewed in the United States on November 21, 2024\n\n★★★★★\nWhen I ordered this, I was looking for a book with practical information that would help me live a more self-sufficient life. And that's what I got! I found some food recipes I've seen my grandma making, like ghee or dried beef that could be stored for several months. Also, there's a chapter on pantries, which doesn't only tell you how to build a pantry from scratch, but it gives lots of secrets on how to make it more efficient for preserving food, that are more than useful. And not only that, but I was surprised to find out how to make the popular Amish Black Drawing salve. And it turned out exactly like the one I used to buy from the Amish market. Can't wait to try the other Amish hacks and projects from this book; seems like they will keep me busy for a while.\nIan Standard\n\nReviewed in the United States on November 20, 2024\n\n★★★★★\nI've always wanted to find out more about the way the Amish lead their lives, as it always seemed like they were from a completely different world. I am glad there's finally a book that covers their day-to-day, and not only that! There's a lot of stuff to learn from this book, especially when it comes to natural remedies and projects to keep you self-sufficient on your property. I've already started working on the free-electricity fridge and the next project I want to try is the Amish-type smokehouse, for long-lasting foods. But probably the one thing I like most about this book, besides the practical knowledge, is the author's personal insights on his life inside the community.\nK\n\nReviewed in the United States on November 2, 2024\n\n★★★★★\nThese days it's hard to know when and how the worst will hit. So I've started to get into self-sufficiency and homesteading for a while now, which means lots of reading. I could have saved so much money on books if I had started with this one. This book starts with the basics that any home needs: a whole-year garden. Then there's the section on growing and raising your food, plus how to preserve and cook with it (including meats and dairy products). Then useful things for the house like candle making, organizing your pantry, herbal remedies, making your own natural toothpaste and so on. It even shows you how to dig wells, purify and preserve water. It shows you what tools and items you need to always have on hand, like the Amish do. But my favourite part was the Amish insights.\nShauna Cucunato\n\nReviewed in the United States on November 7, 2024\n\n★★★★★\nI can't say enough good things about \"The Amish Ways\". This book is an absolute treasure trove of knowledge! Whether you're into gardening, woodworking, food storage or just want to learn some old-school skills, this guide has it all. The instructions are clear and easy to follow, so it makes everything easier to get done. I love how it combines practical advice with a genuine appreciation for Amish culture and customs. It's been incredibly satisfying to try out different helpful projects and see the results. Plus, the illustrations and photos inside the book are really useful.\nView More Reviews\n📦Estimated delivery if you order now: Thu 11/19 - Sat 11/21\nOnce your order gets shipped, you will receive the tracking details via e-mail.\n\nKeep-the-Book Money-Back Guarantee\n\nThat’s right. For the next 60 days, if there is anything—and I do mean ANYTHING—that you don’t like about the book (even if it’s just one chapter or a single paragraph or idea), send us a short e-mail, and we’ll refund your $29.25—no questions asked. \n\nAnd you can even keep the book as a thank you for giving it a try and as a guide to use for the dark times ahead. It really does not get more risk free than this, so really, you have nothing to lose here and everything to gain, including the three free gifts that are still available…for now. We won’t be able to offer them to everybody.\n\nAlso keep in mind that The Amish Ways is a limited-edition book, and from what we’ve seen so far, the demand will soon exceed our modest financial resources and capacity to print it.\n\nThe only promise I can make you is that if the buy button below is not yet grayed out, then we still have at least one copy of this life-saving book to send your way. But wait too long or return to this page later and you may find that’s no longer the case.\n\nWhy You Should Probably Get “The Amish Ways” \n\nBefore Copies Run Out:\n\n🪵 Trusted By Over 0 Self-Reliant Families\n🌾\n\n0\n\n10 Vital Amish Skills Every Self-Reliant Person Needs\n\n🪓\n\n0\n\n200+ Amish Homesteading Secrets\n\n⭐\n\n0\n\n4.7 Star Average Rating\n\n📦\n\n3-0\n\n3-5 Day Shipping Across the USA\n\n📘\n\n0\n\n223 High Quality Pages Full of Step-by-Step Instructions and Color Pictures\n\nYou’ll be among the most prepared for the next crisis, whatever it may be!\n\nThat’s because the Amish don’t depend on supermarkets, pharmacies, hospitals, cars, computers, phones, or any of the dozens of modern conveniences we take for gra"
+}

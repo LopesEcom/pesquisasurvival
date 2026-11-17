@@ -1,0 +1,8 @@
+# Vídeos e áudios dos criativos (cerca de 3 GB): o GitHub não aceita esse volume. Ficam só no computador.
+*.mp4
+*.mp3
+*.wav
+*.m4a
+node_modules/
+Thumbs.db
+desktop.ini

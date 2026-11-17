@@ -1,0 +1,17 @@
+ETAPA 02, TRAVAR A OFERTA
+
+Abra o oferta.md aqui do lado. Ele já vem preenchido com a oferta que a
+pesquisa (etapa 01) montou: produto, escada de preço com os order bumps, a
+conta por venda e o próximo produto. Você não escreve do zero.
+
+O que fazer:
+1. Leia cada seção do oferta.md junto com a tela "Sua oferta"
+   (../01-pesquisa/paginas/sua-oferta.html).
+2. Para cada decisão (nome, preço, bumps, formato), aceite como está ou peça
+   um ajuste à IA. Justifique toda mudança com um dado da pesquisa (um
+   comentário, uma contagem, um print), nunca só gosto pessoal.
+3. Regra: siga a proposta em ~90% das decisões agora. O ajuste fino vem
+   depois, com a oferta rodando e números reais.
+4. Escreva "TRAVADA" no topo do oferta.md: é o seu sinal verde.
+
+Depois de travar, vá para a etapa 03-marca/.

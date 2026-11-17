@@ -1,0 +1,113 @@
+
+/* ==========================================================================
+   VISUAL SURVIVAL (17/11/2026): blocos visuais das telas de etapas.
+   Acrescentado pelo etapas.py depois do gerador. Usa só as cores do tema.
+   ========================================================================== */
+.vis-lead{font-size:15px;color:var(--mid);max-width:760px;margin:-4px 0 18px}
+/* resumo em 3 frases no topo */
+.tldr{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:0 0 22px}
+.tldr div{background:var(--s3);border-radius:var(--r-card);padding:14px 16px;font-size:14px;line-height:1.45}
+.tldr b{display:block;font-size:22px;font-weight:700;color:var(--green);margin-bottom:4px;letter-spacing:-.01em}
+/* recolher */
+details.box{border:1px solid var(--line);border-radius:var(--r-card);background:var(--s2);margin:10px 0}
+details.box>summary{list-style:none;cursor:pointer;padding:14px 16px;display:flex;align-items:center;gap:12px;font-weight:600}
+details.box>summary::-webkit-details-marker{display:none}
+details.box>summary::after{content:'+';margin-left:auto;font-size:20px;color:var(--low);font-weight:400}
+details.box[open]>summary::after{content:'–'}
+details.box>.in{padding:0 16px 16px}
+details.mini>summary{cursor:pointer;color:var(--blue);font-size:12.5px;margin-top:4px}
+/* mapa da Europa em quadrados */
+.tiles{display:grid;grid-template-columns:repeat(9,minmax(0,1fr));gap:6px;max-width:640px;margin:6px 0 10px}
+.tile{aspect-ratio:1;border-radius:8px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-decoration:none;color:var(--txt);border:1px solid var(--line);background:var(--s3);font-size:10px;line-height:1.1;text-align:center;padding:2px;transition:transform .12s}
+.tile b{font-size:15px;font-weight:700;letter-spacing:.02em}
+.tile:hover{transform:scale(1.06);text-decoration:none}
+.tile.hot{background:var(--green);color:#fff;border-color:var(--green)}
+.tile.cool{background:var(--amber-bg);border-color:var(--amber-line);color:var(--amber)}
+.tile.early{background:var(--blue-bg);border-color:var(--blue-line);color:var(--blue)}
+.tile.flat{background:var(--s3);color:var(--mid)}
+.tile.low{background:transparent;color:var(--low);border-style:dashed}
+.leg{display:flex;flex-wrap:wrap;gap:12px;font-size:12.5px;color:var(--mid);margin:4px 0 14px}
+.leg i{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:6px;vertical-align:-1px;border:1px solid var(--line)}
+.leg .hot{background:var(--green);border-color:var(--green)}.leg .cool{background:var(--amber-bg);border-color:var(--amber-line)}.leg .early{background:var(--blue-bg);border-color:var(--blue-line)}.leg .flat{background:var(--s3)}.leg .low{border-style:dashed}
+/* gráfico pequeno */
+.spark{display:block;width:100%;height:46px}
+.spark path.l{fill:none;stroke:var(--green);stroke-width:1.6}
+.spark path.a{fill:var(--green-bg)}
+.spark .now{fill:var(--green)}
+.meter{height:8px;background:var(--s3);border-radius:4px;overflow:hidden;min-width:70px;margin-top:4px}
+.meter i{display:block;height:100%;background:var(--green);border-radius:4px}
+.scard .pill{font-size:10px;padding:1px 6px}
+/* cartões de país */
+.pgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
+.pcard{border:1px solid var(--line);border-radius:var(--r-card);padding:14px 14px 10px;background:var(--s2);scroll-margin-top:70px}
+.pcard h4{margin:0 0 2px;font-size:15px;display:flex;justify-content:space-between;align-items:center;gap:8px}
+.pcard .sub{font-size:12px;color:var(--low);margin-bottom:6px}
+.pcard ul{margin:8px 0 0;padding:0;list-style:none;font-size:12.5px;color:var(--mid)}
+.pcard li{padding:3px 0;border-top:1px solid var(--line)}
+.pcard li b{color:var(--txt);font-weight:600}
+/* linha do tempo */
+.tl{position:relative;margin:8px 0;padding-left:22px}
+.tl:before{content:'';position:absolute;left:6px;top:4px;bottom:4px;width:2px;background:var(--line)}
+.tl .it{position:relative;display:grid;grid-template-columns:1fr 220px;gap:16px;padding:0 0 22px}
+.tl .it:before{content:'';position:absolute;left:-21px;top:5px;width:12px;height:12px;border-radius:50%;background:var(--s2);border:3px solid var(--green)}
+.tl .it.war:before{border-color:var(--red)}
+.tl .dt{font-size:12px;font-weight:600;color:var(--green);letter-spacing:.04em;text-transform:uppercase}
+.tl .it.war .dt{color:var(--red)}
+.tl h4{margin:3px 0 4px;font-size:16px}
+.tl p{font-size:13.5px;color:var(--mid);margin:0}
+.tl .chips{margin-top:6px;display:flex;flex-wrap:wrap;gap:4px}
+.chip{font-size:11px;padding:2px 7px;border-radius:20px;background:var(--s3);color:var(--mid)}
+.thumb{display:block;border:1px solid var(--line);border-radius:8px;overflow:hidden;aspect-ratio:16/10;background:var(--s3)}
+.thumb img{width:100%;height:100%;object-fit:cover;object-position:top}
+.thumb.tall{aspect-ratio:3/4}
+@media (max-width:700px){.tl .it{grid-template-columns:1fr}.tiles{gap:4px}.tile b{font-size:12px}.tile span{display:none}}
+/* cartões de fonte */
+.sgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}
+.scard{border:1px solid var(--line);border-radius:var(--r-card);overflow:hidden;background:var(--s2);display:flex;flex-direction:column}
+.scard .thumb{border:0;border-radius:0;border-bottom:1px solid var(--line)}
+.scard .ph{padding:12px 14px 14px;display:grid;gap:6px;flex:1}
+.scard .ph .m{font-size:11.5px;color:var(--low);display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+.scard h4{margin:0;font-size:14.5px;line-height:1.3}
+.scard h4 a{color:var(--txt)}
+.scard p{font-size:13px;color:var(--mid);margin:0}
+.scard .use{font-size:12.5px;color:var(--green);margin-top:auto}
+.noimg{display:flex;align-items:center;justify-content:center;font-size:12px;color:var(--low);height:100%}
+/* governos */
+.ggrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:10px}
+.gcard{border:1px solid var(--line);border-radius:var(--r-card);padding:12px 14px;background:var(--s2)}
+.gcard .c{font-size:12px;color:var(--low)}
+.gcard .d{font-size:20px;font-weight:700;margin:2px 0;color:var(--txt)}
+.gcard .g{font-size:12px;color:var(--mid)}
+/* concorrentes */
+details.comp>summary{display:grid;grid-template-columns:72px 1fr auto;gap:14px;align-items:center}
+details.comp>summary::after{display:none}
+.comp .lp{width:72px;height:96px;border-radius:6px;overflow:hidden;border:1px solid var(--line);background:var(--s3)}
+.comp .lp img{width:100%;height:100%;object-fit:cover;object-position:top}
+.comp .nm{font-size:15px;font-weight:700}
+.comp .ds{font-size:12.5px;color:var(--mid);font-weight:400;margin-top:2px}
+.comp .strip{display:flex;gap:4px}
+.comp .strip img{width:44px;height:56px;object-fit:cover;border-radius:4px;border:1px solid var(--line)}
+@media (max-width:700px){.comp .strip{display:none}details.comp>summary{grid-template-columns:56px 1fr}.comp .lp{width:56px;height:74px}}
+.gsum{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px;margin-bottom:8px}
+.gsum a{display:block;border:1px solid var(--line);border-radius:var(--r-card);padding:12px 14px;color:var(--txt);text-decoration:none;background:var(--s2)}
+.gsum a:hover{border-color:var(--line2);text-decoration:none}
+.gsum b{display:block;font-size:22px}
+.gsum span{font-size:12.5px;color:var(--mid)}
+/* barras horizontais */
+.hbars{display:grid;gap:7px;margin:6px 0}
+.hbars .r{display:grid;grid-template-columns:170px 1fr 70px;gap:10px;align-items:center;font-size:13px}
+.hbars .r .t{height:14px;background:var(--s3);border-radius:4px;overflow:hidden}
+.hbars .r .t i{display:block;height:100%;background:var(--green);border-radius:4px}
+.hbars .r .t i.a{background:var(--amber)}
+.hbars .r .v{text-align:right;font-variant-numeric:tabular-nums;color:var(--mid)}
+@media (max-width:700px){.hbars .r{grid-template-columns:110px 1fr 54px}}
+/* roteiro com miniaturas */
+.steps{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px}
+.step{border:1px solid var(--line);border-radius:var(--r-card);overflow:hidden;background:var(--s2);color:var(--txt);text-decoration:none;display:flex;flex-direction:column}
+.step:hover{border-color:var(--line2);text-decoration:none}
+.step .thumb{border:0;border-radius:0;border-bottom:1px solid var(--line)}
+.step .ph{padding:12px 14px 14px}
+.step .k{font-size:11px;font-weight:700;color:var(--green);letter-spacing:.08em}
+.step h4{margin:3px 0 4px;font-size:16px}
+.step p{font-size:13px;color:var(--mid);margin:0}
+.step.sub{background:var(--s3)}

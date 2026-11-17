@@ -1,0 +1,30 @@
+MAPA DA PESQUISA · Survival e preparação para crises na Europa (16/11/2026)
+==========================================================================
+
+COMO LER: abra index.html (na pasta de cima). O menu da esquerda segue as etapas na ordem.
+
+paginas/                      telas da pesquisa (abrir pelo index.html)
+  etapas.html                 roteiro das 7 etapas
+  etapa-1-noticias.html       E1   notícias, linha do tempo e o que cada governo pede
+  fontes.html                 E1.1 biblioteca de fontes, todas resumidas
+  etapa-2-demanda.html        E2   demanda nos países principais (Trends + TikTok)
+  etapa-2-europa.html         E2.1 momentos na Europa toda (38 países, pico a pico, com a causa)
+  voz-do-publico.html         E3   o que o público diz (7.634 comentários)
+  etapa-4-concorrentes.html   E4   concorrentes e números
+  criativos-por-concorrente.html  E4.1 todos os criativos, separados por concorrente
+  etapa-5-funis.html          E5   VSL minuto a minuto, checkout, quiz, advertoriais
+  etapa-6-cpm.html            E6   CPM, custo por venda e verba de teste por país
+  escolha-oferta.html         E7   escolha da oferta e do país
+
+criativos-por-concorrente/    vídeos e imagens por grupo e concorrente + ficha.txt (comece pelo LEIA-ME.txt)
+fontes/                       fontes.txt (todas as fontes resumidas) e governos-por-pais.txt
+capturas-concorrentes/        prints das páginas de vendas
+dados/                        dados brutos
+  biblioteca/                 anúncios extraídos da Biblioteca da Meta, contagens, alcance na UE
+  criativos-concorrentes/     arquivos originais dos criativos, seleção e transcrições
+  ofertas/                    dossiê de cada página (pagina.json, prints), checkouts, VSLs, quizzes
+    _vsl/transcricoes/        transcrição completa das 5 VSLs
+  organico/                   vídeos do TikTok/YouTube e comentários
+  trends/                     Google Trends (países principais e Europa toda) e momentos-europa.json
+  fontes.json, concorrentes.json, cpm.json, cpm-verba.json, noticias.json, pesquisa.json
+  _scripts/                   scripts usados na coleta (para refazer)

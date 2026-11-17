@@ -1,0 +1,17 @@
+ETAPA 07, CRIATIVOS E TESTE DE TRÁFEGO
+
+Abra o criativos.md aqui do lado: 5 ou mais criativos já vêm com gancho,
+roteiro e o comentário real que originou cada um.
+
+Referências:
+- Tela "Criativos dos concorrentes" (../01-pesquisa/paginas/criativos.html):
+  galeria com os vídeos, anatomia dos vencedores, estilo e ângulos do nicho.
+- Os arquivos dos criativos: ../01-pesquisa/criativos/ (vídeos e imagens).
+- Páginas e checkouts dos concorrentes: ../01-pesquisa/capturas-concorrentes/.
+- O plano de teste e o CPA máximo: tela "Sua oferta", seções "A conta por
+  venda" e "Teste de tráfego".
+
+O que fazer:
+1. Produza os criativos (modele o formato que sobrevive, nunca copie).
+2. Suba o teste exatamente como está na tela "Sua oferta".
+3. Guarde aqui os criativos finais e a copy de cada anúncio.

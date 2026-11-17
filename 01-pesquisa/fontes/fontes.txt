@@ -1,0 +1,381 @@
+BIBLIOTECA DE FONTES
+====================
+63 fontes resumidas (16/11/2026). Confiança: alta = órgão oficial ou grande veículo; média = imprensa menor; baixa = blog ou loja (só para achar a fonte oficial).
+
+[F05] 2026-11-14 · UE/GR · Imprensa · confiança média
+    Por que a UE quer que você estoque 72 h (Protothema)
+    Resumo: Imprensa grega explica as diretrizes da Comissão; mostra que a onda chegou também à Grécia.
+    Como usar: Grécia entra no radar.
+    https://en.protothema.gr/2026/11/14/why-the-eu-wants-citizens-to-stock-up-on-72-hr-supplies-ec-explains-new-emergency-preparedness-guidelines/
+
+[F18] 2026-11-14 · GB · Imprensa · confiança alta
+    Paranoia ou prudência? (Al Jazeera)
+    Resumo: Reportagem sobre a reação britânica ao Be Ready, com acusações de alarmismo.
+    Como usar: Objeções do público britânico.
+    https://aljazeera.com/features/2026/11/14/paranoid-or-practical-britains-be-ready-citizen
+
+[F33] 2026-11-11 · IT · Imprensa · confiança média
+    Kit 72 h: o que preveem UE e Proteção Civil
+    Resumo: Explica a falta de uma lista oficial única italiana.
+    Como usar: Espaço para "a lista que a Itália não deu".
+    https://www.melamorsicata.it/2026/11/11/kit-emergenza-72-ore/
+
+[F42] 2026-11-11 · LT/LV/EE · Imprensa · confiança alta
+    Alertas de abrigo nos Bálticos por drones
+    Resumo: Na noite de 11/11/2026, Lituânia, Letônia e Estônia mandaram a população se abrigar por drones vindos da Rússia ou Belarus; caças da OTAN decolaram; alertas cancelados em horas.
+    Como usar: Gatilho mais recente no Báltico.
+    https://cyprus-mail.com/2026/11/11/nato-jets-scrambled-as-drone-alerts-sweep-baltic-states
+
+[F30] 2026-11-10 · IT · Imprensa · confiança alta
+    AGI: o kit de sobrevivência da UE
+    Resumo: Onda de matérias italianas em 10 e 11/11 sobre o kit de 72 h; o ministro Foti mandou o documento à Câmara.
+    Como usar: Explica o pico italiano de 08 a 11/11.
+    https://www.agi.it/estero/news/2026-11-10/kit-di-sopravvivenza-ue-39965302/
+
+[F31] 2026-11-10 · IT · Imprensa · confiança média
+    Leggo: "vigilantes, não alarmados"
+    Resumo: O que pôr no kit pedido pela UE; frase oficial "preparados, não assustados".
+    Como usar: Tom da comunicação na Itália.
+    https://www.leggo.it/esteri/news/10_novembre_2026_guerra_kit_sopravvivenza_ue_cosa_mettere_dentro-9881180.html
+
+[F06] 2026-11-09 · UE · Imprensa · confiança média
+    Teorias de conspiração sobre o kit de 72 h
+    Resumo: O kit viralizou junto com teorias ("inteligência secreta da UE"); varejistas relatam mais procura, sem números.
+    Como usar: Confirma a objeção "é medo/propaganda" dos comentários.
+    https://en.protothema.gr/2026/11/09/conspiracy-theories-or-secret-eu-intelligence-the-72-hour-survival-kit-alarming-europe/
+
+[F01] 2026-11-03 · UE · Oficial · confiança alta
+    Comissão apresenta diretrizes de preparação da população
+    Resumo: Comunicação C(2026) 8250, apresentada por Hadja Lahbib no Fórum Europeu de Proteção Civil: cada casa deve cobrir as necessidades das primeiras 72 horas (água, comida sem cozimento, remédios, lanterna, pilhas, dinheiro, rádio). Não é lei; cada governo adapta a lista.
+    Como usar: Prova oficial para a página e os anúncios: "a própria UE recomenda".
+    https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-takes-new-steps-prepare-europeans-growing-crisis-risks-2026-11-03_en
+
+[F02] 2026-11-03 · UE · Imprensa · confiança média
+    UE pede autossuficiência de 72 horas
+    Resumo: Resumo da orientação: comida não perecível, remédios, higiene, dinheiro vivo e cerca de 6 litros de água por pessoa.
+    Como usar: Lista base do produto.
+    https://insiderpaper.com/eu-urges-citizens-to-prepare-for-72-hour-self-sufficiency/
+
+[F07] 2026-11-03 · UE · Imprensa · confiança alta
+    Snopes: kits de emergência não indicam ataque
+    Resumo: As campanhas não são novas e não anunciam guerra iminente.
+    Como usar: Base para o tom calmo da oferta.
+    https://www.snopes.com/news/2026/11/03/emergency-preparedness-kits/
+
+[F38] 2026-11-03 · ES · Imprensa · confiança média
+    Kit de 72 h da UE: guia para 27 países sem obrigação
+    Resumo: Cobertura em espanhol da diretriz de 03/11.
+    Como usar: Contexto.
+    https://www.mixvale.com.br/2026/11/03/kit-de-emergencia-72-horas-union-europea-guia-para-27-paises-sin/
+
+[F61] 2026-11-03 · Global · Imprensa · confiança média
+    Ameaças do Irã chegam à Europa (Iran International)
+    Resumo: Porta-voz iraniano fala em geografia de guerra "quase em escala de 3ª Guerra Mundial".
+    Como usar: Contexto.
+    https://www.iranintl.com/en/202611036564
+
+[F13] 2026-11-01 · UE · Imprensa · confiança média
+    A obsessão europeia por bunkers (Defence Journal)
+    Resumo: Mapa dos programas de abrigo nuclear pelo continente.
+    Como usar: Contexto.
+    https://defencejournal.com/2026/11/01/the-fortress-continent-mapping-europes-nuclear-bunker-obsession/
+
+[F32] 2026-11 · IT · Imprensa · confiança média
+    Quanto custa o kit de 72 h (Money.it)
+    Resumo: Estimativa: cerca de 73 euros por pessoa e 120 euros para uma família de quatro.
+    Como usar: Âncora de preço: o guia custa menos que o kit.
+    https://www.money.it/kit-di-emergenza-ue-per-72-ore-quanto-costa-prepararlo-e-come-farlo
+
+[F56] 2026-11 · Nórdicos · Imprensa · confiança média
+    33 países pedem estoque (The Vibes)
+    Resumo: Noruega e Suécia pedem 1 semana; Dinamarca segue com 3 dias.
+    Como usar: Contexto.
+    https://www.thevibes.com/articles/world/129067/thirty-three-countries-urge-households-to-stockpile-essential-supplies-for-emergencies
+
+[F04] 2026-10-30 · UE · Oficial · confiança alta
+    Eurobarômetro sobre proteção civil
+    Resumo: 94% dos europeus apoiam ajuda entre países em desastre e 91% querem ação coordenada mais forte. Não mede quantas casas têm estoque.
+    Como usar: O tema tem apoio público, não é nicho de "preppers".
+    https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/europeans-overwhelmingly-support-stronger-eu-civil-protection-cooperation-new-eurobarometer-shows-2026-10-30_en
+
+[F10] 2026-10-30 · Global · Imprensa · confiança média
+    Governos pedem estoque (GreekReporter)
+    Resumo: Reúne as orientações de vários governos no fim de outubro.
+    Como usar: Contexto.
+    https://greekreporter.com/2026/10/30/household-emergency-supplies-guidance/
+
+[F08] 2026-10-28 · 33 países · Imprensa · confiança média
+    Newsweek: mapa dos países que pedem estoque
+    Resumo: Compilação de 33 países com recomendação de estoque; o gatilho da matéria foi o aviso regional da Normandia (27/10). É compilação da imprensa, não anúncio coordenado.
+    Como usar: Ângulo de anúncio: "33 governos já pediram".
+    https://www.newsweek.com/map-shows-countries-urging-residents-to-stockpile-food-12629524
+
+[F20] 2026-10-27 · GB · Oficial · confiança alta
+    BBC: corrida a enlatados, água e rádios
+    Resumo: Vídeo da BBC com 6,4 milhões de views e 7.700 comentários.
+    Como usar: Maior prova de atenção do tema.
+    https://www.youtube.com/watch?v=MaIFGhaKF_s
+
+[F22] 2026-10-27 · FR · Imprensa · confiança média
+    Normandia: "não espere a emergência, prepare-se agora"
+    Resumo: O governo regional da Normandia pediu kits de 3 dias; foi o gatilho da matéria da Newsweek. O guia nacional Tous responsables (2025) foi atualizado em agosto de 2026.
+    Como usar: Explica o pico francês de 25/10.
+    https://www.newsweek.com/map-shows-countries-urging-residents-to-stockpile-food-12629524
+
+[F15] 2026-10-22 · GB · Oficial · confiança alta
+    Be Ready: famílias devem aguentar 3 dias
+    Resumo: Gabinete do governo lança a primeira fase de uma campanha de 3 anos: água (3 litros por pessoa por dia), comida sem cozimento, dinheiro, rádio a pilha, kit de primeiros socorros, remédios. Diz que não é aviso de crise específica.
+    Como usar: Prova oficial para o RU.
+    https://www.gov.uk/government/news/households-encouraged-to-take-small-simple-steps-to-stay-prepared-in-an-emergency
+
+[F59] 2026-10-19 · Global · Imprensa · confiança alta
+    Comandantes do Irã se preparam para mais guerra (CNN)
+    Resumo: Tensão EUA-Irã em 2026 e ameaça ao Estreito de Ormuz alimentam o medo de guerra maior.
+    Como usar: Gatilho global de "3ª guerra".
+    https://www.cnn.com/2026/10/19/middleeast/iran-us-conflict-warning-intl
+
+[F29] 2026-10-05 · DE · Imprensa · confiança alta
+    Chefe da inteligência alemã fala em risco de conflito
+    Resumo: Sem indício de ataque grande iminente, mas possíveis ações limitadas nos Bálticos e bandeira falsa; generais falam em 2029.
+    Como usar: Base do "não há ataque iminente".
+    https://www.cp24.com/news/world/2026/10/05/germany-at-risk-of-violent-conflict-with-russia-intelligence-chief-says/
+
+[F23] 2026-10-01 · BE · Blog/comercial · confiança baixa
+    Bélgica: campanha Prêts. Ensemble / Samen voorbereid
+    Resumo: Campanha de 4 anos do Centro Nacional de Crise desde a primavera de 2026; guia prático de 01/10/2026 em 4 idiomas, 72 h.
+    Como usar: País bilíngue: dá para vender em francês e holandês.
+    https://phaenyx.com/compare/preparedness-campaigns
+
+[F16] 2026-10 · GB · Imprensa · confiança média
+    Vendas disparam depois do Be Ready
+    Resumo: Água engarrafada +67%, enlatados +37%, álcool gel +83% em cerca de 10 dias; Maplin diz que vendas de lanterna subiram 284%.
+    Como usar: Prova de que o público COMPRA, não só lê.
+    https://www.newsbeep.com/787002/
+
+[F17] 2026-10 · GB · Imprensa · confiança média
+    Papel higiênico e rádios esgotam (GB News / LBC)
+    Resumo: Rádios a manivela, lanternas e power banks esgotando; lanternas quase quadruplicaram em 3 dias.
+    Como usar: Ângulo de escassez real.
+    https://www.lbc.co.uk/article/baked-beans-water-batteries-supermarket-shelves-stockpile-5HjdkWk_2/
+
+[F19] 2026-10 · GB · Imprensa · confiança média
+    O que tem no checklist do Be Ready (Radio X)
+    Resumo: Lista completa do governo item a item.
+    Como usar: Checklist base do produto em inglês.
+    https://www.radiox.co.uk/news/uk-world/what-is-in-the-be-ready-checklist-as-britons/
+
+[F45] 2026-09/10 · LT · Imprensa · confiança média
+    Rússia ameaça a Lituânia
+    Resumo: Rússia advertiu a Lituânia contra armas nucleares no país; coluna ligada ao Kremlin falou em "blitzkrieg" e foi apagada.
+    Como usar: Origem do vídeo que motivou a pesquisa.
+    https://www.ynetnews.com/article/ryvv2krqgx
+
+[F40] 2026-09-25 · PL · Imprensa · confiança alta
+    Polônia lança guia contra ataques aéreos
+    Resumo: Guia de 12 páginas do Ministério do Interior: rota para abrigo, regra das duas paredes, mochila de evacuação. Complementa o manual de 2025 enviado a 17 milhões de casas. 85 mil abrigos para 64% da população.
+    Como usar: Explica o pico polonês de set/2026.
+    https://notesfrompoland.com/2026/09/25/poland-issues-guidance-on-responding-to-air-attacks-and-warns-of-russia-threat/
+
+[F34] 2026-09-24 · ES/FR/IT · Imprensa · confiança alta
+    Alerta da CIA sobre drones no sul da Europa
+    Resumo: El Mundo noticiou o alerta; Macron e o ministro italiano negaram.
+    Como usar: Contexto do sul.
+    https://www.euronews.com/2026/09/24/what-we-know-about-cia-warning-of-russian-drone-threat-to-southern-europe
+
+[F41] 2026-09-24 · PL · Imprensa · confiança média
+    Polônia prepara a população para a guerra (Spotmedia)
+    Resumo: Detalhes do guia de evacuação.
+    Como usar: Contexto.
+    https://spotmedia.ro/en/news/news/poland-prepares-the-population-for-war-official-guide-for-air-attacks-and-evacuation
+
+[F51] 2026-09-24 · RO/MD · Imprensa · confiança alta
+    Drones entram na Moldávia e na Romênia
+    Resumo: Moldávia contou 4 incursões no ataque de 24/09; 39 em 8 meses (17 em 2025). Romênia confirmou queda de drone.
+    Como usar: Leste com medo real e sem campanha nacional.
+    https://euromaidanpress.com/2026/09/24/drones-moldova-romania-poland-jets-russian-attack/
+
+[F09] 2026-09-22 · UE · Imprensa · confiança média
+    O que cada país da UE manda estocar (LADbible)
+    Resumo: Lista de recomendações por país em tom de "medo da 3ª guerra".
+    Como usar: Mostra o tom sensacionalista a evitar.
+    https://www.ladbible.com/news/world-news/eu-countries-stockpiling-advice-conflict-power-outage-weather-349905-20260922
+
+[F52] 2026-09-10 · RO · Imprensa · confiança alta
+    Drone russo atravessa a Romênia (Stars and Stripes)
+    Resumo: Drone voou fundo na Romênia antes de cair na Moldávia; Romênia soma pelo menos 28 incursões desde 2022.
+    Como usar: Contexto Romênia.
+    https://www.stripes.com/theaters/europe/2026-09-10/nato-romania-russian-drone-threat-22807183.html
+
+[F58] 2026-08-26 · Global · Imprensa · confiança média
+    Guerra do Irã: dia 180 (GlobalSecurity)
+    Resumo: Balanço de seis meses do conflito.
+    Como usar: Linha do tempo.
+    https://www.globalsecurity.org/military/ops/iran-war-20260826.htm
+
+[F12] 2026-06-02 · UE · Imprensa · confiança alta
+    Como as incursões de drones viraram rotina (Euronews)
+    Resumo: Explica a escalada de drones sobre países da OTAN desde 2025.
+    Como usar: Contexto do medo no Leste.
+    https://www.euronews.com/2026/06/02/explained-how-drone-incursions-in-europe-went-from-rarity-to-reality
+
+[F48] 2026-05-29 · RO · Imprensa · confiança alta
+    Drone russo atinge prédio em Galați (Cyprus Mail)
+    Resumo: Dois feridos; moradores de Galați, Brăila e Tulcea recebem RO-Alert para se abrigar. Em 23/12/2025 e 25/04/2026 houve alertas e evacuação na mesma região.
+    Como usar: Explica os picos romenos.
+    https://cyprus-mail.com/2026/05/29/war-spillover-fears-grow-after-russian-drone-hits-romanian-residential-building-injuring-two
+
+[F27] 2026-05-22 · DE · Oficial · confiança alta
+    Alemanha aprova Pacto de Proteção da População
+    Resumo: 10 bilhões de euros até 2029; sem novos bunkers (adaptar porões, metrô e garagens). O BBK recomenda estoque de 3 e de 10 dias.
+    Como usar: Prova oficial para a Alemanha.
+    https://www.bbk.bund.de/SharedDocs/Kurzmeldungen/DE/2026/05/om-22-pakt-bevoelkerungsschutz.html
+
+[F47] 2026-05-21 · LV · Imprensa · confiança alta
+    Letônia avisa moradores sobre drone (Euronews)
+    Resumo: Alerta em três municípios do leste; a crise dos drones derrubou o governo em 14/05/2026. Em 14/08 a OTAN derrubou um drone sobre Balvi; em 01/09 houve ordem de abrigo nas fronteiras da Letônia e da Estônia.
+    Como usar: Explica os picos letões de 2026.
+    https://euronews.com/my-europe/2026/05/21/latvia-issues-warning-to-residents-after-detecting-unmanned-aerial-vehicle-in-its-airspace
+
+[F60] 2026-05-18 · Global · Imprensa · confiança alta
+    Choque do petróleo do Irã pode esvaziar estoques até 2027 (CNBC)
+    Resumo: Analistas avisam de falta de petróleo na Europa em semanas.
+    Como usar: Ângulo custo de vida e falta.
+    https://www.cnbc.com/2026/05/18/europe-oil-shortage-iran-war-price-shock-inventory-strait-hormuz.html
+
+[F50] 2026-05-13 · PL · Imprensa · confiança média
+    Polônia em alerta com ataque de 800 drones (Polskie Radio)
+    Resumo: Primeiro grande ataque russo depois do cessar-fogo; caças e defesa antiaérea acionados. Em 16/09/2026 a Polônia fechou os aeroportos de Lublin e Rzeszów.
+    Como usar: Explica os picos poloneses de 2026.
+    https://www.polskieradio.pl/395/9766/artykul/3722035,poland-scrambles-fighter-jets-as-russia-rains-missiles-drones-on-ukraine
+
+[F43] 2026-03-25 · LV/EE · Imprensa · confiança alta
+    Drones caem na Letônia e na Estônia
+    Resumo: Primeira série de incidentes (Lituânia 23/03, Letônia e Estônia 25/03); levou à queda do governo letão.
+    Como usar: Explica o pico báltico de março.
+    https://www.aljazeera.com/amp/news/2026/3/25/estonia-latvia-report-drone-incursions-from-russian-airspace
+
+[F11] 2026-03-12 · UE · Imprensa · confiança alta
+    Abrigos civis da Europa estão em ruínas (Euronews)
+    Resumo: A rede de abrigos públicos é velha e Bruxelas tem pouca competência sobre isso.
+    Como usar: Ângulo "o abrigo é a sua casa".
+    https://www.euronews.com/2026/03/12/europes-civil-shelters-are-crumbling-brussels-cant-do-much-about-it
+
+[F49] 2026-03-10 · BG · Imprensa · confiança alta
+    Bulgária: só 18 dos 247 abrigos estão prontos (BTA)
+    Resumo: Mapa oficial mostra 247 abrigos para 60 mil pessoas, mas só 18 em condição de uso; cidades e bairros de Sófia sem abrigo. Veio depois da guerra do Irã (28/02).
+    Como usar: Explica o pico búlgaro de fev/mar 2026.
+    https://www.bta.bg/en/news/bulgaria/1118599-map-shows-247-bomb-shelters-in-bulgaria-18-of-them-functional
+
+[F46] 2026-03-05 · EE/LV/FI · Oficial · confiança alta
+    Novos folhetos de preparação (rede de proteção civil da UE)
+    Resumo: Estônia (estoque, alerta, abrigo, ciber), Letônia (72 h) e Finlândia (72 h em casa) publicaram folhetos em 05/03/2026.
+    Como usar: Bálticos e Finlândia já têm guia oficial grátis.
+    https://civil-protection-knowledge-network.europa.eu/list-of-terms/guidelines-and-manuals?page=0
+
+[F57] 2026-02-28 · Global · Imprensa · confiança média
+    Começa a guerra EUA/Israel x Irã
+    Resumo: Ataques coordenados de EUA e Israel ao Irã em 28/02/2026; o Irã fecha na prática o Estreito de Ormuz em 02/03; cessar-fogo de duas semanas no começo de abril e novos combates no verão.
+    Como usar: Explica o pico de "3ª guerra" de março de 2026 em toda a Europa.
+    https://www.goodmorningamerica.com/news/story/4-phases-iran-war-key-moments-start-epic-132703824
+
+[F24] 2026-02 · NL · Imprensa · confiança alta
+    Metade das casas holandesas já tem kit de emergência
+    Resumo: Pesquisa da RTL: 50% têm ou estão montando um noodpakket, contra 15% em 2024, depois da campanha "Denk vooruit" do fim de 2025.
+    Como usar: Mercado holandês já foi atendido; menos espaço.
+    https://www.dutchnews.nl/2026/02/half-dutch-households-now-have-an-emergency-kit-at-home/
+
+[F55] 2026-01 · SE · Oficial · confiança alta
+    Suécia: folheto de preparação para empresas
+    Resumo: A MSB publicou em janeiro de 2026 a versão para empresas.
+    Como usar: Contexto.
+    https://rib.msb.se/filer/pdf/31178.pdf
+
+[F14] 2026 · UE · Blog/comercial · confiança baixa
+    Comparativo de campanhas em 67 países (Phaenyx)
+    Resumo: Tabela de campanhas e dias recomendados por país; Bélgica (guia 01/10/2026), Tchéquia (5,2 mi de manuais em nov/2025), Áustria (14 dias).
+    Como usar: Usar só para achar a fonte oficial.
+    https://phaenyx.com/compare/preparedness-campaigns
+
+[F21] 2026 · IE · Blog/comercial · confiança baixa
+    Irlanda: livreto Be Emergency Ready
+    Resumo: Livreto do Office of Emergency Planning; fontes divergem se pede 72 h e se foi enviado às 2,1 mi de casas.
+    Como usar: Confirmar no gov.ie antes de usar.
+    https://irelandvoice.com/blog/emergency-preparation-booklet-ireland/
+
+[F25] 2026 · CH · Imprensa · confiança média
+    Suíça: Notvorrat e 360 mil abrigos
+    Resumo: Folheto federal pede 1 semana de comida e 9 litros de água; o país tem abrigo para quase toda a população.
+    Como usar: Público já preparado; pouca dor.
+    https://switzerlandhandbook.com/emergency-preparedness-sirens-sirenentest-and-nuclear-bunkers/
+
+[F26] 2026 · DACH · Blog/comercial · confiança baixa
+    Proteção civil em Alemanha, Suíça e Áustria
+    Resumo: Áustria recomenda 14 dias; teste de 8.300 sirenes em outubro de 2026 (não confirmado).
+    Como usar: Confirmar no ministério austríaco.
+    https://www.swiss.market/journal/de/zivilschutz-deutschland-schweiz-oesterreich
+
+[F28] 2026 · DE · Imprensa · confiança média
+    "Não é guerra, mas também não é mais paz" (Nordkurier)
+    Resumo: Abrigos públicos cobrem menos de 1% da população e não estão prontos; 1,3 bi de euros para proteção civil em 2026.
+    Como usar: Dor alemã: não há abrigo.
+    https://www.nordkurier.de/politik/kein-krieg-aber-auch-kein-frieden-mehr-mehr-anschlaege-nicht-komplett-unrealistisch-4404723
+
+[F39] 2026 · ES · Blog/comercial · confiança baixa
+    Kit72h: 21 kits para DANA, apagão e carro
+    Resumo: Loja espanhola nova de kits; mostra concorrência física crescendo.
+    Como usar: Concorrente físico.
+    https://kit72h.com/
+
+[F44] 2026 · LT/LV/EE · Imprensa · confiança média
+    Incursões de drones ucranianos nos Bálticos (Wikipedia)
+    Resumo: Linha do tempo dos incidentes de 2026.
+    Como usar: Linha do tempo.
+    https://en.wikipedia.org/wiki/2026_Ukrainian_drone_incursions_into_the_Baltic_states
+
+[F62] 2026 · Global · Dado de mercado · confiança baixa
+    Mercado de kits de sobrevivência
+    Resumo: Estimativas de 2026 variam de US$ 2,15 bi a 8,7 bi no mundo, com a Europa em cerca de 24%; comida de emergência na Europa em US$ 1,82 bi (2026). Métodos não divulgados.
+    Como usar: Só como ordem de grandeza.
+    https://growthmarketreports.com/report/survival-kit-market
+
+[F63] 2026 · Europa · Dado de mercado · confiança baixa
+    Mercado europeu de comida de emergência
+    Resumo: US$ 1,82 bi em 2026, segundo a MarkWide.
+    Como usar: Ordem de grandeza.
+    https://markwideresearch.com/europe-emergency-food-market
+
+[F53] 2025-11 · CZ · Blog/comercial · confiança baixa
+    Tchéquia: manual "72 hodin" em 5,2 milhões de casas
+    Resumo: Campanha do Ministério do Interior com manual enviado em novembro de 2025.
+    Como usar: Confirmar em 72h.gov.cz.
+    https://phaenyx.com/compare/preparedness-campaigns
+
+[F35] 2025-05 · ES · Imprensa · confiança média
+    Espanha: plano familiar de emergência com kit de 72 h
+    Resumo: A Proteção Civil publicou em maio de 2025 o modelo de plano familiar; a Catalunha tem guia próprio (1,5 a 3 litros por pessoa por dia).
+    Como usar: Prova oficial para a Espanha.
+    https://selectra.es/alarmas/noticias/kit-emergencia-2026-casa-72-horas
+
+[F37] 2025-04-28 · ES/PT · Imprensa · confiança média
+    Depois do apagão, a UE reforça o kit de 72 h
+    Resumo: O apagão ibérico de 28/04/2025 deixou Espanha e Portugal sem luz; o kit voltou ao debate.
+    Como usar: Explica o pico ibérico de abril de 2025.
+    https://www.canal26.com/internacionales/tras-el-apagon-en-espana-ue-reivindica-el-kit-de-supervivencia-de-72-horas-que-debe-tener--421427
+
+[F36] 2025-04-01 · ES · Imprensa · confiança alta
+    Bunkers privados sobem 200% na Espanha
+    Resumo: Construção de bunkers privados triplicou com o medo de guerra.
+    Como usar: Dor e disposição de gastar.
+    https://www.euronews.com/2025/04/01/construction-of-private-bunkers-in-spain-rises-200-as-fears-of-war-in-europe-grow
+
+[F03] 2025-03-26 · UE · Imprensa · confiança alta
+    Estratégia Preparedness Union (origem das 72 h)
+    Resumo: Em março de 2025 a UE lançou a estratégia que pediu às famílias estoque de pelo menos 72 horas; foi o primeiro grande pico de buscas na Europa.
+    Como usar: Explica o pico de março de 2025 no Trends.
+    https://www.cnn.com/2025/03/26/europe/european-union-stockpile-member-states-intl-latam
+
+[F54] 2024-11 · SE/NO/DK/FI · Imprensa · confiança alta
+    Nórdicos distribuem folhetos de guerra
+    Resumo: Suécia (Om krisen eller kriget kommer, 5,2 mi de casas, 1 semana), Noruega (1 semana desde maio/2024, 2,2 mi de cópias), Dinamarca (3 dias, 9 litros de água, junho/2024), Finlândia (72 h).
+    Como usar: Explica o pico nórdico de nov/2024.
+    https://theconversation.com/keep-nine-litres-of-water-in-storage-how-baltic-and-nordic-countries-are-preparing-for-a-crisis-or-war-244783

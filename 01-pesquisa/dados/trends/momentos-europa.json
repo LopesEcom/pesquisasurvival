@@ -1,0 +1,4699 @@
+{
+ "gerado_em": "2026-11-16",
+ "metodo": "Google Trends, tópicos que independem de idioma (Survival kit, Survivalism, Bomb shelter, Emergency management = \"preparação\"; World War III = \"medo de guerra\"), 5 anos semanal e 90 dias diário por país. Pico = semana que é a maior da vizinhança de 4 semanas e passa de 30% do máximo do país. Índice 0 a 100 é relativo dentro de cada país.",
+ "paises": [
+  {
+   "situacao": "em alta agora",
+   "pais": "GB",
+   "nome": "Reino Unido",
+   "idioma": "inglês",
+   "pop_mi": 69,
+   "volume_baixo": false,
+   "momento_12s": 3.9,
+   "ult4": [
+    14,
+    10,
+    9,
+    10
+   ],
+   "pico_5a": "2026-10-25",
+   "picos": [
+    {
+     "semana": "2022-02-27",
+     "indice": 71,
+     "causa": "Invasão russa da Ucrânia",
+     "data_causa": "2022-02-24"
+    },
+    {
+     "semana": "2024-05-19",
+     "indice": 50,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2025-04-06",
+     "indice": 43,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2025-06-22",
+     "indice": 50,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)",
+     "data_causa": "2025-06-22"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 50,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)",
+     "data_causa": "2026-03-01"
+    },
+    {
+     "semana": "2026-10-25",
+     "indice": 100,
+     "causa": "Be Ready no Reino Unido (3 dias)",
+     "data_causa": "2026-10-22"
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-22",
+     "indice": 53,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 62,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-10-23",
+    "causa": "Be Ready no Reino Unido (3 dias)"
+   },
+   "ultimos7_vs_pico90": 36,
+   "em_alta_agora": true
+  },
+  {
+   "situacao": "em alta agora",
+   "pais": "IE",
+   "nome": "Irlanda",
+   "idioma": "inglês",
+   "pop_mi": 5.3,
+   "volume_baixo": true,
+   "momento_12s": null,
+   "ult4": [
+    7,
+    11,
+    16,
+    10
+   ],
+   "pico_5a": "2026-11-08",
+   "picos": [
+    {
+     "semana": "2025-03-23",
+     "indice": 69,
+     "causa": "UE lança a estratégia de 72 horas (Preparedness Union)",
+     "data_causa": "2025-03-26"
+    },
+    {
+     "semana": "2025-04-27",
+     "indice": 38,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2026-11-08",
+     "indice": 100,
+     "causa": "Comissão Europeia publica diretrizes de 72 h",
+     "data_causa": "2026-11-03"
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-15",
+     "indice": 40,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 56,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-11-13",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 36,
+   "em_alta_agora": true
+  },
+  {
+   "situacao": "em alta agora",
+   "pais": "DE",
+   "nome": "Alemanha",
+   "idioma": "alemão",
+   "pop_mi": 84,
+   "volume_baixo": false,
+   "momento_12s": 1.1,
+   "ult4": [
+    5,
+    5,
+    5,
+    4
+   ],
+   "pico_5a": "2022-02-27",
+   "picos": [
+    {
+     "semana": "2022-02-27",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia",
+     "data_causa": "2022-02-24"
+    },
+    {
+     "semana": "2022-09-04",
+     "indice": 50,
+     "causa": "Crise do gás e medo de apagão no inverno",
+     "data_causa": "2022-09-01"
+    },
+    {
+     "semana": "2022-10-09",
+     "indice": 57,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2022-12-04",
+     "indice": 71,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2026-01-04",
+     "indice": 79,
+     "causa": "Apagão em Berlim após incêndio criminoso em cabos",
+     "data_causa": "2026-01-04"
+    },
+    {
+     "semana": "2026-05-17",
+     "indice": 64,
+     "causa": "Alemanha aprova pacto de proteção civil de 10 bi €",
+     "data_causa": "2026-05-22"
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2022-04-24",
+     "indice": 36,
+     "causa": null
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 52,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-09-20",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 38,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "volume baixo",
+   "pais": "AT",
+   "nome": "Áustria",
+   "idioma": "alemão",
+   "pop_mi": 9.2,
+   "volume_baixo": true,
+   "momento_12s": 1.0,
+   "ult4": [
+    0,
+    2,
+    3,
+    1
+   ],
+   "pico_5a": "2024-09-15",
+   "picos": [
+    {
+     "semana": "2022-02-27",
+     "indice": 64,
+     "causa": "Invasão russa da Ucrânia",
+     "data_causa": "2022-02-24"
+    },
+    {
+     "semana": "2023-07-30",
+     "indice": 36,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2024-09-15",
+     "indice": 100,
+     "causa": "Tempestade Boris e enchentes na Europa Central",
+     "data_causa": "2024-09-15"
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 64,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-09-05",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 16,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "em alta agora",
+   "pais": "CH",
+   "nome": "Suíça",
+   "idioma": "alemão/francês/italiano",
+   "pop_mi": 8.9,
+   "volume_baixo": true,
+   "momento_12s": 2.0,
+   "ult4": [
+    5,
+    8,
+    12,
+    6
+   ],
+   "pico_5a": "2022-03-27",
+   "picos": [
+    {
+     "semana": "2022-03-27",
+     "indice": 100,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2025-03-23",
+     "indice": 48,
+     "causa": "UE lança a estratégia de 72 horas (Preparedness Union)",
+     "data_causa": "2025-03-26"
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2022-04-24",
+     "indice": 35,
+     "causa": null
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 89,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-11-11",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 46,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "em alta agora",
+   "pais": "FR",
+   "nome": "França",
+   "idioma": "francês",
+   "pop_mi": 68,
+   "volume_baixo": false,
+   "momento_12s": 2.1,
+   "ult4": [
+    55,
+    53,
+    36,
+    30
+   ],
+   "pico_5a": "2025-03-16",
+   "picos": [
+    {
+     "semana": "2025-03-16",
+     "indice": 100,
+     "causa": "França anuncia guia de sobrevivência para todas as casas",
+     "data_causa": "2025-03-19"
+    },
+    {
+     "semana": "2025-11-16",
+     "indice": 91,
+     "causa": "Guia \"Tous responsables\" do governo francês",
+     "data_causa": "2025-11-20"
+    },
+    {
+     "semana": "2026-10-25",
+     "indice": 52,
+     "causa": "Normandia pede kit de 3 dias; Newsweek \"33 países\"",
+     "data_causa": "2026-10-27"
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 82,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2022-08-28",
+     "indice": 92,
+     "causa": null
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 77,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-10-31",
+    "causa": "Normandia pede kit de 3 dias; Newsweek \"33 países\""
+   },
+   "ultimos7_vs_pico90": 34,
+   "em_alta_agora": true
+  },
+  {
+   "situacao": "em alta agora",
+   "pais": "BE",
+   "nome": "Bélgica",
+   "idioma": "francês/holandês",
+   "pop_mi": 11.8,
+   "volume_baixo": false,
+   "momento_12s": 1.8,
+   "ult4": [
+    6,
+    6,
+    15,
+    6
+   ],
+   "pico_5a": "2026-04-19",
+   "picos": [
+    {
+     "semana": "2024-12-15",
+     "indice": 30,
+     "causa": "Holanda prepara campanha nacional de noodpakket",
+     "data_causa": "2024-12-08"
+    },
+    {
+     "semana": "2025-03-23",
+     "indice": 42,
+     "causa": "UE lança a estratégia de 72 horas (Preparedness Union)",
+     "data_causa": "2025-03-26"
+    },
+    {
+     "semana": "2026-04-19",
+     "indice": 100,
+     "causa": "Bélgica lança \"Prêts. Ensemble / Samen voorbereid\"",
+     "data_causa": "2026-04-15"
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 28,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2022-04-24",
+     "indice": 11,
+     "causa": null
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 21,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-11-11",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 50,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "subiu e esfriou",
+   "pais": "NL",
+   "nome": "Holanda",
+   "idioma": "holandês",
+   "pop_mi": 18,
+   "volume_baixo": false,
+   "momento_12s": 1.8,
+   "ult4": [
+    18,
+    9,
+    14,
+    10
+   ],
+   "pico_5a": "2025-11-16",
+   "picos": [
+    {
+     "semana": "2024-12-08",
+     "indice": 60,
+     "causa": "Holanda prepara campanha nacional de noodpakket",
+     "data_causa": "2024-12-08"
+    },
+    {
+     "semana": "2025-03-02",
+     "indice": 44,
+     "causa": "Plano ReArm Europe e debate de rearmamento",
+     "data_causa": "2025-03-04"
+    },
+    {
+     "semana": "2025-11-16",
+     "indice": 100,
+     "causa": "Campanha \"Denk vooruit\" (noodpakket)",
+     "data_causa": "2025-11-16"
+    },
+    {
+     "semana": "2026-04-19",
+     "indice": 34,
+     "causa": null,
+     "data_causa": null
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 34,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 15,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-10-27",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 17,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "volume baixo",
+   "pais": "LU",
+   "nome": "Luxemburgo",
+   "idioma": "francês/alemão",
+   "pop_mi": 0.7,
+   "volume_baixo": true,
+   "momento_12s": null,
+   "ult4": [
+    0,
+    23,
+    27,
+    22
+   ],
+   "pico_5a": "2026-11-08",
+   "picos": [
+    {
+     "semana": "2024-01-14",
+     "indice": 74,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2026-11-08",
+     "indice": 100,
+     "causa": "Comissão Europeia publica diretrizes de 72 h",
+     "data_causa": "2026-11-03"
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-22",
+     "indice": 45,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 57,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-09-29",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 14,
+   "em_alta_agora": true
+  },
+  {
+   "situacao": "em alta agora",
+   "pais": "ES",
+   "nome": "Espanha",
+   "idioma": "espanhol",
+   "pop_mi": 48,
+   "volume_baixo": false,
+   "momento_12s": 1.8,
+   "ult4": [
+    4,
+    9,
+    12,
+    16
+   ],
+   "pico_5a": "2025-04-27",
+   "picos": [
+    {
+     "semana": "2025-03-23",
+     "indice": 81,
+     "causa": "UE lança a estratégia de 72 horas (Preparedness Union)",
+     "data_causa": "2025-03-26"
+    },
+    {
+     "semana": "2025-04-27",
+     "indice": 100,
+     "causa": "Apagão ibérico (Espanha e Portugal sem luz)",
+     "data_causa": "2025-04-28"
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-22",
+     "indice": 59,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 61,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-11-15",
+    "causa": "Onda de matérias sobre o kit da UE (Itália, Grécia, Espanha)"
+   },
+   "ultimos7_vs_pico90": 60,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "volume baixo",
+   "pais": "PT",
+   "nome": "Portugal",
+   "idioma": "português",
+   "pop_mi": 10.4,
+   "volume_baixo": true,
+   "momento_12s": null,
+   "ult4": [
+    0,
+    4,
+    5,
+    2
+   ],
+   "pico_5a": "2025-04-27",
+   "picos": [
+    {
+     "semana": "2025-03-23",
+     "indice": 55,
+     "causa": "UE lança a estratégia de 72 horas (Preparedness Union)",
+     "data_causa": "2025-03-26"
+    },
+    {
+     "semana": "2025-04-27",
+     "indice": 100,
+     "causa": "Apagão ibérico (Espanha e Portugal sem luz)",
+     "data_causa": "2025-04-28"
+    },
+    {
+     "semana": "2026-02-01",
+     "indice": 35,
+     "causa": null,
+     "data_causa": null
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-22",
+     "indice": 34,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 45,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-09-05",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 26,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "em alta agora",
+   "pais": "IT",
+   "nome": "Itália",
+   "idioma": "italiano",
+   "pop_mi": 59,
+   "volume_baixo": false,
+   "momento_12s": 6.1,
+   "ult4": [
+    1,
+    1,
+    18,
+    9
+   ],
+   "pico_5a": "2025-03-23",
+   "picos": [
+    {
+     "semana": "2025-03-23",
+     "indice": 100,
+     "causa": "UE lança a estratégia de 72 horas (Preparedness Union)",
+     "data_causa": "2025-03-26"
+    },
+    {
+     "semana": "2026-11-08",
+     "indice": 72,
+     "causa": "Onda de matérias sobre o kit da UE (Itália, Grécia, Espanha)",
+     "data_causa": "2026-11-10"
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 30,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-11-11",
+    "causa": "Onda de matérias sobre o kit da UE (Itália, Grécia, Espanha)"
+   },
+   "ultimos7_vs_pico90": 49,
+   "em_alta_agora": true
+  },
+  {
+   "situacao": "volume baixo",
+   "pais": "MT",
+   "nome": "Malta",
+   "idioma": "inglês",
+   "pop_mi": 0.5,
+   "volume_baixo": true,
+   "momento_12s": null,
+   "ult4": [
+    0,
+    2,
+    3,
+    0
+   ],
+   "pico_5a": "2026-09-27",
+   "picos": [
+    {
+     "semana": "2025-09-28",
+     "indice": 86,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2026-09-27",
+     "indice": 100,
+     "causa": null,
+     "data_causa": null
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-22",
+     "indice": 41,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 69,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-09-16",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 0,
+   "em_alta_agora": true
+  },
+  {
+   "situacao": "em alta agora",
+   "pais": "GR",
+   "nome": "Grécia",
+   "idioma": "grego",
+   "pop_mi": 10.4,
+   "volume_baixo": true,
+   "momento_12s": 2.5,
+   "ult4": [
+    3,
+    5,
+    6,
+    5
+   ],
+   "pico_5a": "2025-03-02",
+   "picos": [
+    {
+     "semana": "2025-03-02",
+     "indice": 100,
+     "causa": "Plano ReArm Europe e debate de rearmamento",
+     "data_causa": "2025-03-04"
+    },
+    {
+     "semana": "2025-08-24",
+     "indice": 35,
+     "causa": null,
+     "data_causa": null
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-27",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-15",
+     "indice": 71,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 89,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-10-20",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 37,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "volume baixo",
+   "pais": "CY",
+   "nome": "Chipre",
+   "idioma": "grego",
+   "pop_mi": 1.3,
+   "volume_baixo": true,
+   "momento_12s": 0.9,
+   "ult4": [
+    0,
+    4,
+    5,
+    0
+   ],
+   "pico_5a": "2026-03-01",
+   "picos": [
+    {
+     "semana": "2023-12-17",
+     "indice": 30,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2024-09-22",
+     "indice": 36,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2025-03-02",
+     "indice": 39,
+     "causa": "Plano ReArm Europe e debate de rearmamento",
+     "data_causa": "2025-03-04"
+    },
+    {
+     "semana": "2026-01-25",
+     "indice": 30,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 100,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)",
+     "data_causa": "2026-03-01"
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-15",
+     "indice": 80,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 97,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": null,
+   "ultimos7_vs_pico90": null,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "subiu e esfriou",
+   "pais": "PL",
+   "nome": "Polônia",
+   "idioma": "polonês",
+   "pop_mi": 37,
+   "volume_baixo": false,
+   "momento_12s": 1.5,
+   "ult4": [
+    29,
+    22,
+    25,
+    21
+   ],
+   "pico_5a": "2026-09-06",
+   "picos": [
+    {
+     "semana": "2022-02-27",
+     "indice": 87,
+     "causa": "Invasão russa da Ucrânia",
+     "data_causa": "2022-02-24"
+    },
+    {
+     "semana": "2024-09-15",
+     "indice": 66,
+     "causa": "Tempestade Boris e enchentes na Europa Central",
+     "data_causa": "2024-09-15"
+    },
+    {
+     "semana": "2026-04-05",
+     "indice": 71,
+     "causa": "Polônia decola caças com ataque russo à Ucrânia",
+     "data_causa": "2026-04-03"
+    },
+    {
+     "semana": "2026-05-31",
+     "indice": 69,
+     "causa": "Ataque russo com 800 drones após cessar-fogo; Polônia em alerta",
+     "data_causa": "2026-05-13"
+    },
+    {
+     "semana": "2026-07-05",
+     "indice": 49,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2026-09-06",
+     "indice": 100,
+     "causa": "Drones russos na Romênia e na Moldávia",
+     "data_causa": "2026-09-10"
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-15",
+     "indice": 40,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 77,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-09-08",
+    "causa": "Drones russos na Romênia e na Moldávia"
+   },
+   "ultimos7_vs_pico90": 10,
+   "em_alta_agora": true
+  },
+  {
+   "situacao": "volume baixo",
+   "pais": "CZ",
+   "nome": "Tchéquia",
+   "idioma": "tcheco",
+   "pop_mi": 10.9,
+   "volume_baixo": true,
+   "momento_12s": null,
+   "ult4": [
+    0,
+    2,
+    2,
+    2
+   ],
+   "pico_5a": "2022-02-27",
+   "picos": [
+    {
+     "semana": "2022-02-27",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia",
+     "data_causa": "2022-02-24"
+    },
+    {
+     "semana": "2024-10-13",
+     "indice": 33,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2025-04-27",
+     "indice": 33,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2025-12-07",
+     "indice": 50,
+     "causa": "Manual \"72 hodin\" enviado a 5,2 mi de casas",
+     "data_causa": "2025-11-25"
+    },
+    {
+     "semana": "2026-02-22",
+     "indice": 42,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)",
+     "data_causa": "2026-03-01"
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 45,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-09-06",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 6,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "volume baixo",
+   "pais": "SK",
+   "nome": "Eslováquia",
+   "idioma": "eslovaco",
+   "pop_mi": 5.4,
+   "volume_baixo": true,
+   "momento_12s": null,
+   "ult4": [
+    0,
+    2,
+    2,
+    0
+   ],
+   "pico_5a": "2022-02-27",
+   "picos": [
+    {
+     "semana": "2021-11-14",
+     "indice": 60,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2022-02-27",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia",
+     "data_causa": "2022-02-24"
+    },
+    {
+     "semana": "2022-11-13",
+     "indice": 60,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2024-06-02",
+     "indice": 60,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2025-08-17",
+     "indice": 70,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2025-12-28",
+     "indice": 60,
+     "causa": null,
+     "data_causa": null
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2024-11-17",
+     "indice": 50,
+     "causa": "Rússia muda a doutrina nuclear"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 61,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-11-01",
+    "causa": "Comissão Europeia publica diretrizes de 72 h"
+   },
+   "ultimos7_vs_pico90": 2,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "subiu em 2026",
+   "pais": "HU",
+   "nome": "Hungria",
+   "idioma": "húngaro",
+   "pop_mi": 9.6,
+   "volume_baixo": false,
+   "momento_12s": 2.1,
+   "ult4": [
+    5,
+    7,
+    6,
+    8
+   ],
+   "pico_5a": "2025-03-30",
+   "picos": [
+    {
+     "semana": "2023-05-21",
+     "indice": 69,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2025-03-30",
+     "indice": 100,
+     "causa": "UE lança a estratégia de 72 horas (Preparedness Union)",
+     "data_causa": "2025-03-26"
+    },
+    {
+     "semana": "2025-11-16",
+     "indice": 62,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2026-01-04",
+     "indice": 62,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2026-02-15",
+     "indice": 69,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)",
+     "data_causa": "2026-03-01"
+    },
+    {
+     "semana": "2026-05-31",
+     "indice": 77,
+     "causa": null,
+     "data_causa": null
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 64,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2023-11-19",
+     "indice": 100,
+     "causa": null
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 38,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-08-22",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 30,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "volume baixo",
+   "pais": "RO",
+   "nome": "Romênia",
+   "idioma": "romeno",
+   "pop_mi": 19,
+   "volume_baixo": true,
+   "momento_12s": null,
+   "ult4": [
+    0,
+    2,
+    2,
+    2
+   ],
+   "pico_5a": "2022-02-27",
+   "picos": [
+    {
+     "semana": "2022-02-27",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia",
+     "data_causa": "2022-02-24"
+    },
+    {
+     "semana": "2024-11-10",
+     "indice": 67,
+     "causa": "Rússia muda a doutrina nuclear",
+     "data_causa": "2024-11-19"
+    },
+    {
+     "semana": "2025-03-23",
+     "indice": 100,
+     "causa": "UE lança a estratégia de 72 horas (Preparedness Union)",
+     "data_causa": "2025-03-26"
+    },
+    {
+     "semana": "2025-11-23",
+     "indice": 83,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2026-01-11",
+     "indice": 100,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2026-08-23",
+     "indice": 100,
+     "causa": "Drones russos na Romênia e na Moldávia",
+     "data_causa": "2026-09-10"
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-15",
+     "indice": 39,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 67,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-09-08",
+    "causa": "Drones russos na Romênia e na Moldávia"
+   },
+   "ultimos7_vs_pico90": 1,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "volume baixo",
+   "pais": "BG",
+   "nome": "Bulgária",
+   "idioma": "búlgaro",
+   "pop_mi": 6.4,
+   "volume_baixo": true,
+   "momento_12s": null,
+   "ult4": [
+    0,
+    2,
+    1,
+    2
+   ],
+   "pico_5a": "2026-02-01",
+   "picos": [
+    {
+     "semana": "2022-02-27",
+     "indice": 60,
+     "causa": "Invasão russa da Ucrânia",
+     "data_causa": "2022-02-24"
+    },
+    {
+     "semana": "2023-09-17",
+     "indice": 80,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2025-01-12",
+     "indice": 80,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2025-12-07",
+     "indice": 80,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2026-02-01",
+     "indice": 100,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2026-03-08",
+     "indice": 80,
+     "causa": "Bulgária: só 18 dos 247 abrigos prontos",
+     "data_causa": "2026-03-10"
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-22",
+     "indice": 31,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 53,
+     "causa": "Bulgária: só 18 dos 247 abrigos prontos"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-10-07",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 4,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "em alta agora",
+   "pais": "HR",
+   "nome": "Croácia",
+   "idioma": "croata",
+   "pop_mi": 3.9,
+   "volume_baixo": true,
+   "momento_12s": null,
+   "ult4": [
+    0,
+    3,
+    2,
+    1
+   ],
+   "pico_5a": "2022-03-27",
+   "picos": [
+    {
+     "semana": "2022-03-27",
+     "indice": 100,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2025-09-28",
+     "indice": 36,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 36,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)",
+     "data_causa": "2026-03-01"
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-22",
+     "indice": 35,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 72,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-11-06",
+    "causa": "Comissão Europeia publica diretrizes de 72 h"
+   },
+   "ultimos7_vs_pico90": 39,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "volume baixo",
+   "pais": "SI",
+   "nome": "Eslovênia",
+   "idioma": "esloveno",
+   "pop_mi": 2.1,
+   "volume_baixo": true,
+   "momento_12s": null,
+   "ult4": [
+    0,
+    2,
+    2,
+    0
+   ],
+   "pico_5a": "2025-04-13",
+   "picos": [
+    {
+     "semana": "2022-01-30",
+     "indice": 67,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2023-12-03",
+     "indice": 75,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2024-04-07",
+     "indice": 75,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2025-04-13",
+     "indice": 100,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2025-11-16",
+     "indice": 75,
+     "causa": null,
+     "data_causa": null
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-22",
+     "indice": 36,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 51,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-09-13",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 0,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "volume baixo",
+   "pais": "RS",
+   "nome": "Sérvia",
+   "idioma": "sérvio",
+   "pop_mi": 6.6,
+   "volume_baixo": true,
+   "momento_12s": null,
+   "ult4": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "pico_5a": "2026-04-05",
+   "picos": [
+    {
+     "semana": "2023-07-23",
+     "indice": 80,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2024-06-23",
+     "indice": 80,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2026-04-05",
+     "indice": 100,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2026-05-31",
+     "indice": 80,
+     "causa": null,
+     "data_causa": null
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2024-11-17",
+     "indice": 43,
+     "causa": "Rússia muda a doutrina nuclear"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 74,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": null,
+   "ultimos7_vs_pico90": null,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "volume baixo",
+   "pais": "BA",
+   "nome": "Bósnia",
+   "idioma": "bósnio",
+   "pop_mi": 3.2,
+   "volume_baixo": true,
+   "momento_12s": null,
+   "ult4": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "pico_5a": "2025-11-09",
+   "picos": [
+    {
+     "semana": "2022-05-08",
+     "indice": 60,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2023-04-30",
+     "indice": 70,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2024-11-10",
+     "indice": 90,
+     "causa": "Rússia muda a doutrina nuclear",
+     "data_causa": "2024-11-19"
+    },
+    {
+     "semana": "2025-11-09",
+     "indice": 100,
+     "causa": null,
+     "data_causa": null
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-22",
+     "indice": 41,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 66,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": null,
+   "ultimos7_vs_pico90": null,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "volume baixo",
+   "pais": "ME",
+   "nome": "Montenegro",
+   "idioma": "montenegrino",
+   "pop_mi": 0.6,
+   "volume_baixo": true,
+   "momento_12s": 0.0,
+   "ult4": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "pico_5a": "2024-12-22",
+   "picos": [
+    {
+     "semana": "2022-07-03",
+     "indice": 58,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2022-09-04",
+     "indice": 60,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2022-12-04",
+     "indice": 58,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2023-06-18",
+     "indice": 65,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2024-06-09",
+     "indice": 72,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2024-12-22",
+     "indice": 100,
+     "causa": null,
+     "data_causa": null
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-10-05",
+     "indice": 61,
+     "causa": null
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 65,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-09-27",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 0,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "volume baixo",
+   "pais": "MK",
+   "nome": "Macedônia do Norte",
+   "idioma": "macedônio",
+   "pop_mi": 1.8,
+   "volume_baixo": true,
+   "momento_12s": null,
+   "ult4": [
+    0,
+    0,
+    2,
+    0
+   ],
+   "pico_5a": "2025-11-02",
+   "picos": [
+    {
+     "semana": "2023-03-05",
+     "indice": 78,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2025-11-02",
+     "indice": 100,
+     "causa": null,
+     "data_causa": null
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-22",
+     "indice": 67,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 68,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-08-31",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 0,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "volume baixo",
+   "pais": "AL",
+   "nome": "Albânia",
+   "idioma": "albanês",
+   "pop_mi": 2.4,
+   "volume_baixo": true,
+   "momento_12s": 1.0,
+   "ult4": [
+    0,
+    3,
+    3,
+    0
+   ],
+   "pico_5a": "2026-07-05",
+   "picos": [
+    {
+     "semana": "2022-05-08",
+     "indice": 73,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2024-03-24",
+     "indice": 97,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2025-05-18",
+     "indice": 90,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2026-04-05",
+     "indice": 77,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2026-07-05",
+     "indice": 100,
+     "causa": null,
+     "data_causa": null
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-04-27",
+     "indice": 47,
+     "causa": null
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 54,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-09-28",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 0,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "volume baixo",
+   "pais": "LT",
+   "nome": "Lituânia",
+   "idioma": "lituano",
+   "pop_mi": 2.9,
+   "volume_baixo": true,
+   "momento_12s": null,
+   "ult4": [
+    0,
+    1,
+    1,
+    0
+   ],
+   "pico_5a": "2022-04-03",
+   "picos": [
+    {
+     "semana": "2022-04-03",
+     "indice": 100,
+     "causa": null,
+     "data_causa": null
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-15",
+     "indice": 46,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 66,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-09-30",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 0,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "volume baixo",
+   "pais": "LV",
+   "nome": "Letônia",
+   "idioma": "letão",
+   "pop_mi": 1.9,
+   "volume_baixo": true,
+   "momento_12s": 4.8,
+   "ult4": [
+    0,
+    2,
+    1,
+    0
+   ],
+   "pico_5a": "2025-08-31",
+   "picos": [
+    {
+     "semana": "2022-09-04",
+     "indice": 59,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2023-10-01",
+     "indice": 93,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2024-05-05",
+     "indice": 86,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2024-09-01",
+     "indice": 62,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2025-08-31",
+     "indice": 100,
+     "causa": "Drones russos derrubados sobre a Polônia",
+     "data_causa": "2025-09-10"
+    },
+    {
+     "semana": "2026-09-13",
+     "indice": 100,
+     "causa": "Ordem de abrigo nas fronteiras da Letônia e da Estônia por drones",
+     "data_causa": "2026-09-01"
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-15",
+     "indice": 41,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 66,
+     "causa": "Novos folhetos de preparação de Estônia, Letônia e Finlândia"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-09-23",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 0,
+   "em_alta_agora": true
+  },
+  {
+   "situacao": "volume baixo",
+   "pais": "EE",
+   "nome": "Estônia",
+   "idioma": "estoniano",
+   "pop_mi": 1.4,
+   "volume_baixo": true,
+   "momento_12s": null,
+   "ult4": [
+    0,
+    2,
+    1,
+    0
+   ],
+   "pico_5a": "2025-09-28",
+   "picos": [
+    {
+     "semana": "2023-04-23",
+     "indice": 64,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2024-06-02",
+     "indice": 68,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2025-09-28",
+     "indice": 100,
+     "causa": "Drones russos derrubados sobre a Polônia",
+     "data_causa": "2025-09-10"
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-15",
+     "indice": 50,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 78,
+     "causa": "Novos folhetos de preparação de Estônia, Letônia e Finlândia"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-09-19",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 0,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "em alta agora",
+   "pais": "FI",
+   "nome": "Finlândia",
+   "idioma": "finlandês",
+   "pop_mi": 5.6,
+   "volume_baixo": true,
+   "momento_12s": 0.7,
+   "ult4": [
+    0,
+    3,
+    2,
+    2
+   ],
+   "pico_5a": "2022-02-27",
+   "picos": [
+    {
+     "semana": "2022-02-27",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia",
+     "data_causa": "2022-02-24"
+    },
+    {
+     "semana": "2022-05-29",
+     "indice": 33,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2022-08-21",
+     "indice": 33,
+     "causa": null,
+     "data_causa": null
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-15",
+     "indice": 56,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 61,
+     "causa": "Novos folhetos de preparação de Estônia, Letônia e Finlândia"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-11-15",
+    "causa": "Alertas de abrigo por drones nos Bálticos"
+   },
+   "ultimos7_vs_pico90": 65,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "em alta agora",
+   "pais": "SE",
+   "nome": "Suécia",
+   "idioma": "sueco",
+   "pop_mi": 10.5,
+   "volume_baixo": false,
+   "momento_12s": 0.3,
+   "ult4": [
+    0,
+    3,
+    2,
+    3
+   ],
+   "pico_5a": "2022-02-27",
+   "picos": [
+    {
+     "semana": "2022-02-27",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia",
+     "data_causa": "2022-02-24"
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 98,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-22",
+     "indice": 44,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 61,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-11-03",
+    "causa": "Comissão Europeia publica diretrizes de 72 h"
+   },
+   "ultimos7_vs_pico90": 60,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "volume baixo",
+   "pais": "NO",
+   "nome": "Noruega",
+   "idioma": "norueguês",
+   "pop_mi": 5.6,
+   "volume_baixo": true,
+   "momento_12s": 2.1,
+   "ult4": [
+    17,
+    16,
+    9,
+    9
+   ],
+   "pico_5a": "2022-02-27",
+   "picos": [
+    {
+     "semana": "2022-02-27",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia",
+     "data_causa": "2022-02-24"
+    },
+    {
+     "semana": "2024-10-27",
+     "indice": 58,
+     "causa": "Folhetos nórdicos de guerra chegam às casas",
+     "data_causa": "2024-11-18"
+    },
+    {
+     "semana": "2024-12-29",
+     "indice": 54,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2025-03-16",
+     "indice": 65,
+     "causa": "UE lança a estratégia de 72 horas (Preparedness Union)",
+     "data_causa": "2025-03-26"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 50,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)",
+     "data_causa": "2026-03-01"
+    },
+    {
+     "semana": "2026-10-25",
+     "indice": 65,
+     "causa": "Comissão Europeia publica diretrizes de 72 h",
+     "data_causa": "2026-11-03"
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-22",
+     "indice": 50,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 53,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-09-27",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 20,
+   "em_alta_agora": true
+  },
+  {
+   "situacao": "subiu e esfriou",
+   "pais": "DK",
+   "nome": "Dinamarca",
+   "idioma": "dinamarquês",
+   "pop_mi": 5.9,
+   "volume_baixo": false,
+   "momento_12s": 2.0,
+   "ult4": [
+    21,
+    19,
+    15,
+    11
+   ],
+   "pico_5a": "2024-06-16",
+   "picos": [
+    {
+     "semana": "2024-06-16",
+     "indice": 100,
+     "causa": "Dinamarca lança guia de 3 dias",
+     "data_causa": "2024-06-15"
+    },
+    {
+     "semana": "2024-12-29",
+     "indice": 31,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2025-03-02",
+     "indice": 34,
+     "causa": "Plano ReArm Europe e debate de rearmamento",
+     "data_causa": "2025-03-04"
+    },
+    {
+     "semana": "2025-09-28",
+     "indice": 93,
+     "causa": "Drones fecham aeroportos na Dinamarca",
+     "data_causa": "2025-09-24"
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-15",
+     "indice": 43,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 46,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-09-19",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 13,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "volume baixo",
+   "pais": "IS",
+   "nome": "Islândia",
+   "idioma": "islandês",
+   "pop_mi": 0.4,
+   "volume_baixo": true,
+   "momento_12s": 1.0,
+   "ult4": [
+    0,
+    3,
+    3,
+    0
+   ],
+   "pico_5a": "2023-10-01",
+   "picos": [
+    {
+     "semana": "2022-11-06",
+     "indice": 89,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2023-06-04",
+     "indice": 76,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2023-10-01",
+     "indice": 100,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2025-04-20",
+     "indice": 86,
+     "causa": null,
+     "data_causa": null
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-22",
+     "indice": 45,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 41,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-10-10",
+    "causa": null
+   },
+   "ultimos7_vs_pico90": 1,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "volume baixo",
+   "pais": "MD",
+   "nome": "Moldávia",
+   "idioma": "romeno",
+   "pop_mi": 2.4,
+   "volume_baixo": true,
+   "momento_12s": 0.3,
+   "ult4": [
+    0,
+    0,
+    2,
+    0
+   ],
+   "pico_5a": "2025-10-26",
+   "picos": [
+    {
+     "semana": "2023-07-23",
+     "indice": 71,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2023-11-26",
+     "indice": 85,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2024-06-09",
+     "indice": 76,
+     "causa": null,
+     "data_causa": null
+    },
+    {
+     "semana": "2025-10-26",
+     "indice": 100,
+     "causa": null,
+     "data_causa": null
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-20",
+     "indice": 100,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-06-15",
+     "indice": 42,
+     "causa": "EUA bombardeiam o Irã (guerra de 12 dias)"
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 54,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-09-06",
+    "causa": "Drones russos na Romênia e na Moldávia"
+   },
+   "ultimos7_vs_pico90": 0,
+   "em_alta_agora": false
+  },
+  {
+   "situacao": "em alta agora",
+   "pais": "UA",
+   "nome": "Ucrânia",
+   "idioma": "ucraniano",
+   "pop_mi": 37,
+   "volume_baixo": true,
+   "momento_12s": null,
+   "ult4": [
+    1,
+    0,
+    0,
+    0
+   ],
+   "pico_5a": "2026-02-15",
+   "picos": [
+    {
+     "semana": "2026-02-15",
+     "indice": 100,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)",
+     "data_causa": "2026-03-01"
+    }
+   ],
+   "picos_guerra": [
+    {
+     "semana": "2022-02-27",
+     "indice": 38,
+     "causa": "Invasão russa da Ucrânia"
+    },
+    {
+     "semana": "2025-09-07",
+     "indice": 100,
+     "causa": null
+    },
+    {
+     "semana": "2026-03-01",
+     "indice": 42,
+     "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)"
+    }
+   ],
+   "dia_pico_90d": {
+    "dia": "2026-11-02",
+    "causa": "Comissão Europeia publica diretrizes de 72 h"
+   },
+   "ultimos7_vs_pico90": 57,
+   "em_alta_agora": false
+  }
+ ],
+ "momentos": [
+  {
+   "pais": "SK",
+   "nome": "Eslováquia",
+   "semana": "2021-11-14",
+   "indice": 60,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "SI",
+   "nome": "Eslovênia",
+   "semana": "2022-01-30",
+   "indice": 67,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "GB",
+   "nome": "Reino Unido",
+   "semana": "2022-02-27",
+   "indice": 71,
+   "causa": "Invasão russa da Ucrânia",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "DE",
+   "nome": "Alemanha",
+   "semana": "2022-02-27",
+   "indice": 100,
+   "causa": "Invasão russa da Ucrânia",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "AT",
+   "nome": "Áustria",
+   "semana": "2022-02-27",
+   "indice": 64,
+   "causa": "Invasão russa da Ucrânia",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "PL",
+   "nome": "Polônia",
+   "semana": "2022-02-27",
+   "indice": 87,
+   "causa": "Invasão russa da Ucrânia",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "CZ",
+   "nome": "Tchéquia",
+   "semana": "2022-02-27",
+   "indice": 100,
+   "causa": "Invasão russa da Ucrânia",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "SK",
+   "nome": "Eslováquia",
+   "semana": "2022-02-27",
+   "indice": 100,
+   "causa": "Invasão russa da Ucrânia",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "RO",
+   "nome": "Romênia",
+   "semana": "2022-02-27",
+   "indice": 100,
+   "causa": "Invasão russa da Ucrânia",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "BG",
+   "nome": "Bulgária",
+   "semana": "2022-02-27",
+   "indice": 60,
+   "causa": "Invasão russa da Ucrânia",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "FI",
+   "nome": "Finlândia",
+   "semana": "2022-02-27",
+   "indice": 100,
+   "causa": "Invasão russa da Ucrânia",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "SE",
+   "nome": "Suécia",
+   "semana": "2022-02-27",
+   "indice": 100,
+   "causa": "Invasão russa da Ucrânia",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "NO",
+   "nome": "Noruega",
+   "semana": "2022-02-27",
+   "indice": 100,
+   "causa": "Invasão russa da Ucrânia",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "CH",
+   "nome": "Suíça",
+   "semana": "2022-03-27",
+   "indice": 100,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "HR",
+   "nome": "Croácia",
+   "semana": "2022-03-27",
+   "indice": 100,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "LT",
+   "nome": "Lituânia",
+   "semana": "2022-04-03",
+   "indice": 100,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "BA",
+   "nome": "Bósnia",
+   "semana": "2022-05-08",
+   "indice": 60,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "AL",
+   "nome": "Albânia",
+   "semana": "2022-05-08",
+   "indice": 73,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "FI",
+   "nome": "Finlândia",
+   "semana": "2022-05-29",
+   "indice": 33,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "ME",
+   "nome": "Montenegro",
+   "semana": "2022-07-03",
+   "indice": 58,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "FI",
+   "nome": "Finlândia",
+   "semana": "2022-08-21",
+   "indice": 33,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "DE",
+   "nome": "Alemanha",
+   "semana": "2022-09-04",
+   "indice": 50,
+   "causa": "Crise do gás e medo de apagão no inverno",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "ME",
+   "nome": "Montenegro",
+   "semana": "2022-09-04",
+   "indice": 60,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "LV",
+   "nome": "Letônia",
+   "semana": "2022-09-04",
+   "indice": 59,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "DE",
+   "nome": "Alemanha",
+   "semana": "2022-10-09",
+   "indice": 57,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "IS",
+   "nome": "Islândia",
+   "semana": "2022-11-06",
+   "indice": 89,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "SK",
+   "nome": "Eslováquia",
+   "semana": "2022-11-13",
+   "indice": 60,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "DE",
+   "nome": "Alemanha",
+   "semana": "2022-12-04",
+   "indice": 71,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "ME",
+   "nome": "Montenegro",
+   "semana": "2022-12-04",
+   "indice": 58,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "MK",
+   "nome": "Macedônia do Norte",
+   "semana": "2023-03-05",
+   "indice": 78,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "EE",
+   "nome": "Estônia",
+   "semana": "2023-04-23",
+   "indice": 64,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "BA",
+   "nome": "Bósnia",
+   "semana": "2023-04-30",
+   "indice": 70,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "HU",
+   "nome": "Hungria",
+   "semana": "2023-05-21",
+   "indice": 69,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "IS",
+   "nome": "Islândia",
+   "semana": "2023-06-04",
+   "indice": 76,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "ME",
+   "nome": "Montenegro",
+   "semana": "2023-06-18",
+   "indice": 65,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "RS",
+   "nome": "Sérvia",
+   "semana": "2023-07-23",
+   "indice": 80,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "MD",
+   "nome": "Moldávia",
+   "semana": "2023-07-23",
+   "indice": 71,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "AT",
+   "nome": "Áustria",
+   "semana": "2023-07-30",
+   "indice": 36,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "BG",
+   "nome": "Bulgária",
+   "semana": "2023-09-17",
+   "indice": 80,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "LV",
+   "nome": "Letônia",
+   "semana": "2023-10-01",
+   "indice": 93,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "IS",
+   "nome": "Islândia",
+   "semana": "2023-10-01",
+   "indice": 100,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "MD",
+   "nome": "Moldávia",
+   "semana": "2023-11-26",
+   "indice": 85,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "SI",
+   "nome": "Eslovênia",
+   "semana": "2023-12-03",
+   "indice": 75,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "CY",
+   "nome": "Chipre",
+   "semana": "2023-12-17",
+   "indice": 30,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "LU",
+   "nome": "Luxemburgo",
+   "semana": "2024-01-14",
+   "indice": 74,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "AL",
+   "nome": "Albânia",
+   "semana": "2024-03-24",
+   "indice": 97,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "SI",
+   "nome": "Eslovênia",
+   "semana": "2024-04-07",
+   "indice": 75,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "LV",
+   "nome": "Letônia",
+   "semana": "2024-05-05",
+   "indice": 86,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "GB",
+   "nome": "Reino Unido",
+   "semana": "2024-05-19",
+   "indice": 50,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "SK",
+   "nome": "Eslováquia",
+   "semana": "2024-06-02",
+   "indice": 60,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "EE",
+   "nome": "Estônia",
+   "semana": "2024-06-02",
+   "indice": 68,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "ME",
+   "nome": "Montenegro",
+   "semana": "2024-06-09",
+   "indice": 72,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "MD",
+   "nome": "Moldávia",
+   "semana": "2024-06-09",
+   "indice": 76,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "DK",
+   "nome": "Dinamarca",
+   "semana": "2024-06-16",
+   "indice": 100,
+   "causa": "Dinamarca lança guia de 3 dias",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "RS",
+   "nome": "Sérvia",
+   "semana": "2024-06-23",
+   "indice": 80,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "LV",
+   "nome": "Letônia",
+   "semana": "2024-09-01",
+   "indice": 62,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "AT",
+   "nome": "Áustria",
+   "semana": "2024-09-15",
+   "indice": 100,
+   "causa": "Tempestade Boris e enchentes na Europa Central",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "PL",
+   "nome": "Polônia",
+   "semana": "2024-09-15",
+   "indice": 66,
+   "causa": "Tempestade Boris e enchentes na Europa Central",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "CY",
+   "nome": "Chipre",
+   "semana": "2024-09-22",
+   "indice": 36,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "CZ",
+   "nome": "Tchéquia",
+   "semana": "2024-10-13",
+   "indice": 33,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "NO",
+   "nome": "Noruega",
+   "semana": "2024-10-27",
+   "indice": 58,
+   "causa": "Folhetos nórdicos de guerra chegam às casas",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "RO",
+   "nome": "Romênia",
+   "semana": "2024-11-10",
+   "indice": 67,
+   "causa": "Rússia muda a doutrina nuclear",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "BA",
+   "nome": "Bósnia",
+   "semana": "2024-11-10",
+   "indice": 90,
+   "causa": "Rússia muda a doutrina nuclear",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "NL",
+   "nome": "Holanda",
+   "semana": "2024-12-08",
+   "indice": 60,
+   "causa": "Holanda prepara campanha nacional de noodpakket",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "BE",
+   "nome": "Bélgica",
+   "semana": "2024-12-15",
+   "indice": 30,
+   "causa": "Holanda prepara campanha nacional de noodpakket",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "ME",
+   "nome": "Montenegro",
+   "semana": "2024-12-22",
+   "indice": 100,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "NO",
+   "nome": "Noruega",
+   "semana": "2024-12-29",
+   "indice": 54,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "DK",
+   "nome": "Dinamarca",
+   "semana": "2024-12-29",
+   "indice": 31,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "BG",
+   "nome": "Bulgária",
+   "semana": "2025-01-12",
+   "indice": 80,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "NL",
+   "nome": "Holanda",
+   "semana": "2025-03-02",
+   "indice": 44,
+   "causa": "Plano ReArm Europe e debate de rearmamento",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "GR",
+   "nome": "Grécia",
+   "semana": "2025-03-02",
+   "indice": 100,
+   "causa": "Plano ReArm Europe e debate de rearmamento",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "CY",
+   "nome": "Chipre",
+   "semana": "2025-03-02",
+   "indice": 39,
+   "causa": "Plano ReArm Europe e debate de rearmamento",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "DK",
+   "nome": "Dinamarca",
+   "semana": "2025-03-02",
+   "indice": 34,
+   "causa": "Plano ReArm Europe e debate de rearmamento",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "FR",
+   "nome": "França",
+   "semana": "2025-03-16",
+   "indice": 100,
+   "causa": "França anuncia guia de sobrevivência para todas as casas",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "NO",
+   "nome": "Noruega",
+   "semana": "2025-03-16",
+   "indice": 65,
+   "causa": "UE lança a estratégia de 72 horas (Preparedness Union)",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "IE",
+   "nome": "Irlanda",
+   "semana": "2025-03-23",
+   "indice": 69,
+   "causa": "UE lança a estratégia de 72 horas (Preparedness Union)",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "CH",
+   "nome": "Suíça",
+   "semana": "2025-03-23",
+   "indice": 48,
+   "causa": "UE lança a estratégia de 72 horas (Preparedness Union)",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "BE",
+   "nome": "Bélgica",
+   "semana": "2025-03-23",
+   "indice": 42,
+   "causa": "UE lança a estratégia de 72 horas (Preparedness Union)",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "ES",
+   "nome": "Espanha",
+   "semana": "2025-03-23",
+   "indice": 81,
+   "causa": "UE lança a estratégia de 72 horas (Preparedness Union)",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "PT",
+   "nome": "Portugal",
+   "semana": "2025-03-23",
+   "indice": 55,
+   "causa": "UE lança a estratégia de 72 horas (Preparedness Union)",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "IT",
+   "nome": "Itália",
+   "semana": "2025-03-23",
+   "indice": 100,
+   "causa": "UE lança a estratégia de 72 horas (Preparedness Union)",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "RO",
+   "nome": "Romênia",
+   "semana": "2025-03-23",
+   "indice": 100,
+   "causa": "UE lança a estratégia de 72 horas (Preparedness Union)",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "HU",
+   "nome": "Hungria",
+   "semana": "2025-03-30",
+   "indice": 100,
+   "causa": "UE lança a estratégia de 72 horas (Preparedness Union)",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "GB",
+   "nome": "Reino Unido",
+   "semana": "2025-04-06",
+   "indice": 43,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "SI",
+   "nome": "Eslovênia",
+   "semana": "2025-04-13",
+   "indice": 100,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "IS",
+   "nome": "Islândia",
+   "semana": "2025-04-20",
+   "indice": 86,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "IE",
+   "nome": "Irlanda",
+   "semana": "2025-04-27",
+   "indice": 38,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "ES",
+   "nome": "Espanha",
+   "semana": "2025-04-27",
+   "indice": 100,
+   "causa": "Apagão ibérico (Espanha e Portugal sem luz)",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "PT",
+   "nome": "Portugal",
+   "semana": "2025-04-27",
+   "indice": 100,
+   "causa": "Apagão ibérico (Espanha e Portugal sem luz)",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "CZ",
+   "nome": "Tchéquia",
+   "semana": "2025-04-27",
+   "indice": 33,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "AL",
+   "nome": "Albânia",
+   "semana": "2025-05-18",
+   "indice": 90,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "GB",
+   "nome": "Reino Unido",
+   "semana": "2025-06-22",
+   "indice": 50,
+   "causa": "EUA bombardeiam o Irã (guerra de 12 dias)",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "SK",
+   "nome": "Eslováquia",
+   "semana": "2025-08-17",
+   "indice": 70,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "GR",
+   "nome": "Grécia",
+   "semana": "2025-08-24",
+   "indice": 35,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "LV",
+   "nome": "Letônia",
+   "semana": "2025-08-31",
+   "indice": 100,
+   "causa": "Drones russos derrubados sobre a Polônia",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "MT",
+   "nome": "Malta",
+   "semana": "2025-09-28",
+   "indice": 86,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "HR",
+   "nome": "Croácia",
+   "semana": "2025-09-28",
+   "indice": 36,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "EE",
+   "nome": "Estônia",
+   "semana": "2025-09-28",
+   "indice": 100,
+   "causa": "Drones russos derrubados sobre a Polônia",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "DK",
+   "nome": "Dinamarca",
+   "semana": "2025-09-28",
+   "indice": 93,
+   "causa": "Drones fecham aeroportos na Dinamarca",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "MD",
+   "nome": "Moldávia",
+   "semana": "2025-10-26",
+   "indice": 100,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "MK",
+   "nome": "Macedônia do Norte",
+   "semana": "2025-11-02",
+   "indice": 100,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "BA",
+   "nome": "Bósnia",
+   "semana": "2025-11-09",
+   "indice": 100,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "FR",
+   "nome": "França",
+   "semana": "2025-11-16",
+   "indice": 91,
+   "causa": "Guia \"Tous responsables\" do governo francês",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "NL",
+   "nome": "Holanda",
+   "semana": "2025-11-16",
+   "indice": 100,
+   "causa": "Campanha \"Denk vooruit\" (noodpakket)",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "HU",
+   "nome": "Hungria",
+   "semana": "2025-11-16",
+   "indice": 62,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "SI",
+   "nome": "Eslovênia",
+   "semana": "2025-11-16",
+   "indice": 75,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "RO",
+   "nome": "Romênia",
+   "semana": "2025-11-23",
+   "indice": 83,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "CZ",
+   "nome": "Tchéquia",
+   "semana": "2025-12-07",
+   "indice": 50,
+   "causa": "Manual \"72 hodin\" enviado a 5,2 mi de casas",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "BG",
+   "nome": "Bulgária",
+   "semana": "2025-12-07",
+   "indice": 80,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "SK",
+   "nome": "Eslováquia",
+   "semana": "2025-12-28",
+   "indice": 60,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "DE",
+   "nome": "Alemanha",
+   "semana": "2026-01-04",
+   "indice": 79,
+   "causa": "Apagão em Berlim após incêndio criminoso em cabos",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "HU",
+   "nome": "Hungria",
+   "semana": "2026-01-04",
+   "indice": 62,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "RO",
+   "nome": "Romênia",
+   "semana": "2026-01-11",
+   "indice": 100,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "CY",
+   "nome": "Chipre",
+   "semana": "2026-01-25",
+   "indice": 30,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "PT",
+   "nome": "Portugal",
+   "semana": "2026-02-01",
+   "indice": 35,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "BG",
+   "nome": "Bulgária",
+   "semana": "2026-02-01",
+   "indice": 100,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "HU",
+   "nome": "Hungria",
+   "semana": "2026-02-15",
+   "indice": 69,
+   "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "UA",
+   "nome": "Ucrânia",
+   "semana": "2026-02-15",
+   "indice": 100,
+   "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "CZ",
+   "nome": "Tchéquia",
+   "semana": "2026-02-22",
+   "indice": 42,
+   "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "GB",
+   "nome": "Reino Unido",
+   "semana": "2026-03-01",
+   "indice": 50,
+   "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "CY",
+   "nome": "Chipre",
+   "semana": "2026-03-01",
+   "indice": 100,
+   "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "HR",
+   "nome": "Croácia",
+   "semana": "2026-03-01",
+   "indice": 36,
+   "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "NO",
+   "nome": "Noruega",
+   "semana": "2026-03-01",
+   "indice": 50,
+   "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "BG",
+   "nome": "Bulgária",
+   "semana": "2026-03-08",
+   "indice": 80,
+   "causa": "Bulgária: só 18 dos 247 abrigos prontos",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "PL",
+   "nome": "Polônia",
+   "semana": "2026-04-05",
+   "indice": 71,
+   "causa": "Polônia decola caças com ataque russo à Ucrânia",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "RS",
+   "nome": "Sérvia",
+   "semana": "2026-04-05",
+   "indice": 100,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "AL",
+   "nome": "Albânia",
+   "semana": "2026-04-05",
+   "indice": 77,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "BE",
+   "nome": "Bélgica",
+   "semana": "2026-04-19",
+   "indice": 100,
+   "causa": "Bélgica lança \"Prêts. Ensemble / Samen voorbereid\"",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "NL",
+   "nome": "Holanda",
+   "semana": "2026-04-19",
+   "indice": 34,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "DE",
+   "nome": "Alemanha",
+   "semana": "2026-05-17",
+   "indice": 64,
+   "causa": "Alemanha aprova pacto de proteção civil de 10 bi €",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "PL",
+   "nome": "Polônia",
+   "semana": "2026-05-31",
+   "indice": 69,
+   "causa": "Ataque russo com 800 drones após cessar-fogo; Polônia em alerta",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "HU",
+   "nome": "Hungria",
+   "semana": "2026-05-31",
+   "indice": 77,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "RS",
+   "nome": "Sérvia",
+   "semana": "2026-05-31",
+   "indice": 80,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "PL",
+   "nome": "Polônia",
+   "semana": "2026-07-05",
+   "indice": 49,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "AL",
+   "nome": "Albânia",
+   "semana": "2026-07-05",
+   "indice": 100,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "RO",
+   "nome": "Romênia",
+   "semana": "2026-08-23",
+   "indice": 100,
+   "causa": "Drones russos na Romênia e na Moldávia",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "PL",
+   "nome": "Polônia",
+   "semana": "2026-09-06",
+   "indice": 100,
+   "causa": "Drones russos na Romênia e na Moldávia",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "LV",
+   "nome": "Letônia",
+   "semana": "2026-09-13",
+   "indice": 100,
+   "causa": "Ordem de abrigo nas fronteiras da Letônia e da Estônia por drones",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "MT",
+   "nome": "Malta",
+   "semana": "2026-09-27",
+   "indice": 100,
+   "causa": null,
+   "tipo": "preparação"
+  },
+  {
+   "pais": "GB",
+   "nome": "Reino Unido",
+   "semana": "2026-10-25",
+   "indice": 100,
+   "causa": "Be Ready no Reino Unido (3 dias)",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "FR",
+   "nome": "França",
+   "semana": "2026-10-25",
+   "indice": 52,
+   "causa": "Normandia pede kit de 3 dias; Newsweek \"33 países\"",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "NO",
+   "nome": "Noruega",
+   "semana": "2026-10-25",
+   "indice": 65,
+   "causa": "Comissão Europeia publica diretrizes de 72 h",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "IE",
+   "nome": "Irlanda",
+   "semana": "2026-11-08",
+   "indice": 100,
+   "causa": "Comissão Europeia publica diretrizes de 72 h",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "LU",
+   "nome": "Luxemburgo",
+   "semana": "2026-11-08",
+   "indice": 100,
+   "causa": "Comissão Europeia publica diretrizes de 72 h",
+   "tipo": "preparação"
+  },
+  {
+   "pais": "IT",
+   "nome": "Itália",
+   "semana": "2026-11-08",
+   "indice": 72,
+   "causa": "Onda de matérias sobre o kit da UE (Itália, Grécia, Espanha)",
+   "tipo": "preparação"
+  }
+ ],
+ "termos_locais": {
+  "LV": [
+   {
+    "termo": "ārkārtas soma",
+    "pico": "2024-07-07",
+    "momento_12s": 0.0,
+    "ult4": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "termo": "patvertne",
+    "pico": "2023-07-23",
+    "momento_12s": 5.2,
+    "ult4": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   {
+    "termo": "72 stundas",
+    "pico": "2022-09-04",
+    "momento_12s": 0.2,
+    "ult4": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   {
+    "termo": "karš",
+    "pico": "2022-02-20",
+    "momento_12s": 1.5,
+    "ult4": [
+     16,
+     33,
+     9,
+     7
+    ]
+   },
+   {
+    "termo": "izdzīvošanas",
+    "pico": "2025-04-06",
+    "momento_12s": 7.7,
+    "ult4": [
+     0,
+     1,
+     1,
+     0
+    ]
+   }
+  ],
+  "EE": [
+   {
+    "termo": "hädaolukord",
+    "sem_volume": true
+   },
+   {
+    "termo": "varjend",
+    "pico": "2026-04-26",
+    "momento_12s": 1.4,
+    "ult4": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   {
+    "termo": "72 tundi",
+    "pico": "2024-03-31",
+    "momento_12s": 0.0,
+    "ult4": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "termo": "sõda",
+    "pico": "2022-02-20",
+    "momento_12s": 0.9,
+    "ult4": [
+     11,
+     11,
+     19,
+     9
+    ]
+   },
+   {
+    "termo": "ellujäämis",
+    "sem_volume": true
+   }
+  ],
+  "NO": [
+   {
+    "termo": "egenberedskap",
+    "pico": "2026-10-25",
+    "momento_12s": 5.1,
+    "ult4": [
+     4,
+     2,
+     1,
+     1
+    ]
+   },
+   {
+    "termo": "tilfluktsrom",
+    "pico": "2022-02-27",
+    "momento_12s": 0.9,
+    "ult4": [
+     2,
+     3,
+     4,
+     4
+    ]
+   },
+   {
+    "termo": "beredskap",
+    "pico": "2026-11-15",
+    "momento_12s": 3.3,
+    "ult4": [
+     21,
+     19,
+     13,
+     57
+    ]
+   },
+   {
+    "termo": "nødlager",
+    "pico": "2022-02-27",
+    "momento_12s": 0.0,
+    "ult4": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "termo": "krig",
+    "pico": "2022-02-20",
+    "momento_12s": 0.9,
+    "ult4": [
+     18,
+     20,
+     17,
+     17
+    ]
+   }
+  ],
+  "DK": [
+   {
+    "termo": "nødpakke",
+    "sem_volume": true
+   },
+   {
+    "termo": "beredskab",
+    "pico": "2024-06-16",
+    "momento_12s": 1.5,
+    "ult4": [
+     7,
+     6,
+     5,
+     4
+    ]
+   },
+   {
+    "termo": "beskyttelsesrum",
+    "pico": "2022-04-03",
+    "momento_12s": 0.5,
+    "ult4": [
+     2,
+     1,
+     1,
+     0
+    ]
+   },
+   {
+    "termo": "krisekasse",
+    "sem_volume": true
+   },
+   {
+    "termo": "krig",
+    "pico": "2022-02-20",
+    "momento_12s": 0.9,
+    "ult4": [
+     18,
+     19,
+     20,
+     17
+    ]
+   }
+  ],
+  "CZ": [
+   {
+    "termo": "evakuační zavazadlo",
+    "pico": "2022-02-27",
+    "momento_12s": 1.7,
+    "ult4": [
+     0,
+     0,
+     0,
+     1
+    ]
+   },
+   {
+    "termo": "nouzový balíček",
+    "sem_volume": true
+   },
+   {
+    "termo": "kryt",
+    "pico": "2022-02-27",
+    "momento_12s": 1.2,
+    "ult4": [
+     31,
+     31,
+     35,
+     35
+    ]
+   },
+   {
+    "termo": "válka",
+    "pico": "2022-02-20",
+    "momento_12s": 0.9,
+    "ult4": [
+     9,
+     12,
+     21,
+     25
+    ]
+   },
+   {
+    "termo": "prepper",
+    "sem_volume": true
+   }
+  ],
+  "SK": [
+   {
+    "termo": "evakuačná batožina",
+    "sem_volume": true
+   },
+   {
+    "termo": "núdzový balíček",
+    "sem_volume": true
+   },
+   {
+    "termo": "kryt",
+    "pico": "2022-02-27",
+    "momento_12s": 1.2,
+    "ult4": [
+     8,
+     9,
+     10,
+     10
+    ]
+   },
+   {
+    "termo": "vojna",
+    "pico": "2022-02-27",
+    "momento_12s": 0.5,
+    "ult4": [
+     5,
+     6,
+     6,
+     5
+    ]
+   },
+   {
+    "termo": "prepper",
+    "sem_volume": true
+   }
+  ],
+  "RO": [
+   {
+    "termo": "kit de urgență",
+    "sem_volume": true
+   },
+   {
+    "termo": "rucsac de urgență",
+    "sem_volume": true
+   },
+   {
+    "termo": "adăpost",
+    "pico": "2025-10-26",
+    "momento_12s": 2.2,
+    "ult4": [
+     3,
+     1,
+     2,
+     1
+    ]
+   },
+   {
+    "termo": "război",
+    "pico": "2026-09-20",
+    "momento_12s": 4.0,
+    "ult4": [
+     67,
+     17,
+     89,
+     52
+    ]
+   },
+   {
+    "termo": "kit de supraviețuire",
+    "sem_volume": true
+   }
+  ],
+  "GR": [
+   {
+    "termo": "κιτ έκτακτης ανάγκης",
+    "sem_volume": true
+   },
+   {
+    "termo": "καταφύγιο",
+    "pico": "2026-03-01",
+    "momento_12s": 1.3,
+    "ult4": [
+     8,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "termo": "πόλεμος",
+    "pico": "2026-03-01",
+    "momento_12s": 1.4,
+    "ult4": [
+     46,
+     20,
+     21,
+     13
+    ]
+   },
+   {
+    "termo": "τσάντα έκτακτης ανάγκης",
+    "sem_volume": true
+   },
+   {
+    "termo": "επιβίωση",
+    "sem_volume": true
+   }
+  ],
+  "HU": [
+   {
+    "termo": "túlélőcsomag",
+    "sem_volume": true
+   },
+   {
+    "termo": "óvóhely",
+    "sem_volume": true
+   },
+   {
+    "termo": "vészhelyzeti csomag",
+    "sem_volume": true
+   },
+   {
+    "termo": "háború",
+    "pico": "2022-02-27",
+    "momento_12s": 0.4,
+    "ult4": [
+     3,
+     3,
+     3,
+     3
+    ]
+   },
+   {
+    "termo": "prepper",
+    "sem_volume": true
+   }
+  ],
+  "HR": [
+   {
+    "termo": "paket za hitne slučajeve",
+    "sem_volume": true
+   },
+   {
+    "termo": "sklonište",
+    "pico": "2022-02-27",
+    "momento_12s": 1.0,
+    "ult4": [
+     1,
+     1,
+     1,
+     1
+    ]
+   },
+   {
+    "termo": "rat",
+    "pico": "2022-02-27",
+    "momento_12s": 0.7,
+    "ult4": [
+     11,
+     11,
+     12,
+     12
+    ]
+   },
+   {
+    "termo": "ruksak za preživljavanje",
+    "sem_volume": true
+   },
+   {
+    "termo": "preživljavanje",
+    "sem_volume": true
+   }
+  ],
+  "SI": [
+   {
+    "termo": "nujni paket",
+    "sem_volume": true
+   },
+   {
+    "termo": "zaklonišče",
+    "pico": "2022-02-27",
+    "momento_12s": 0.0,
+    "ult4": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "termo": "vojna",
+    "pico": "2022-02-27",
+    "momento_12s": 0.9,
+    "ult4": [
+     15,
+     20,
+     13,
+     7
+    ]
+   },
+   {
+    "termo": "preživetje",
+    "pico": "2022-07-17",
+    "momento_12s": 1.1,
+    "ult4": [
+     0,
+     1,
+     1,
+     1
+    ]
+   },
+   {
+    "termo": "nahrbtnik za nujne primere",
+    "sem_volume": true
+   }
+  ],
+  "BG": [
+   {
+    "termo": "аварийна раница",
+    "sem_volume": true
+   },
+   {
+    "termo": "бомбоубежище",
+    "pico": "2022-02-27",
+    "momento_12s": 0.0,
+    "ult4": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "termo": "война",
+    "pico": "2022-02-20",
+    "momento_12s": 0.9,
+    "ult4": [
+     13,
+     12,
+     10,
+     12
+    ]
+   },
+   {
+    "termo": "оцеляване",
+    "pico": "2026-11-15",
+    "momento_12s": 2.0,
+    "ult4": [
+     0,
+     2,
+     1,
+     7
+    ]
+   },
+   {
+    "termo": "аварийен комплект",
+    "sem_volume": true
+   }
+  ],
+  "CH": [
+   {
+    "termo": "Notvorrat",
+    "pico": "2022-02-27",
+    "momento_12s": 1.3,
+    "ult4": [
+     1,
+     1,
+     1,
+     1
+    ]
+   },
+   {
+    "termo": "Notfallrucksack",
+    "sem_volume": true
+   },
+   {
+    "termo": "Bunker",
+    "pico": "2022-02-27",
+    "momento_12s": 1.1,
+    "ult4": [
+     2,
+     4,
+     3,
+     2
+    ]
+   },
+   {
+    "termo": "Krieg",
+    "pico": "2022-02-27",
+    "momento_12s": 0.7,
+    "ult4": [
+     10,
+     11,
+     11,
+     10
+    ]
+   },
+   {
+    "termo": "Stromausfall",
+    "pico": "2025-04-27",
+    "momento_12s": 1.2,
+    "ult4": [
+     5,
+     6,
+     5,
+     2
+    ]
+   }
+  ],
+  "BE": [
+   {
+    "termo": "noodpakket",
+    "pico": "2026-04-19",
+    "momento_12s": 1.2,
+    "ult4": [
+     1,
+     1,
+     4,
+     1
+    ]
+   },
+   {
+    "termo": "kit d'urgence",
+    "sem_volume": true
+   },
+   {
+    "termo": "prepper",
+    "sem_volume": true
+   },
+   {
+    "termo": "oorlog",
+    "pico": "2022-02-27",
+    "momento_12s": 1.1,
+    "ult4": [
+     12,
+     10,
+     15,
+     18
+    ]
+   },
+   {
+    "termo": "guerre",
+    "pico": "2022-02-20",
+    "momento_12s": 0.8,
+    "ult4": [
+     12,
+     15,
+     20,
+     14
+    ]
+   }
+  ],
+  "AT": [
+   {
+    "termo": "Notvorrat",
+    "pico": "2026-10-18",
+    "momento_12s": null,
+    "ult4": [
+     1,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "termo": "Notfallrucksack",
+    "sem_volume": true
+   },
+   {
+    "termo": "Blackout",
+    "pico": "2022-09-18",
+    "momento_12s": 0.7,
+    "ult4": [
+     1,
+     1,
+     3,
+     4
+    ]
+   },
+   {
+    "termo": "Krieg",
+    "pico": "2022-02-27",
+    "momento_12s": 0.7,
+    "ult4": [
+     8,
+     8,
+     9,
+     13
+    ]
+   },
+   {
+    "termo": "Prepper",
+    "sem_volume": true
+   }
+  ],
+  "IE": [
+   {
+    "termo": "emergency kit",
+    "pico": "2026-11-01",
+    "momento_12s": 34.7,
+    "ult4": [
+     1,
+     3,
+     3,
+     2
+    ]
+   },
+   {
+    "termo": "be winter ready",
+    "sem_volume": true
+   },
+   {
+    "termo": "stockpile",
+    "pico": "2025-03-23",
+    "momento_12s": 12.5,
+    "ult4": [
+     2,
+     3,
+     2,
+     1
+    ]
+   },
+   {
+    "termo": "power outage",
+    "pico": "2025-01-19",
+    "momento_12s": 1.3,
+    "ult4": [
+     13,
+     7,
+     8,
+     25
+    ]
+   },
+   {
+    "termo": "prepper",
+    "sem_volume": true
+   }
+  ]
+ },
+ "por_acontecimento": [
+  {
+   "causa": "sem notícia ligada (a investigar)",
+   "paises": [
+    "Albânia",
+    "Alemanha",
+    "Bulgária",
+    "Bósnia",
+    "Chipre",
+    "Croácia",
+    "Dinamarca",
+    "Eslováquia",
+    "Eslovênia",
+    "Estônia",
+    "Finlândia",
+    "Grécia",
+    "Holanda",
+    "Hungria",
+    "Irlanda",
+    "Islândia",
+    "Letônia",
+    "Lituânia",
+    "Luxemburgo",
+    "Macedônia do Norte",
+    "Malta",
+    "Moldávia",
+    "Montenegro",
+    "Noruega",
+    "Polônia",
+    "Portugal",
+    "Reino Unido",
+    "Romênia",
+    "Suíça",
+    "Sérvia",
+    "Tchéquia",
+    "Áustria"
+   ],
+   "semanas": [
+    "2021-11-14",
+    "2022-01-30",
+    "2022-03-27",
+    "2022-04-03",
+    "2022-05-08",
+    "2022-05-29",
+    "2022-07-03",
+    "2022-08-21",
+    "2022-09-04",
+    "2022-10-09",
+    "2022-11-06",
+    "2022-11-13",
+    "2022-12-04",
+    "2023-03-05",
+    "2023-04-23",
+    "2023-04-30",
+    "2023-05-21",
+    "2023-06-04",
+    "2023-06-18",
+    "2023-07-23",
+    "2023-07-30",
+    "2023-09-17",
+    "2023-10-01",
+    "2023-11-26",
+    "2023-12-03",
+    "2023-12-17",
+    "2024-01-14",
+    "2024-03-24",
+    "2024-04-07",
+    "2024-05-05",
+    "2024-05-19",
+    "2024-06-02",
+    "2024-06-09",
+    "2024-06-23",
+    "2024-09-01",
+    "2024-09-22",
+    "2024-10-13",
+    "2024-12-22",
+    "2024-12-29",
+    "2025-01-12",
+    "2025-04-06",
+    "2025-04-13",
+    "2025-04-20",
+    "2025-04-27",
+    "2025-05-18",
+    "2025-08-17",
+    "2025-08-24",
+    "2025-09-28",
+    "2025-10-26",
+    "2025-11-02",
+    "2025-11-09",
+    "2025-11-16",
+    "2025-11-23",
+    "2025-12-07",
+    "2025-12-28",
+    "2026-01-04",
+    "2026-01-11",
+    "2026-01-25",
+    "2026-02-01",
+    "2026-04-05",
+    "2026-04-19",
+    "2026-05-31",
+    "2026-07-05",
+    "2026-09-27"
+   ],
+   "n": 80
+  },
+  {
+   "causa": "Invasão russa da Ucrânia",
+   "paises": [
+    "Alemanha",
+    "Bulgária",
+    "Eslováquia",
+    "Finlândia",
+    "Noruega",
+    "Polônia",
+    "Reino Unido",
+    "Romênia",
+    "Suécia",
+    "Tchéquia",
+    "Áustria"
+   ],
+   "semanas": [
+    "2022-02-27"
+   ],
+   "n": 11
+  },
+  {
+   "causa": "Crise do gás e medo de apagão no inverno",
+   "paises": [
+    "Alemanha"
+   ],
+   "semanas": [
+    "2022-09-04"
+   ],
+   "n": 1
+  },
+  {
+   "causa": "Dinamarca lança guia de 3 dias",
+   "paises": [
+    "Dinamarca"
+   ],
+   "semanas": [
+    "2024-06-16"
+   ],
+   "n": 1
+  },
+  {
+   "causa": "Tempestade Boris e enchentes na Europa Central",
+   "paises": [
+    "Polônia",
+    "Áustria"
+   ],
+   "semanas": [
+    "2024-09-15"
+   ],
+   "n": 2
+  },
+  {
+   "causa": "Folhetos nórdicos de guerra chegam às casas",
+   "paises": [
+    "Noruega"
+   ],
+   "semanas": [
+    "2024-10-27"
+   ],
+   "n": 1
+  },
+  {
+   "causa": "Rússia muda a doutrina nuclear",
+   "paises": [
+    "Bósnia",
+    "Romênia"
+   ],
+   "semanas": [
+    "2024-11-10"
+   ],
+   "n": 2
+  },
+  {
+   "causa": "Holanda prepara campanha nacional de noodpakket",
+   "paises": [
+    "Bélgica",
+    "Holanda"
+   ],
+   "semanas": [
+    "2024-12-08",
+    "2024-12-15"
+   ],
+   "n": 2
+  },
+  {
+   "causa": "Plano ReArm Europe e debate de rearmamento",
+   "paises": [
+    "Chipre",
+    "Dinamarca",
+    "Grécia",
+    "Holanda"
+   ],
+   "semanas": [
+    "2025-03-02"
+   ],
+   "n": 4
+  },
+  {
+   "causa": "França anuncia guia de sobrevivência para todas as casas",
+   "paises": [
+    "França"
+   ],
+   "semanas": [
+    "2025-03-16"
+   ],
+   "n": 1
+  },
+  {
+   "causa": "UE lança a estratégia de 72 horas (Preparedness Union)",
+   "paises": [
+    "Bélgica",
+    "Espanha",
+    "Hungria",
+    "Irlanda",
+    "Itália",
+    "Noruega",
+    "Portugal",
+    "Romênia",
+    "Suíça"
+   ],
+   "semanas": [
+    "2025-03-16",
+    "2025-03-23",
+    "2025-03-30"
+   ],
+   "n": 9
+  },
+  {
+   "causa": "Apagão ibérico (Espanha e Portugal sem luz)",
+   "paises": [
+    "Espanha",
+    "Portugal"
+   ],
+   "semanas": [
+    "2025-04-27"
+   ],
+   "n": 2
+  },
+  {
+   "causa": "EUA bombardeiam o Irã (guerra de 12 dias)",
+   "paises": [
+    "Reino Unido"
+   ],
+   "semanas": [
+    "2025-06-22"
+   ],
+   "n": 1
+  },
+  {
+   "causa": "Drones russos derrubados sobre a Polônia",
+   "paises": [
+    "Estônia",
+    "Letônia"
+   ],
+   "semanas": [
+    "2025-08-31",
+    "2025-09-28"
+   ],
+   "n": 2
+  },
+  {
+   "causa": "Drones fecham aeroportos na Dinamarca",
+   "paises": [
+    "Dinamarca"
+   ],
+   "semanas": [
+    "2025-09-28"
+   ],
+   "n": 1
+  },
+  {
+   "causa": "Guia \"Tous responsables\" do governo francês",
+   "paises": [
+    "França"
+   ],
+   "semanas": [
+    "2025-11-16"
+   ],
+   "n": 1
+  },
+  {
+   "causa": "Campanha \"Denk vooruit\" (noodpakket)",
+   "paises": [
+    "Holanda"
+   ],
+   "semanas": [
+    "2025-11-16"
+   ],
+   "n": 1
+  },
+  {
+   "causa": "Manual \"72 hodin\" enviado a 5,2 mi de casas",
+   "paises": [
+    "Tchéquia"
+   ],
+   "semanas": [
+    "2025-12-07"
+   ],
+   "n": 1
+  },
+  {
+   "causa": "Apagão em Berlim após incêndio criminoso em cabos",
+   "paises": [
+    "Alemanha"
+   ],
+   "semanas": [
+    "2026-01-04"
+   ],
+   "n": 1
+  },
+  {
+   "causa": "Guerra EUA/Israel x Irã e fechamento de Ormuz (28/02 e 02/03)",
+   "paises": [
+    "Chipre",
+    "Croácia",
+    "Hungria",
+    "Noruega",
+    "Reino Unido",
+    "Tchéquia",
+    "Ucrânia"
+   ],
+   "semanas": [
+    "2026-02-15",
+    "2026-02-22",
+    "2026-03-01"
+   ],
+   "n": 7
+  },
+  {
+   "causa": "Bulgária: só 18 dos 247 abrigos prontos",
+   "paises": [
+    "Bulgária"
+   ],
+   "semanas": [
+    "2026-03-08"
+   ],
+   "n": 1
+  },
+  {
+   "causa": "Polônia decola caças com ataque russo à Ucrânia",
+   "paises": [
+    "Polônia"
+   ],
+   "semanas": [
+    "2026-04-05"
+   ],
+   "n": 1
+  },
+  {
+   "causa": "Bélgica lança \"Prêts. Ensemble / Samen voorbereid\"",
+   "paises": [
+    "Bélgica"
+   ],
+   "semanas": [
+    "2026-04-19"
+   ],
+   "n": 1
+  },
+  {
+   "causa": "Alemanha aprova pacto de proteção civil de 10 bi €",
+   "paises": [
+    "Alemanha"
+   ],
+   "semanas": [
+    "2026-05-17"
+   ],
+   "n": 1
+  },
+  {
+   "causa": "Ataque russo com 800 drones após cessar-fogo; Polônia em alerta",
+   "paises": [
+    "Polônia"
+   ],
+   "semanas": [
+    "2026-05-31"
+   ],
+   "n": 1
+  },
+  {
+   "causa": "Drones russos na Romênia e na Moldávia",
+   "paises": [
+    "Polônia",
+    "Romênia"
+   ],
+   "semanas": [
+    "2026-08-23",
+    "2026-09-06"
+   ],
+   "n": 2
+  },
+  {
+   "causa": "Ordem de abrigo nas fronteiras da Letônia e da Estônia por drones",
+   "paises": [
+    "Letônia"
+   ],
+   "semanas": [
+    "2026-09-13"
+   ],
+   "n": 1
+  },
+  {
+   "causa": "Be Ready no Reino Unido (3 dias)",
+   "paises": [
+    "Reino Unido"
+   ],
+   "semanas": [
+    "2026-10-25"
+   ],
+   "n": 1
+  },
+  {
+   "causa": "Normandia pede kit de 3 dias; Newsweek \"33 países\"",
+   "paises": [
+    "França"
+   ],
+   "semanas": [
+    "2026-10-25"
+   ],
+   "n": 1
+  },
+  {
+   "causa": "Comissão Europeia publica diretrizes de 72 h",
+   "paises": [
+    "Irlanda",
+    "Luxemburgo",
+    "Noruega"
+   ],
+   "semanas": [
+    "2026-10-25",
+    "2026-11-08"
+   ],
+   "n": 3
+  },
+  {
+   "causa": "Onda de matérias sobre o kit da UE (Itália, Grécia, Espanha)",
+   "paises": [
+    "Itália"
+   ],
+   "semanas": [
+    "2026-11-08"
+   ],
+   "n": 1
+  }
+ ]
+}

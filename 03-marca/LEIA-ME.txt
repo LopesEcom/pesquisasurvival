@@ -1,0 +1,16 @@
+ETAPA 03, NOME E IDENTIDADE DA MARCA
+
+Esta etapa parte da oferta travada em 02-oferta/.
+
+O que fazer, nesta ordem:
+1. Nome da marca: curto, fácil de falar e que faça sentido para o público
+   (use as palavras e a emoção dos comentários). Domínio e @ não decidem o
+   nome: se estiverem ocupados, use uma variação (.shop, "oficial", "es").
+2. Tom de voz: 3 a 5 regras escritas ("fala como...", "nunca diz...").
+   Use as palavras do público da tela "Voz do público"
+   (../01-pesquisa/paginas/voz-do-publico.html).
+3. Visual: paleta, fonte e logo simples. Guarde aqui em logo/ e capas/.
+4. Mockups do produto (capa do PDF, telas, pacote): é o que aparece na
+   página e nos anúncios.
+
+Depois de pronto, vá para a etapa 04-entregavel/.

@@ -1,0 +1,18 @@
+ETAPA 05, PÁGINA DE VENDAS E CHECKOUT
+
+Abra o pagina-de-vendas.md aqui do lado: a página já vem escrita bloco a
+bloco, e cada bloco diz qual comentário real do público ele responde.
+
+O que fazer:
+1. Monte a página (Lovable, Framer, Netlify, Vercel ou o construtor que
+   preferir) na ordem dos blocos. Mantenha as respostas às objeções: é o
+   que a concorrência não faz (as "brechas" da tela de ofertas).
+2. Crie o produto e os order bumps no checkout (Cakto, Kiwify, Hotmart ou
+   Wiapy no Brasil; Hotmart, Stripe ou Gumroad lá fora). Leia como o
+   checkout cobra: alguns somam taxa ao comprador.
+3. Configure a entrega automática (e-mail com o link) e teste uma compra
+   de verdade antes de anunciar.
+4. Instale o pixel da Meta e confira os eventos de compra.
+5. Guarde aqui os prints da página pronta e os links.
+
+Depois de pronto, vá para a etapa 06-redes/ (pode rodar em paralelo).

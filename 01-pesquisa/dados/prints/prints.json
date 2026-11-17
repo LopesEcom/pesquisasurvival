@@ -1,0 +1,736 @@
+{
+ "F02": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://insiderpaper.com/eu-urges-citizens-to-prepare-for-72-hour-self-sufficiency/",
+  "titulo": "EU urges citizens to prepare for 72-hour self-sufficiency",
+  "bloqueado": false
+ },
+ "F01": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-takes-new-steps-prepare-europeans-growing-crisis-risks-2026-11-03_en",
+  "titulo": "Commission takes new steps to prepare Europeans for growing crisis risks - European Civil Protection and Humanitarian Aid Operations",
+  "bloqueado": false
+ },
+ "F03": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.cnn.com/2025/03/26/europe/european-union-stockpile-member-states-intl-latam",
+  "titulo": "EU urges citizens to stockpile 72 hours’ worth of supplies amid war risk | CNN",
+  "bloqueado": false
+ },
+ "F04": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/europeans-overwhelmingly-support-stronger-eu-civil-protection-cooperation-new-eurobarometer-shows-2026-10-30_en",
+  "titulo": "Europeans overwhelmingly support stronger EU civil protection cooperation, new Eurobarometer shows - European Civil Protection and Humanitarian Aid Operations",
+  "bloqueado": false
+ },
+ "F05": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://en.protothema.gr/2026/11/14/why-the-eu-wants-citizens-to-stock-up-on-72-hr-supplies-ec-explains-new-emergency-preparedness-guidelines/",
+  "titulo": "Why the EU wants citizens to stock up on 72-HR supplies: EC explains new emergency preparedness guidelines - ProtoThema English",
+  "bloqueado": false
+ },
+ "F06": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://en.protothema.gr/2026/11/09/conspiracy-theories-or-secret-eu-intelligence-the-72-hour-survival-kit-alarming-europe/",
+  "titulo": "Conspiracy theories or secret EU intelligence? The 72-hour survival kit alarming Europe - ProtoThema English",
+  "bloqueado": false
+ },
+ "F07": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.snopes.com/news/2026/11/03/emergency-preparedness-kits/",
+  "titulo": "Why you shouldn't panic about governments urging citizens to maintain emergency preparedness kits | Snopes.com",
+  "bloqueado": false
+ },
+ "F08": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.newsweek.com/map-shows-countries-urging-residents-to-stockpile-food-12629524",
+  "titulo": "Map Shows Nations Urging People to Stockpile Food as France Issues Warning",
+  "bloqueado": false
+ },
+ "F09": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.ladbible.com/news/world-news/eu-countries-stockpiling-advice-conflict-power-outage-weather-349905-20260922",
+  "titulo": "What EU countries are telling citizens to stock up on as global WW3 fears rise",
+  "bloqueado": false
+ },
+ "F10": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://greekreporter.com/2026/10/30/household-emergency-supplies-guidance/",
+  "titulo": "Governments Urge Households to Stockpile Food as Global Security Concerns Grow - GreekReporter.com",
+  "bloqueado": false
+ },
+ "F11": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.euronews.com/2026/03/12/europes-civil-shelters-are-crumbling-brussels-cant-do-much-about-it",
+  "titulo": "Europe's civil shelters are crumbling. Brussels can't do much about it | Euronews",
+  "bloqueado": false
+ },
+ "F12": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.euronews.com/2026/06/02/explained-how-drone-incursions-in-europe-went-from-rarity-to-reality",
+  "titulo": "Explained: How drone incursions in Europe went from rarity to reality | Euronews",
+  "bloqueado": false
+ },
+ "F13": {
+  "ok": false,
+  "tipo": "fonte",
+  "url": "https://defencejournal.com/2026/11/01/the-fortress-continent-mapping-europes-nuclear-bunker-obsession/",
+  "titulo": "Just a moment...",
+  "bloqueado": true
+ },
+ "F16": {
+  "ok": false,
+  "tipo": "fonte",
+  "url": "https://www.newsbeep.com/787002/",
+  "erro": "Error: page.goto: net::ERR_CONNECTION_REFUSED at https://www.newsbeep.com/787002/\nCall log:\n\u001b[2m  - navigating to \"https"
+ },
+ "F14": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://phaenyx.com/compare/preparedness-campaigns",
+  "titulo": "Emergency preparedness campaigns in 83 countries · Phaenyx",
+  "bloqueado": false
+ },
+ "F15": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.gov.uk/government/news/households-encouraged-to-take-small-simple-steps-to-stay-prepared-in-an-emergency",
+  "titulo": "Households encouraged to take small, simple steps to stay prepared in an emergency - GOV.UK",
+  "bloqueado": false
+ },
+ "F17": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.lbc.co.uk/article/baked-beans-water-batteries-supermarket-shelves-stockpile-5HjdkWk_2/",
+  "titulo": "Baked beans, water and batteries fly off supermarket shelves as Britain rushes to stockpile emergency kit | LBC",
+  "bloqueado": false
+ },
+ "F19": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.radiox.co.uk/news/uk-world/what-is-in-the-be-ready-checklist-as-britons/",
+  "titulo": "What is in the Be Ready checklist as Britons urged to stock up to survive potential... - Radio X",
+  "bloqueado": false
+ },
+ "F18": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://aljazeera.com/features/2026/11/14/paranoid-or-practical-britains-be-ready-citizen",
+  "titulo": "Paranoid or practical? Britain’s ‘Be Ready’ citizen campaign | Food | Al Jazeera",
+  "bloqueado": false
+ },
+ "F21": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://irelandvoice.com/blog/emergency-preparation-booklet-ireland/",
+  "titulo": "Emergency Preparation Booklet Ireland: 2026 Government Guide - Ireland Voice",
+  "bloqueado": false
+ },
+ "F22": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.newsweek.com/map-shows-countries-urging-residents-to-stockpile-food-12629524",
+  "titulo": "Map Shows Nations Urging People to Stockpile Food as France Issues Warning",
+  "bloqueado": false
+ },
+ "F23": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://phaenyx.com/compare/preparedness-campaigns",
+  "titulo": "Emergency preparedness campaigns in 83 countries · Phaenyx",
+  "bloqueado": false
+ },
+ "F25": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://switzerlandhandbook.com/emergency-preparedness-sirens-sirenentest-and-nuclear-bunkers/",
+  "titulo": "Emergency Preparedness: Sirens (Sirenentest) and Nuclear Bunkers - Switzerland Handbook",
+  "bloqueado": false
+ },
+ "F24": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.dutchnews.nl/2026/02/half-dutch-households-now-have-an-emergency-kit-at-home/",
+  "titulo": "Half Dutch households now have an emergency kit at home - DutchNews.nl",
+  "bloqueado": false
+ },
+ "F26": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.swiss.market/journal/de/zivilschutz-deutschland-schweiz-oesterreich",
+  "titulo": "Zivilschutz in DACH: Deutschland, Schweiz & Österreich",
+  "bloqueado": false
+ },
+ "F28": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.nordkurier.de/politik/kein-krieg-aber-auch-kein-frieden-mehr-mehr-anschlaege-nicht-komplett-unrealistisch-4404723",
+  "titulo": "Zivilschutz in Deutschland: Schutzräume und Vorsorge für Notfälle",
+  "bloqueado": false
+ },
+ "F27": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.bbk.bund.de/SharedDocs/Kurzmeldungen/DE/2026/05/om-22-pakt-bevoelkerungsschutz.html",
+  "titulo": "Unsere Meldungen - Pakt für den Bevölkerungsschutz beschlossen - BBK",
+  "bloqueado": false
+ },
+ "F29": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.cp24.com/news/world/2026/10/05/germany-at-risk-of-violent-conflict-with-russia-intelligence-chief-says/",
+  "titulo": "Germany at risk of violent conflict with Russia: intelligence chief",
+  "bloqueado": false
+ },
+ "F30": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.agi.it/estero/news/2026-11-10/kit-di-sopravvivenza-ue-39965302/",
+  "titulo": "Kit di sopravvivenza Ue: cosa tenere in casa per 72 ore",
+  "bloqueado": false
+ },
+ "F32": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.money.it/kit-di-emergenza-ue-per-72-ore-quanto-costa-prepararlo-e-come-farlo",
+  "titulo": "Kit di emergenza Ue per 72 ore, quanto costa prepararlo (e come farlo)",
+  "bloqueado": false
+ },
+ "F31": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.leggo.it/esteri/news/10_novembre_2026_guerra_kit_sopravvivenza_ue_cosa_mettere_dentro-9881180.html",
+  "titulo": "Guerra, cosa mettere nel kit di sopravvivenza chiesto dall'Ue ai cittadini: «Vigili, non allarmati; preparati, non spaventati»",
+  "bloqueado": false
+ },
+ "F33": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.melamorsicata.it/2026/11/11/kit-emergenza-72-ore/",
+  "titulo": "Kit emergenza 72 ore: cosa prevedono UE e Protezione Civile, e cosa comprare",
+  "bloqueado": false
+ },
+ "F34": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.euronews.com/2026/09/24/what-we-know-about-cia-warning-of-russian-drone-threat-to-southern-europe",
+  "titulo": "What we know about CIA warning of Russian drone threat to southern Europe | Euronews",
+  "bloqueado": false
+ },
+ "F35": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://selectra.es/alarmas/noticias/kit-emergencia-2026-casa-72-horas",
+  "titulo": "Kit de emergencia en casa: cuánta agua guardar por persona y qué más meter para aguantar 72 horas sin luz",
+  "bloqueado": false
+ },
+ "F36": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.euronews.com/2025/04/01/construction-of-private-bunkers-in-spain-rises-200-as-fears-of-war-in-europe-grow",
+  "titulo": "Construction of private bunkers in Spain rises 200% as fears of war in Europe grow | Euronews",
+  "bloqueado": false
+ },
+ "F38": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.mixvale.com.br/2026/11/03/kit-de-emergencia-72-horas-union-europea-guia-para-27-paises-sin/",
+  "titulo": "Kit de emergencia 72 horas Unión Europea: guía para 27 países sin carácter obligatorio",
+  "bloqueado": false
+ },
+ "F37": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.canal26.com/internacionales/tras-el-apagon-en-espana-ue-reivindica-el-kit-de-supervivencia-de-72-horas-que-debe-tener--421427",
+  "titulo": "Tras el apagón en España, UE reivindica el kit de supervivencia de 72 horas: qué debe tener | canal26.com",
+  "bloqueado": false
+ },
+ "F39": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://kit72h.com/",
+  "titulo": "Kit72h — 21 kits de emergencia 72h: DANA, apagón, coche (2026)",
+  "bloqueado": false
+ },
+ "F40": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://notesfrompoland.com/2026/09/25/poland-issues-guidance-on-responding-to-air-attacks-and-warns-of-russia-threat/",
+  "titulo": "Poland issues guidance on responding to air attacks and warns of Russia threat | Notes From Poland",
+  "bloqueado": false
+ },
+ "F41": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://spotmedia.ro/en/news/news/poland-prepares-the-population-for-war-official-guide-for-air-attacks-and-evacuation",
+  "titulo": "Poland prepares the population for war: Official guide for air attacks and evacuation - spotmedia.ro",
+  "bloqueado": false
+ },
+ "F42": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://cyprus-mail.com/2026/11/11/nato-jets-scrambled-as-drone-alerts-sweep-baltic-states",
+  "titulo": "Baltic states issue drone alerts as NATO jets scramble",
+  "bloqueado": false
+ },
+ "F43": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.aljazeera.com/amp/news/2026/3/25/estonia-latvia-report-drone-incursions-from-russian-airspace",
+  "titulo": "Estonia, Latvia report drone incursions from Russian airspace | Russia-Ukraine war News | Al Jazeera",
+  "bloqueado": false
+ },
+ "F44": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://en.wikipedia.org/wiki/2026_Ukrainian_drone_incursions_into_the_Baltic_states",
+  "titulo": "2026 drone incursions into the Baltic states and Finland - Wikipedia",
+  "bloqueado": false
+ },
+ "F45": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.ynetnews.com/article/ryvv2krqgx",
+  "titulo": "Russian nuclear strike threat against Lithuania sparks alarm, then disappears",
+  "bloqueado": false
+ },
+ "F46": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://civil-protection-knowledge-network.europa.eu/list-of-terms/guidelines-and-manuals?page=0",
+  "titulo": "Guidelines and manuals | UCP Knowledge Network",
+  "bloqueado": false
+ },
+ "F47": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://euronews.com/my-europe/2026/05/21/latvia-issues-warning-to-residents-after-detecting-unmanned-aerial-vehicle-in-its-airspace",
+  "titulo": "Latvia issues warning to residents after detecting unmanned aerial vehicle in its airspace | Euronews",
+  "bloqueado": false
+ },
+ "F48": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://cyprus-mail.com/2026/05/29/war-spillover-fears-grow-after-russian-drone-hits-romanian-residential-building-injuring-two",
+  "titulo": "War spillover fears grow after Russian drone hits Romanian residential building injuring two | Cyprus Mail",
+  "bloqueado": false
+ },
+ "F49": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.bta.bg/en/news/bulgaria/1118599-map-shows-247-bomb-shelters-in-bulgaria-18-of-them-functional",
+  "titulo": "BTA :: Map Shows 247 Bomb Shelters in Bulgaria, 18 of Them Functional",
+  "bloqueado": false
+ },
+ "F50": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.polskieradio.pl/395/9766/artykul/3722035,poland-scrambles-fighter-jets-as-russia-rains-missiles-drones-on-ukraine",
+  "titulo": "Poland scrambles fighter jets as Russia rains missiles, drones on Ukraine - English Section",
+  "bloqueado": false
+ },
+ "F51": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://euromaidanpress.com/2026/09/24/drones-moldova-romania-poland-jets-russian-attack/",
+  "titulo": "Russian attack puts three countries on alert as drones enter Moldova and Romania - Euromaidan Press",
+  "bloqueado": false
+ },
+ "F52": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.stripes.com/theaters/europe/2026-09-10/nato-romania-russian-drone-threat-22807183.html",
+  "titulo": "Russian drone flies deep into Romania before crashing in Moldova | Stars and Stripes",
+  "bloqueado": false
+ },
+ "F53": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://phaenyx.com/compare/preparedness-campaigns",
+  "titulo": "Emergency preparedness campaigns in 83 countries · Phaenyx",
+  "bloqueado": false
+ },
+ "F54": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://theconversation.com/keep-nine-litres-of-water-in-storage-how-baltic-and-nordic-countries-are-preparing-for-a-crisis-or-war-244783",
+  "titulo": "‘Keep nine litres of water in storage’: how Baltic and Nordic countries are preparing for a crisis or war",
+  "bloqueado": false
+ },
+ "F56": {
+  "ok": false,
+  "tipo": "fonte",
+  "url": "https://www.thevibes.com/articles/world/129067/thirty-three-countries-urge-households-to-stockpile-essential-supplies-for-emergencies",
+  "titulo": "Just a moment...",
+  "bloqueado": true
+ },
+ "F57": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.goodmorningamerica.com/news/story/4-phases-iran-war-key-moments-start-epic-132703824",
+  "titulo": "4 phases of the Iran war: Key moments from start of 'Epic Fury' to 'Project Freedom' - Good Morning America",
+  "bloqueado": false
+ },
+ "F58": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.globalsecurity.org/military/ops/iran-war-20260826.htm",
+  "titulo": "Attention Required! | Cloudflare",
+  "bloqueado": false
+ },
+ "F59": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.cnn.com/2026/10/19/middleeast/iran-us-conflict-warning-intl",
+  "titulo": "‘The world will be amazed:’ Iran’s commanders prepare for further war | CNN",
+  "bloqueado": false
+ },
+ "F60": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.cnbc.com/2026/05/18/europe-oil-shortage-iran-war-price-shock-inventory-strait-hormuz.html",
+  "titulo": "Strategists: Iran oil shock may deplete global stockpiles until 2027",
+  "bloqueado": false
+ },
+ "F61": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://www.iranintl.com/en/202611036564",
+  "titulo": "Iran’s war threats now reach Europe, from Cyprus to Britain | Iran International",
+  "bloqueado": false
+ },
+ "F62": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://growthmarketreports.com/report/survival-kit-market",
+  "titulo": "Survival Kit Market Size, Share & Growth | USD 4.34 Bn by 2034",
+  "bloqueado": false
+ },
+ "F63": {
+  "ok": true,
+  "tipo": "fonte",
+  "url": "https://markwideresearch.com/europe-emergency-food-market",
+  "titulo": "Europe Emergency Food Market Size, Share, and Industry Trends Forecast 2026-2036 | MarkWide Research",
+  "bloqueado": false
+ },
+ "the-lost-skills-of-independence": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://www.thelostskillsofindependence.com/book",
+  "titulo": "The Lost Skills of Independence",
+  "bloqueado": false
+ },
+ "bug-in-guide": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://www.buginguide.com/book/",
+  "titulo": "A Navy Seal's Bug-In Guide",
+  "bloqueado": false
+ },
+ "the-amish-ways": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://www.theamishways.com/book/",
+  "titulo": "The Amish Ways",
+  "bloqueado": false
+ },
+ "the-lost-super-foods": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://thelostsuperfoods.com/book/",
+  "titulo": "The Lost Super Foods",
+  "bloqueado": false
+ },
+ "amish-survival-secrets": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://reports.homesteadingsecrets.com/survey-amish-survival-guide7bmn7z7l",
+  "titulo": "Take Our Survey & Claim Your FREE Amish Survival Book!",
+  "bloqueado": false
+ },
+ "amish-self-reliance-secrets": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://reports.homesteadingsecrets.com/",
+  "titulo": "Your Free Copy of Homesteading Secrets",
+  "bloqueado": false
+ },
+ "roy-the-prepper": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://prep.royfoley.com/water-generator",
+  "titulo": "FREE Battery Reconditioning Book",
+  "bloqueado": false
+ },
+ "ready-nation-usa": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://guardsurvival.com/pages/advertorial-v3-water-bag",
+  "titulo": "Advertorial V3 Water bag – Guard Survival",
+  "bloqueado": false
+ },
+ "blackout-water": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://www.tryblackoutwater.com/pages/advertorial",
+  "titulo": "Advertorial – Blackout Water",
+  "bloqueado": false
+ },
+ "ray-bennett": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://www.tryblackoutwater.com/",
+  "titulo": "Blackout Water",
+  "bloqueado": false
+ },
+ "american-ready": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://safereservesupply.com/",
+  "titulo": "SafeReserve",
+  "bloqueado": false
+ },
+ "sierra-madre": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://offer.sierramadreresearch.com/emergency-sleeping-bag",
+  "titulo": "Save Up To 75% on Emergency Sleeping Bag",
+  "bloqueado": false
+ },
+ "terrashell-by-quietprotector": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://tryterrashell.com/",
+  "titulo": "tryterrashell.com",
+  "bloqueado": false
+ },
+ "jake-morrison": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://tryterrashell.com/",
+  "titulo": "tryterrashell.com",
+  "bloqueado": false
+ },
+ "preparedness-insiders": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://try.thegreatproject.com/tr-fb",
+  "titulo": "The Pentagon Is Preparing Bases for 90 Days Cut Off From the Grid. Is Your Home Ready?",
+  "bloqueado": false
+ },
+ "food-storage-tips": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://masongenie.com/",
+  "titulo": "Mason Genie",
+  "bloqueado": false
+ },
+ "verva-masks": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://shopverva.com/",
+  "titulo": "Verva",
+  "bloqueado": false
+ },
+ "linda-thompson": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://gardenspulse.com/",
+  "titulo": "Garden's Pulse – Garden's Pulse",
+  "bloqueado": false
+ },
+ "4patriots": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://go.4patriots.com/2200x/",
+  "titulo": "Less Than $299 a Month: NEW Patriot Power Generator 2200X + FREE 200-Watt Solar Panel - 4Patriots",
+  "bloqueado": false
+ },
+ "prepper-disk": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://www.prepperdisk.com/pages/landing",
+  "titulo": "Landing – Prepper Disk",
+  "bloqueado": false
+ },
+ "last-country-supply": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://lastcountrysupply.com/",
+  "titulo": "Last Country",
+  "bloqueado": false
+ },
+ "emily-johnson": {
+  "ok": false,
+  "tipo": "concorrente",
+  "url": "https://thefaithmade.com/pages/last-days",
+  "titulo": "Access Denied",
+  "bloqueado": true
+ },
+ "notfall-kompass": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://virest.de/products/hydra-x1-notfall-wasserfilter-1-500-liter",
+  "titulo": "HYDRO-X1 Notfall Wasserfilter (1.500 Liter) – Virest",
+  "bloqueado": false
+ },
+ "blackoutreport": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://blackoutreport.de/72-stunden-vorsorge",
+  "titulo": "EU: 72 Stunden ohne Strom – was jetzt in jeden Haushalt gehört | BlackoutReport",
+  "bloqueado": false
+ },
+ "ready-families-network": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://standbysupplyco.com/pages/uk-household-water-report",
+  "titulo": "Emergency Water Storage in the UK: The Flaw in Storing 120 Litres – Standby Supply",
+  "bloqueado": false
+ },
+ "uk-be-ready": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://helorafit.com/pages/uk-emergency-radio-report",
+  "titulo": "UK Emergency Radio Report – Helora Fit",
+  "bloqueado": false
+ },
+ "simone-fischer": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://schutzheld.shop/",
+  "titulo": "SchutzHeld",
+  "bloqueado": false
+ },
+ "virest": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://virest.de/",
+  "titulo": "Virest",
+  "bloqueado": false
+ },
+ "krisensicher26": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://krisensicher26.de/",
+  "titulo": "Notfallrucksack komplett gepackt – 72-Stunden-Krisenset | krisensicher26",
+  "bloqueado": false
+ },
+ "aquasecours": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://aquasecours.com/products/kit-de-survie-aqua-gs1",
+  "titulo": "Kit de survie AQUA-GS1 – Aquasecours",
+  "bloqueado": false
+ },
+ "adventureshop": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://adventure-shop.at/",
+  "titulo": "Adventure Shop",
+  "bloqueado": false
+ },
+ "page-survie-entre-fran-ais": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://autarka-shop.com/products/aqua-gs1",
+  "titulo": "Autarka Aqua Gravity - Advanced Water Filter – AUTARKA",
+  "bloqueado": false
+ },
+ "swiss-lifebox": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://swiss-lifebox.ch/",
+  "titulo": "Swiss LifeBox",
+  "bloqueado": false
+ },
+ "nord-survival": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://nord-survival.com/products/kit-de-survie-72h",
+  "titulo": "Kit de survie 72 h · la liste officielle, déjà prête – Nord Survival",
+  "bloqueado": false
+ },
+ "le-magazine-de-la-survie": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://swiss-lifebox.ch/",
+  "titulo": "Swiss LifeBox",
+  "bloqueado": false
+ },
+ "help-bag": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://helpbag.eu/",
+  "titulo": "HELP BAG® - Twoje bezpieczeństwo w jednym plecaku!",
+  "bloqueado": false
+ },
+ "zolano-b-d-przygotowany": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://zolano.pl/",
+  "titulo": "Zestaw Bądź Przygotowany",
+  "bloqueado": false
+ },
+ "bezpieczne-radio": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://bezpieczneradio.pl/",
+  "titulo": "BezpieczneRadio",
+  "bloqueado": false
+ },
+ "hydromeal": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://hydromeal.nl/",
+  "titulo": "Gevriesdroogde maaltijden voor je noodpakket | Hydromeal",
+  "bloqueado": false
+ },
+ "everyneeding": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://everyneeding.com/",
+  "titulo": "Everyneeding",
+  "bloqueado": false
+ },
+ "frenley": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://frenley.nl/",
+  "titulo": "Frenley.nl",
+  "bloqueado": false
+ },
+ "topdeals": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://le-manuel-de-survie.impultienda.ar/",
+  "titulo": "Le Manuel de Survie · Votre foyer préparé, étape par étape",
+  "bloqueado": false
+ },
+ "superarte": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://casarefugio.impultienda.ar/",
+  "titulo": "Casa Refugio Protocolo 72 Horas | Guía imprimible para emergencias",
+  "bloqueado": false
+ },
+ "survival-school-sos2012": {
+  "ok": true,
+  "tipo": "concorrente",
+  "url": "https://www.sos2012.it/",
+  "titulo": "Home - SOS2012",
+  "bloqueado": false
+ }
+}

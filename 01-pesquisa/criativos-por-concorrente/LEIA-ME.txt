@@ -1,0 +1,74 @@
+CRIATIVOS POR CONCORRENTE
+==========================
+Coleta: Biblioteca de Anúncios da Meta, 16/11/2026. Até 8 criativos diferentes por concorrente (4 mais antigos no ar + 4 mais novos).
+Cada pasta tem os vídeos e imagens e um ficha.txt com produto, funil, anúncios ativos, o texto de cada anúncio e a transcrição do começo de cada vídeo.
+
+
+A. EUA · Livros com VSL (rede Global Brother, Digistore24)
+   O modelo a seguir: livro + VSL longa + checkout com bônus.
+   01. The Lost Skills of Independence (EUA) · 834 ativos · 8 criativos → A-eua-livros-com-vsl-rede-global-brother-digistore/01-the-lost-skills-of-independence
+   02. Bug in Guide  (EUA) · 739 ativos · 8 criativos → A-eua-livros-com-vsl-rede-global-brother-digistore/02-bug-in-guide
+   03. The Amish Ways (EUA) · 399 ativos · 4 criativos → A-eua-livros-com-vsl-rede-global-brother-digistore/03-the-amish-ways
+   04. The Lost Super Foods (EUA) · 69 ativos · 2 criativos → A-eua-livros-com-vsl-rede-global-brother-digistore/04-the-lost-super-foods
+
+B. EUA · Livro grátis por quiz (captação de e-mail)
+   Isca grátis, quiz curto, oferta depois do e-mail.
+   01. Amish Survival Secrets (EUA) · 159 ativos · 4 criativos → B-eua-livro-gr-tis-por-quiz-capta-o-de-e-mail/01-amish-survival-secrets
+   02. Roy The Prepper (EUA) · 28 ativos · 6 criativos → B-eua-livro-gr-tis-por-quiz-capta-o-de-e-mail/02-roy-the-prepper
+   03. Amish Self Reliance Secrets (EUA) · ? ativos · 3 criativos → B-eua-livro-gr-tis-por-quiz-capta-o-de-e-mail/03-amish-self-reliance-secrets
+
+C. EUA · Advertorial + produto físico
+   Matéria em primeira pessoa que vende um item (água, rádio, manta).
+   01. TerraShell by QuietProtector (EUA) · 4216 ativos · 3 criativos → C-eua-advertorial-produto-f-sico/01-terrashell-by-quietprotector
+   02. Sierra Madre (EUA) · 1383 ativos · 8 criativos → C-eua-advertorial-produto-f-sico/02-sierra-madre
+   03. Jake Morrison (EUA/RU) · 1071 ativos · 6 criativos → C-eua-advertorial-produto-f-sico/03-jake-morrison
+   04. Ready Nation USA (EUA) · 986 ativos · 8 criativos → C-eua-advertorial-produto-f-sico/04-ready-nation-usa
+   05. Blackout Water (EUA) · 633 ativos · 8 criativos → C-eua-advertorial-produto-f-sico/05-blackout-water
+   06. American Ready (EUA) · 493 ativos · 6 criativos → C-eua-advertorial-produto-f-sico/06-american-ready
+   07. Food Storage Tips (EUA) · 388 ativos · 7 criativos → C-eua-advertorial-produto-f-sico/07-food-storage-tips
+   08. Verva Masks (EUA) · 362 ativos · 4 criativos → C-eua-advertorial-produto-f-sico/08-verva-masks
+   09. Preparedness Insiders (EUA) · 4 ativos · 3 criativos → C-eua-advertorial-produto-f-sico/09-preparedness-insiders
+   10. Ray Bennett (EUA) · ? ativos · 5 criativos → C-eua-advertorial-produto-f-sico/10-ray-bennett
+   11. Linda Thompson (EUA) · 0 ativos · 1 criativos → C-eua-advertorial-produto-f-sico/11-linda-thompson
+
+D. EUA · Lojas e produtos de preparação
+   Comida, energia, internet offline.
+   01. 4Patriots (EUA) · 370 ativos · 8 criativos → D-eua-lojas-e-produtos-de-prepara-o/01-4patriots
+   02. Prepper Disk (EUA) · 47 ativos · 8 criativos → D-eua-lojas-e-produtos-de-prepara-o/02-prepper-disk
+   03. Last Country Supply (EUA) · 12 ativos · 4 criativos → D-eua-lojas-e-produtos-de-prepara-o/03-last-country-supply
+
+E. Europa · Advertorial com a campanha oficial
+   O mesmo modelo americano, já traduzido e usando o guia do governo.
+   01. Simone Fischer (Alemanha) · 306 ativos · 7 criativos → E-europa-advertorial-com-a-campanha-oficial/01-simone-fischer
+   02. UK Be Ready (Reino Unido) · 265 ativos · 2 criativos → E-europa-advertorial-com-a-campanha-oficial/02-uk-be-ready
+   03. Notfall Kompass (Alemanha) · 227 ativos · 8 criativos → E-europa-advertorial-com-a-campanha-oficial/03-notfall-kompass
+   04. Ready Families Network (Reino Unido) · 148 ativos · 2 criativos → E-europa-advertorial-com-a-campanha-oficial/04-ready-families-network
+   05. BlackoutReport (Alemanha) · 10 ativos · 8 criativos → E-europa-advertorial-com-a-campanha-oficial/05-blackoutreport
+
+F. Europa · Kits, mochilas e itens físicos
+   Lojas locais de kit de 72 h, rádio, filtro e comida.
+   01. Swiss LifeBox (Suíça (DE/FR/IT)) · 799 ativos · 8 criativos → F-europa-kits-mochilas-e-itens-f-sicos/01-swiss-lifebox
+   02. Le Magazine de la Survie (Suíça/França) · 453 ativos · 3 criativos → F-europa-kits-mochilas-e-itens-f-sicos/02-le-magazine-de-la-survie
+   03. Aquasecours (França) · 103 ativos · 8 criativos → F-europa-kits-mochilas-e-itens-f-sicos/03-aquasecours
+   04. Help Bag (Polônia) · 101 ativos · 8 criativos → F-europa-kits-mochilas-e-itens-f-sicos/04-help-bag
+   05. Adventureshop (Áustria) · 80 ativos · 4 criativos → F-europa-kits-mochilas-e-itens-f-sicos/05-adventureshop
+   06. Bezpieczne Radio (Polônia) · 56 ativos · 7 criativos → F-europa-kits-mochilas-e-itens-f-sicos/06-bezpieczne-radio
+   07. Virest (Alemanha) · 51 ativos · 4 criativos → F-europa-kits-mochilas-e-itens-f-sicos/07-virest
+   08. Page survie entre français (França) · 16 ativos · 8 criativos → F-europa-kits-mochilas-e-itens-f-sicos/08-page-survie-entre-fran-ais
+   09. Hydromeal (Holanda) · 7 ativos · 5 criativos → F-europa-kits-mochilas-e-itens-f-sicos/09-hydromeal
+   10. Zolano - Bądź Przygotowany. (Polônia) · 6 ativos · 3 criativos → F-europa-kits-mochilas-e-itens-f-sicos/10-zolano-b-d-przygotowany
+   11. Krisensicher26 (Alemanha) · 4 ativos · 2 criativos → F-europa-kits-mochilas-e-itens-f-sicos/11-krisensicher26
+   12. Nord Survival (França/Holanda) · 0 ativos · 6 criativos → F-europa-kits-mochilas-e-itens-f-sicos/12-nord-survival
+
+G. Europa · Guias digitais e cursos (o formato que você venderia)
+   PDF ou curso no idioma local.
+   01. Survival School Sos2012 (Itália) · 103 ativos · 8 criativos → G-europa-guias-digitais-e-cursos-o-formato-que-voc/01-survival-school-sos2012
+   02. Búnker en Casa (Espanha) · 96 ativos · 0 criativos → G-europa-guias-digitais-e-cursos-o-formato-que-voc/02-bunker-en-casa
+   03. SuperArte (Espanha) · 21 ativos · 2 criativos → G-europa-guias-digitais-e-cursos-o-formato-que-voc/03-superarte
+   04. Topdeals (França) · 16 ativos · 4 criativos → G-europa-guias-digitais-e-cursos-o-formato-que-voc/04-topdeals
+
+H. Fora do tema central (ruído útil)
+   Apareceram nas buscas, mas vendem outra coisa.
+   01. Emily Johnson (EUA) · 1875 ativos · 5 criativos → H-fora-do-tema-central-ru-do-til/01-emily-johnson
+   02. Everyneeding (Global) · 259 ativos · 1 criativos → H-fora-do-tema-central-ru-do-til/02-everyneeding
+   03. Frenley (Holanda) · 32 ativos · 6 criativos → H-fora-do-tema-central-ru-do-til/03-frenley

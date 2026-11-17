@@ -1,0 +1,185 @@
+{
+ "gerado_em": "2026-11-16T06:31:13.250Z",
+ "fonte": "Índice de endereços do Internet Archive",
+ "cobertura": [
+  {
+   "dominio": "thelostskillsofindependence.com",
+   "status": "ok",
+   "upsell": 0,
+   "obrigado": 0,
+   "plugin_upsell": false
+  },
+  {
+   "dominio": "buginguide.com",
+   "status": "ok",
+   "upsell": 0,
+   "obrigado": 0,
+   "plugin_upsell": false
+  },
+  {
+   "dominio": "theamishways.com",
+   "status": "ok",
+   "upsell": 0,
+   "obrigado": 0,
+   "plugin_upsell": false
+  },
+  {
+   "dominio": "thelostsuperfoods.com",
+   "status": "ok",
+   "upsell": 0,
+   "obrigado": 1,
+   "plugin_upsell": false
+  },
+  {
+   "dominio": "selfsufficientbackyard.com",
+   "status": "ok",
+   "upsell": 0,
+   "obrigado": 4,
+   "plugin_upsell": false
+  },
+  {
+   "dominio": "homesteadingsecrets.com",
+   "status": "ok",
+   "upsell": 0,
+   "obrigado": 0,
+   "plugin_upsell": false
+  },
+  {
+   "dominio": "royfoley.com",
+   "status": "ok",
+   "upsell": 0,
+   "obrigado": 5,
+   "plugin_upsell": false
+  },
+  {
+   "dominio": "guardsurvival.com",
+   "status": "ok",
+   "upsell": 0,
+   "obrigado": 0,
+   "plugin_upsell": false
+  },
+  {
+   "dominio": "tryblackoutwater.com",
+   "status": "ok",
+   "upsell": 0,
+   "obrigado": 0,
+   "plugin_upsell": false
+  },
+  {
+   "dominio": "4patriots.com",
+   "status": "ok",
+   "upsell": 0,
+   "obrigado": 0,
+   "plugin_upsell": false
+  },
+  {
+   "dominio": "prepperdisk.com",
+   "status": "ok",
+   "upsell": 0,
+   "obrigado": 0,
+   "plugin_upsell": false
+  },
+  {
+   "dominio": "skillsofindependence.com",
+   "status": "ok",
+   "upsell": 0,
+   "obrigado": 0,
+   "plugin_upsell": false
+  }
+ ],
+ "google": [
+  {
+   "termo": "survival",
+   "consulta": "inurl:upsell survival",
+   "url": "https://www.google.com/search?q=inurl%3Aupsell%20survival"
+  },
+  {
+   "termo": "prepper",
+   "consulta": "inurl:upsell prepper",
+   "url": "https://www.google.com/search?q=inurl%3Aupsell%20prepper"
+  },
+  {
+   "termo": "emergency kit",
+   "consulta": "inurl:upsell emergency kit",
+   "url": "https://www.google.com/search?q=inurl%3Aupsell%20emergency%20kit"
+  },
+  {
+   "termo": "stockpile",
+   "consulta": "inurl:upsell stockpile",
+   "url": "https://www.google.com/search?q=inurl%3Aupsell%20stockpile"
+  }
+ ],
+ "aviso": "Página de terceiros: referência do que se vende depois da compra, nunca produto.",
+ "itens": [
+  {
+   "dominio": "thelostsuperfoods.com",
+   "url": "https://thelostsuperfoods.com/contact-thank-you/",
+   "arquivado_em": "2026-02-08",
+   "arquivo": "https://web.archive.org/web/20260208053830/https://thelostsuperfoods.com/contact-thank-you/",
+   "tipo": "obrigado"
+  },
+  {
+   "dominio": "selfsufficientbackyard.com",
+   "url": "https://www.selfsufficientbackyard.com/medical-preparedness-package-thank-you-page-ssb-upgradefinal/?iv=NTM5RkNBQkM5QzJEODE2Nw%3D%3D&params=XEXAEGI2fBt8Q%2FROpsygwe2XcAYIEWf5BgXHxDcTrtWD6s5gjcaYB3hOnvZ%2Bv%2FpalB%2FomNMC03tjjAKcq35YA4vkQG%2FzfcpaOTCPJ%2BWALBl7mTRYHNKbWtapRSDOXfttTAxsglXjHpGBcmJuxIYVXgbrU65YDT8EOAY83gusDA6bbz9rx5fCSduwZlT4k5nQwVfFA74OOvQZixREGbac0WOD3n1OW%2B%2FjuzcvlPetVA9wuzhWP%2BrltrYIYFZuPZLr0GJNLMC6Cf7YGDISWaHgJnd6XxfErol5FHsOTzNiD%2B0LOEncUJIEvFKdwCBksueU5Fx2h%2B8MQALN9c8IpnJJ9g%3D%3D",
+   "arquivado_em": "2023-11-20",
+   "arquivo": "https://web.archive.org/web/20231120230451/https://www.selfsufficientbackyard.com/medical-preparedness-package-thank-you-page-ssb-upgradefinal/?iv=NTM5RkNBQkM5QzJEODE2Nw%3D%3D&params=XEXAEGI2fBt8Q%2FROpsygwe2XcAYIEWf5BgXHxDcTrtWD6s5gjcaYB3hOnvZ%2Bv%2FpalB%2FomNMC03tjjAKcq35YA4vkQG%2FzfcpaOTCPJ%2BWALBl7mTRYHNKbWtapRSDOXfttTAxsglXjHpGBcmJuxIYVXgbrU65YDT8EOAY83gusDA6bbz9rx5fCSduwZlT4k5nQwVfFA74OOvQZixREGbac0WOD3n1OW%2B%2FjuzcvlPetVA9wuzhWP%2BrltrYIYFZuPZLr0GJNLMC6Cf7YGDISWaHgJnd6XxfErol5FHsOTzNiD%2B0LOEncUJIEvFKdwCBksueU5Fx2h%2B8MQALN9c8IpnJJ9g%3D%3D",
+   "tipo": "obrigado"
+  },
+  {
+   "dominio": "selfsufficientbackyard.com",
+   "url": "https://www.selfsufficientbackyard.com/thank-you-enhanced-preparedness-program-ssb-upgrade/?iv=OTc3NDAzNUVGMThBN0NFNg%3D%3D&params=YAMNow5Ke%2FGUAoT6uvIG%2Boy4JnfopD1TwVFzygib%2FwoGI2%2FrWsHZ3xevlGBh%2BUzDoLP20ZX8vMOLdKXmAgtIQkDtCM6PrvbtoWHSFdzH7YebsNNed%2Fh7Twu55OChv0P%2FISWhieRkOxIqSYvZ70yaGUDIZhapsQXq7guzhFmA2xtb5E1g86c8mzeT76sYalxlWNDheyk7Fgrw9HKg%2FPgUNgY2WrWVyrsx%2FgR1dMkwEgr1%2FQwKilrgGD09IJWWRStRStf7lrU3%2FiAR7R%2B23T4FpJQV1XlUdbYH%2BEaaTkqR2uceG062J4SbspH5RVbB2%2BToLI6CqFK%2F7gY060cKPa%2BxGg%3D%3D",
+   "arquivado_em": "2023-11-20",
+   "arquivo": "https://web.archive.org/web/20231120230400/https://www.selfsufficientbackyard.com/thank-you-enhanced-preparedness-program-ssb-upgrade/?iv=OTc3NDAzNUVGMThBN0NFNg%3D%3D&params=YAMNow5Ke%2FGUAoT6uvIG%2Boy4JnfopD1TwVFzygib%2FwoGI2%2FrWsHZ3xevlGBh%2BUzDoLP20ZX8vMOLdKXmAgtIQkDtCM6PrvbtoWHSFdzH7YebsNNed%2Fh7Twu55OChv0P%2FISWhieRkOxIqSYvZ70yaGUDIZhapsQXq7guzhFmA2xtb5E1g86c8mzeT76sYalxlWNDheyk7Fgrw9HKg%2FPgUNgY2WrWVyrsx%2FgR1dMkwEgr1%2FQwKilrgGD09IJWWRStRStf7lrU3%2FiAR7R%2B23T4FpJQV1XlUdbYH%2BEaaTkqR2uceG062J4SbspH5RVbB2%2BToLI6CqFK%2F7gY060cKPa%2BxGg%3D%3D",
+   "tipo": "obrigado"
+  },
+  {
+   "dominio": "selfsufficientbackyard.com",
+   "url": "https://www.selfsufficientbackyard.com/thank-you-page/?iv=NkU0ODU0RkRFM0U0NjVCQg%3D%3D&params=h4NNv8RuOpTtK1NWBgCJBUFpAjDSg2GjUca%2FcIbmvQNtN%2BTJCKC8DSg8lJoR9ypdhPJm54vRtFJ1kPC6C0Mp4cApa6roLYVqWIs2dUR3fy65DCEar3Y4zIp6SLvhkN8kKQiY3i918Jui1HiumAZaEUwIDOJzIfhtwrKfmmqiBF1KklPwCOV0OZZifmUoQ4aZXvpzgtom%2BvH6n%2BM%2BvakRBH8gpLPyxRS901efSjzqkg%2F7ViKBJ%2FJkasXAEltM2RbJ3XPTWMj3UjxsQQOH8Z90UBvfIo5l%2F6Wg9NZqrlisoC9KXYJfv5KvksmUZW95V643",
+   "arquivado_em": "2023-11-20",
+   "arquivo": "https://web.archive.org/web/20231120225804/https://www.selfsufficientbackyard.com/thank-you-page/?iv=NkU0ODU0RkRFM0U0NjVCQg%3D%3D&params=h4NNv8RuOpTtK1NWBgCJBUFpAjDSg2GjUca%2FcIbmvQNtN%2BTJCKC8DSg8lJoR9ypdhPJm54vRtFJ1kPC6C0Mp4cApa6roLYVqWIs2dUR3fy65DCEar3Y4zIp6SLvhkN8kKQiY3i918Jui1HiumAZaEUwIDOJzIfhtwrKfmmqiBF1KklPwCOV0OZZifmUoQ4aZXvpzgtom%2BvH6n%2BM%2BvakRBH8gpLPyxRS901efSjzqkg%2F7ViKBJ%2FJkasXAEltM2RbJ3XPTWMj3UjxsQQOH8Z90UBvfIo5l%2F6Wg9NZqrlisoC9KXYJfv5KvksmUZW95V643",
+   "tipo": "obrigado"
+  },
+  {
+   "dominio": "selfsufficientbackyard.com",
+   "url": "https://www.selfsufficientbackyard.com/the-lost-books-bundle-thank-you-page-ssb-upgradefinal/?iv=OTc3NDAzNUVGMThBN0NFNg%3D%3D&params=WGpi%2Bi9g5egvoszoq88FxHVwh90YFbUUwYgJ%2BNMJdPTBkxEkidNjcGDKoDOSFzw%2FiCDqLiOAZQYMPm9k05MgrcPfM3rxfSZQuOPtN97%2FHETBSYWPK1ZeYJcCf0q80p%2FhJvnHzLK2ZU1c2vhIt3rjyYH1KGL3UrywzGX0wCYV%2BV2RCtLog8hkloDeP%2FdvdmRw1hTqYjORx8DDryEKKrUPcgCtrtlxa0M4LxhB1T7prwHNVr6lOJL1M1PBUG3GPGKFwClHs4F9eiqE9HTi6P0t46QemLZK%2FxWrELJoyh1ZPOwrM85yHUCGcEzF3YNVquXycinTRwNj5DT9bVF3DokLHg%3D%3D",
+   "arquivado_em": "2023-11-20",
+   "arquivo": "https://web.archive.org/web/20231120225828/https://www.selfsufficientbackyard.com/the-lost-books-bundle-thank-you-page-ssb-upgradefinal/?iv=OTc3NDAzNUVGMThBN0NFNg%3D%3D&params=WGpi%2Bi9g5egvoszoq88FxHVwh90YFbUUwYgJ%2BNMJdPTBkxEkidNjcGDKoDOSFzw%2FiCDqLiOAZQYMPm9k05MgrcPfM3rxfSZQuOPtN97%2FHETBSYWPK1ZeYJcCf0q80p%2FhJvnHzLK2ZU1c2vhIt3rjyYH1KGL3UrywzGX0wCYV%2BV2RCtLog8hkloDeP%2FdvdmRw1hTqYjORx8DDryEKKrUPcgCtrtlxa0M4LxhB1T7prwHNVr6lOJL1M1PBUG3GPGKFwClHs4F9eiqE9HTi6P0t46QemLZK%2FxWrELJoyh1ZPOwrM85yHUCGcEzF3YNVquXycinTRwNj5DT9bVF3DokLHg%3D%3D",
+   "tipo": "obrigado"
+  },
+  {
+   "dominio": "royfoley.com",
+   "url": "https://www.royfoley.com/?tcb_lightbox=lightbox-thankyou-knowhow-course-video-welcome-page",
+   "arquivado_em": "2020-10-20",
+   "arquivo": "https://web.archive.org/web/20201020002750/https://www.royfoley.com/?tcb_lightbox=lightbox-thankyou-knowhow-course-video-welcome-page",
+   "tipo": "obrigado"
+  },
+  {
+   "dominio": "royfoley.com",
+   "url": "https://www.royfoley.com/freeplans-thankyou/",
+   "arquivado_em": "2020-10-20",
+   "arquivo": "https://web.archive.org/web/20201020233830/https://www.royfoley.com/freeplans-thankyou/",
+   "tipo": "obrigado"
+  },
+  {
+   "dominio": "royfoley.com",
+   "url": "https://www.royfoley.com/freeplans-thankyour/",
+   "arquivado_em": "2020-10-20",
+   "arquivo": "https://web.archive.org/web/20201020224729/https://www.royfoley.com/freeplans-thankyour/",
+   "tipo": "obrigado"
+  },
+  {
+   "dominio": "royfoley.com",
+   "url": "https://www.royfoley.com/thankyou/",
+   "arquivado_em": "2020-10-20",
+   "arquivo": "https://web.archive.org/web/20201020223522/https://www.royfoley.com/thankyou/",
+   "tipo": "obrigado"
+  },
+  {
+   "dominio": "royfoley.com",
+   "url": "https://www.royfoley.com/thankyou2/",
+   "arquivado_em": "2020-10-20",
+   "arquivo": "https://web.archive.org/web/20201020234549/https://www.royfoley.com/thankyou2/",
+   "tipo": "obrigado"
+  }
+ ]
+}

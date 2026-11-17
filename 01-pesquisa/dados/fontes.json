@@ -1,0 +1,861 @@
+{
+ "gerado_em": "2026-11-16",
+ "fontes": [
+  {
+   "id": "F01",
+   "data": "2026-11-03",
+   "pais": "UE",
+   "categoria": "Oficial",
+   "confianca": "alta",
+   "titulo": "Comissão apresenta diretrizes de preparação da população",
+   "resumo": "Comunicação C(2026) 8250, apresentada por Hadja Lahbib no Fórum Europeu de Proteção Civil: cada casa deve cobrir as necessidades das primeiras 72 horas (água, comida sem cozimento, remédios, lanterna, pilhas, dinheiro, rádio). Não é lei; cada governo adapta a lista.",
+   "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-takes-new-steps-prepare-europeans-growing-crisis-risks-2026-11-03_en",
+   "uso": "Prova oficial para a página e os anúncios: \"a própria UE recomenda\"."
+  },
+  {
+   "id": "F02",
+   "data": "2026-11-03",
+   "pais": "UE",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "UE pede autossuficiência de 72 horas",
+   "resumo": "Resumo da orientação: comida não perecível, remédios, higiene, dinheiro vivo e cerca de 6 litros de água por pessoa.",
+   "url": "https://insiderpaper.com/eu-urges-citizens-to-prepare-for-72-hour-self-sufficiency/",
+   "uso": "Lista base do produto."
+  },
+  {
+   "id": "F03",
+   "data": "2025-03-26",
+   "pais": "UE",
+   "categoria": "Imprensa",
+   "confianca": "alta",
+   "titulo": "Estratégia Preparedness Union (origem das 72 h)",
+   "resumo": "Em março de 2025 a UE lançou a estratégia que pediu às famílias estoque de pelo menos 72 horas; foi o primeiro grande pico de buscas na Europa.",
+   "url": "https://www.cnn.com/2025/03/26/europe/european-union-stockpile-member-states-intl-latam",
+   "uso": "Explica o pico de março de 2025 no Trends."
+  },
+  {
+   "id": "F04",
+   "data": "2026-10-30",
+   "pais": "UE",
+   "categoria": "Oficial",
+   "confianca": "alta",
+   "titulo": "Eurobarômetro sobre proteção civil",
+   "resumo": "94% dos europeus apoiam ajuda entre países em desastre e 91% querem ação coordenada mais forte. Não mede quantas casas têm estoque.",
+   "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/europeans-overwhelmingly-support-stronger-eu-civil-protection-cooperation-new-eurobarometer-shows-2026-10-30_en",
+   "uso": "O tema tem apoio público, não é nicho de \"preppers\"."
+  },
+  {
+   "id": "F05",
+   "data": "2026-11-14",
+   "pais": "UE/GR",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "Por que a UE quer que você estoque 72 h (Protothema)",
+   "resumo": "Imprensa grega explica as diretrizes da Comissão; mostra que a onda chegou também à Grécia.",
+   "url": "https://en.protothema.gr/2026/11/14/why-the-eu-wants-citizens-to-stock-up-on-72-hr-supplies-ec-explains-new-emergency-preparedness-guidelines/",
+   "uso": "Grécia entra no radar."
+  },
+  {
+   "id": "F06",
+   "data": "2026-11-09",
+   "pais": "UE",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "Teorias de conspiração sobre o kit de 72 h",
+   "resumo": "O kit viralizou junto com teorias (\"inteligência secreta da UE\"); varejistas relatam mais procura, sem números.",
+   "url": "https://en.protothema.gr/2026/11/09/conspiracy-theories-or-secret-eu-intelligence-the-72-hour-survival-kit-alarming-europe/",
+   "uso": "Confirma a objeção \"é medo/propaganda\" dos comentários."
+  },
+  {
+   "id": "F07",
+   "data": "2026-11-03",
+   "pais": "UE",
+   "categoria": "Imprensa",
+   "confianca": "alta",
+   "titulo": "Snopes: kits de emergência não indicam ataque",
+   "resumo": "As campanhas não são novas e não anunciam guerra iminente.",
+   "url": "https://www.snopes.com/news/2026/11/03/emergency-preparedness-kits/",
+   "uso": "Base para o tom calmo da oferta."
+  },
+  {
+   "id": "F08",
+   "data": "2026-10-28",
+   "pais": "33 países",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "Newsweek: mapa dos países que pedem estoque",
+   "resumo": "Compilação de 33 países com recomendação de estoque; o gatilho da matéria foi o aviso regional da Normandia (27/10). É compilação da imprensa, não anúncio coordenado.",
+   "url": "https://www.newsweek.com/map-shows-countries-urging-residents-to-stockpile-food-12629524",
+   "uso": "Ângulo de anúncio: \"33 governos já pediram\"."
+  },
+  {
+   "id": "F09",
+   "data": "2026-09-22",
+   "pais": "UE",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "O que cada país da UE manda estocar (LADbible)",
+   "resumo": "Lista de recomendações por país em tom de \"medo da 3ª guerra\".",
+   "url": "https://www.ladbible.com/news/world-news/eu-countries-stockpiling-advice-conflict-power-outage-weather-349905-20260922",
+   "uso": "Mostra o tom sensacionalista a evitar."
+  },
+  {
+   "id": "F10",
+   "data": "2026-10-30",
+   "pais": "Global",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "Governos pedem estoque (GreekReporter)",
+   "resumo": "Reúne as orientações de vários governos no fim de outubro.",
+   "url": "https://greekreporter.com/2026/10/30/household-emergency-supplies-guidance/",
+   "uso": "Contexto."
+  },
+  {
+   "id": "F11",
+   "data": "2026-03-12",
+   "pais": "UE",
+   "categoria": "Imprensa",
+   "confianca": "alta",
+   "titulo": "Abrigos civis da Europa estão em ruínas (Euronews)",
+   "resumo": "A rede de abrigos públicos é velha e Bruxelas tem pouca competência sobre isso.",
+   "url": "https://www.euronews.com/2026/03/12/europes-civil-shelters-are-crumbling-brussels-cant-do-much-about-it",
+   "uso": "Ângulo \"o abrigo é a sua casa\"."
+  },
+  {
+   "id": "F12",
+   "data": "2026-06-02",
+   "pais": "UE",
+   "categoria": "Imprensa",
+   "confianca": "alta",
+   "titulo": "Como as incursões de drones viraram rotina (Euronews)",
+   "resumo": "Explica a escalada de drones sobre países da OTAN desde 2025.",
+   "url": "https://www.euronews.com/2026/06/02/explained-how-drone-incursions-in-europe-went-from-rarity-to-reality",
+   "uso": "Contexto do medo no Leste."
+  },
+  {
+   "id": "F13",
+   "data": "2026-11-01",
+   "pais": "UE",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "A obsessão europeia por bunkers (Defence Journal)",
+   "resumo": "Mapa dos programas de abrigo nuclear pelo continente.",
+   "url": "https://defencejournal.com/2026/11/01/the-fortress-continent-mapping-europes-nuclear-bunker-obsession/",
+   "uso": "Contexto."
+  },
+  {
+   "id": "F14",
+   "data": "2026",
+   "pais": "UE",
+   "categoria": "Blog/comercial",
+   "confianca": "baixa",
+   "titulo": "Comparativo de campanhas em 67 países (Phaenyx)",
+   "resumo": "Tabela de campanhas e dias recomendados por país; Bélgica (guia 01/10/2026), Tchéquia (5,2 mi de manuais em nov/2025), Áustria (14 dias).",
+   "url": "https://phaenyx.com/compare/preparedness-campaigns",
+   "uso": "Usar só para achar a fonte oficial."
+  },
+  {
+   "id": "F15",
+   "data": "2026-10-22",
+   "pais": "GB",
+   "categoria": "Oficial",
+   "confianca": "alta",
+   "titulo": "Be Ready: famílias devem aguentar 3 dias",
+   "resumo": "Gabinete do governo lança a primeira fase de uma campanha de 3 anos: água (3 litros por pessoa por dia), comida sem cozimento, dinheiro, rádio a pilha, kit de primeiros socorros, remédios. Diz que não é aviso de crise específica.",
+   "url": "https://www.gov.uk/government/news/households-encouraged-to-take-small-simple-steps-to-stay-prepared-in-an-emergency",
+   "uso": "Prova oficial para o RU."
+  },
+  {
+   "id": "F16",
+   "data": "2026-10",
+   "pais": "GB",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "Vendas disparam depois do Be Ready",
+   "resumo": "Água engarrafada +67%, enlatados +37%, álcool gel +83% em cerca de 10 dias; Maplin diz que vendas de lanterna subiram 284%.",
+   "url": "https://www.newsbeep.com/787002/",
+   "uso": "Prova de que o público COMPRA, não só lê."
+  },
+  {
+   "id": "F17",
+   "data": "2026-10",
+   "pais": "GB",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "Papel higiênico e rádios esgotam (GB News / LBC)",
+   "resumo": "Rádios a manivela, lanternas e power banks esgotando; lanternas quase quadruplicaram em 3 dias.",
+   "url": "https://www.lbc.co.uk/article/baked-beans-water-batteries-supermarket-shelves-stockpile-5HjdkWk_2/",
+   "uso": "Ângulo de escassez real."
+  },
+  {
+   "id": "F18",
+   "data": "2026-11-14",
+   "pais": "GB",
+   "categoria": "Imprensa",
+   "confianca": "alta",
+   "titulo": "Paranoia ou prudência? (Al Jazeera)",
+   "resumo": "Reportagem sobre a reação britânica ao Be Ready, com acusações de alarmismo.",
+   "url": "https://aljazeera.com/features/2026/11/14/paranoid-or-practical-britains-be-ready-citizen",
+   "uso": "Objeções do público britânico."
+  },
+  {
+   "id": "F19",
+   "data": "2026-10",
+   "pais": "GB",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "O que tem no checklist do Be Ready (Radio X)",
+   "resumo": "Lista completa do governo item a item.",
+   "url": "https://www.radiox.co.uk/news/uk-world/what-is-in-the-be-ready-checklist-as-britons/",
+   "uso": "Checklist base do produto em inglês."
+  },
+  {
+   "id": "F20",
+   "data": "2026-10-27",
+   "pais": "GB",
+   "categoria": "Oficial",
+   "confianca": "alta",
+   "titulo": "BBC: corrida a enlatados, água e rádios",
+   "resumo": "Vídeo da BBC com 6,4 milhões de views e 7.700 comentários.",
+   "url": "https://www.youtube.com/watch?v=MaIFGhaKF_s",
+   "uso": "Maior prova de atenção do tema."
+  },
+  {
+   "id": "F21",
+   "data": "2026",
+   "pais": "IE",
+   "categoria": "Blog/comercial",
+   "confianca": "baixa",
+   "titulo": "Irlanda: livreto Be Emergency Ready",
+   "resumo": "Livreto do Office of Emergency Planning; fontes divergem se pede 72 h e se foi enviado às 2,1 mi de casas.",
+   "url": "https://irelandvoice.com/blog/emergency-preparation-booklet-ireland/",
+   "uso": "Confirmar no gov.ie antes de usar."
+  },
+  {
+   "id": "F22",
+   "data": "2026-10-27",
+   "pais": "FR",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "Normandia: \"não espere a emergência, prepare-se agora\"",
+   "resumo": "O governo regional da Normandia pediu kits de 3 dias; foi o gatilho da matéria da Newsweek. O guia nacional Tous responsables (2025) foi atualizado em agosto de 2026.",
+   "url": "https://www.newsweek.com/map-shows-countries-urging-residents-to-stockpile-food-12629524",
+   "uso": "Explica o pico francês de 25/10."
+  },
+  {
+   "id": "F23",
+   "data": "2026-10-01",
+   "pais": "BE",
+   "categoria": "Blog/comercial",
+   "confianca": "baixa",
+   "titulo": "Bélgica: campanha Prêts. Ensemble / Samen voorbereid",
+   "resumo": "Campanha de 4 anos do Centro Nacional de Crise desde a primavera de 2026; guia prático de 01/10/2026 em 4 idiomas, 72 h.",
+   "url": "https://phaenyx.com/compare/preparedness-campaigns",
+   "uso": "País bilíngue: dá para vender em francês e holandês."
+  },
+  {
+   "id": "F24",
+   "data": "2026-02",
+   "pais": "NL",
+   "categoria": "Imprensa",
+   "confianca": "alta",
+   "titulo": "Metade das casas holandesas já tem kit de emergência",
+   "resumo": "Pesquisa da RTL: 50% têm ou estão montando um noodpakket, contra 15% em 2024, depois da campanha \"Denk vooruit\" do fim de 2025.",
+   "url": "https://www.dutchnews.nl/2026/02/half-dutch-households-now-have-an-emergency-kit-at-home/",
+   "uso": "Mercado holandês já foi atendido; menos espaço."
+  },
+  {
+   "id": "F25",
+   "data": "2026",
+   "pais": "CH",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "Suíça: Notvorrat e 360 mil abrigos",
+   "resumo": "Folheto federal pede 1 semana de comida e 9 litros de água; o país tem abrigo para quase toda a população.",
+   "url": "https://switzerlandhandbook.com/emergency-preparedness-sirens-sirenentest-and-nuclear-bunkers/",
+   "uso": "Público já preparado; pouca dor."
+  },
+  {
+   "id": "F26",
+   "data": "2026",
+   "pais": "DACH",
+   "categoria": "Blog/comercial",
+   "confianca": "baixa",
+   "titulo": "Proteção civil em Alemanha, Suíça e Áustria",
+   "resumo": "Áustria recomenda 14 dias; teste de 8.300 sirenes em outubro de 2026 (não confirmado).",
+   "url": "https://www.swiss.market/journal/de/zivilschutz-deutschland-schweiz-oesterreich",
+   "uso": "Confirmar no ministério austríaco."
+  },
+  {
+   "id": "F27",
+   "data": "2026-05-22",
+   "pais": "DE",
+   "categoria": "Oficial",
+   "confianca": "alta",
+   "titulo": "Alemanha aprova Pacto de Proteção da População",
+   "resumo": "10 bilhões de euros até 2029; sem novos bunkers (adaptar porões, metrô e garagens). O BBK recomenda estoque de 3 e de 10 dias.",
+   "url": "https://www.bbk.bund.de/SharedDocs/Kurzmeldungen/DE/2026/05/om-22-pakt-bevoelkerungsschutz.html",
+   "uso": "Prova oficial para a Alemanha."
+  },
+  {
+   "id": "F28",
+   "data": "2026",
+   "pais": "DE",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "\"Não é guerra, mas também não é mais paz\" (Nordkurier)",
+   "resumo": "Abrigos públicos cobrem menos de 1% da população e não estão prontos; 1,3 bi de euros para proteção civil em 2026.",
+   "url": "https://www.nordkurier.de/politik/kein-krieg-aber-auch-kein-frieden-mehr-mehr-anschlaege-nicht-komplett-unrealistisch-4404723",
+   "uso": "Dor alemã: não há abrigo."
+  },
+  {
+   "id": "F29",
+   "data": "2026-10-05",
+   "pais": "DE",
+   "categoria": "Imprensa",
+   "confianca": "alta",
+   "titulo": "Chefe da inteligência alemã fala em risco de conflito",
+   "resumo": "Sem indício de ataque grande iminente, mas possíveis ações limitadas nos Bálticos e bandeira falsa; generais falam em 2029.",
+   "url": "https://www.cp24.com/news/world/2026/10/05/germany-at-risk-of-violent-conflict-with-russia-intelligence-chief-says/",
+   "uso": "Base do \"não há ataque iminente\"."
+  },
+  {
+   "id": "F30",
+   "data": "2026-11-10",
+   "pais": "IT",
+   "categoria": "Imprensa",
+   "confianca": "alta",
+   "titulo": "AGI: o kit de sobrevivência da UE",
+   "resumo": "Onda de matérias italianas em 10 e 11/11 sobre o kit de 72 h; o ministro Foti mandou o documento à Câmara.",
+   "url": "https://www.agi.it/estero/news/2026-11-10/kit-di-sopravvivenza-ue-39965302/",
+   "uso": "Explica o pico italiano de 08 a 11/11."
+  },
+  {
+   "id": "F31",
+   "data": "2026-11-10",
+   "pais": "IT",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "Leggo: \"vigilantes, não alarmados\"",
+   "resumo": "O que pôr no kit pedido pela UE; frase oficial \"preparados, não assustados\".",
+   "url": "https://www.leggo.it/esteri/news/10_novembre_2026_guerra_kit_sopravvivenza_ue_cosa_mettere_dentro-9881180.html",
+   "uso": "Tom da comunicação na Itália."
+  },
+  {
+   "id": "F32",
+   "data": "2026-11",
+   "pais": "IT",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "Quanto custa o kit de 72 h (Money.it)",
+   "resumo": "Estimativa: cerca de 73 euros por pessoa e 120 euros para uma família de quatro.",
+   "url": "https://www.money.it/kit-di-emergenza-ue-per-72-ore-quanto-costa-prepararlo-e-come-farlo",
+   "uso": "Âncora de preço: o guia custa menos que o kit."
+  },
+  {
+   "id": "F33",
+   "data": "2026-11-11",
+   "pais": "IT",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "Kit 72 h: o que preveem UE e Proteção Civil",
+   "resumo": "Explica a falta de uma lista oficial única italiana.",
+   "url": "https://www.melamorsicata.it/2026/11/11/kit-emergenza-72-ore/",
+   "uso": "Espaço para \"a lista que a Itália não deu\"."
+  },
+  {
+   "id": "F34",
+   "data": "2026-09-24",
+   "pais": "ES/FR/IT",
+   "categoria": "Imprensa",
+   "confianca": "alta",
+   "titulo": "Alerta da CIA sobre drones no sul da Europa",
+   "resumo": "El Mundo noticiou o alerta; Macron e o ministro italiano negaram.",
+   "url": "https://www.euronews.com/2026/09/24/what-we-know-about-cia-warning-of-russian-drone-threat-to-southern-europe",
+   "uso": "Contexto do sul."
+  },
+  {
+   "id": "F35",
+   "data": "2025-05",
+   "pais": "ES",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "Espanha: plano familiar de emergência com kit de 72 h",
+   "resumo": "A Proteção Civil publicou em maio de 2025 o modelo de plano familiar; a Catalunha tem guia próprio (1,5 a 3 litros por pessoa por dia).",
+   "url": "https://selectra.es/alarmas/noticias/kit-emergencia-2026-casa-72-horas",
+   "uso": "Prova oficial para a Espanha."
+  },
+  {
+   "id": "F36",
+   "data": "2025-04-01",
+   "pais": "ES",
+   "categoria": "Imprensa",
+   "confianca": "alta",
+   "titulo": "Bunkers privados sobem 200% na Espanha",
+   "resumo": "Construção de bunkers privados triplicou com o medo de guerra.",
+   "url": "https://www.euronews.com/2025/04/01/construction-of-private-bunkers-in-spain-rises-200-as-fears-of-war-in-europe-grow",
+   "uso": "Dor e disposição de gastar."
+  },
+  {
+   "id": "F37",
+   "data": "2025-04-28",
+   "pais": "ES/PT",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "Depois do apagão, a UE reforça o kit de 72 h",
+   "resumo": "O apagão ibérico de 28/04/2025 deixou Espanha e Portugal sem luz; o kit voltou ao debate.",
+   "url": "https://www.canal26.com/internacionales/tras-el-apagon-en-espana-ue-reivindica-el-kit-de-supervivencia-de-72-horas-que-debe-tener--421427",
+   "uso": "Explica o pico ibérico de abril de 2025."
+  },
+  {
+   "id": "F38",
+   "data": "2026-11-03",
+   "pais": "ES",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "Kit de 72 h da UE: guia para 27 países sem obrigação",
+   "resumo": "Cobertura em espanhol da diretriz de 03/11.",
+   "url": "https://www.mixvale.com.br/2026/11/03/kit-de-emergencia-72-horas-union-europea-guia-para-27-paises-sin/",
+   "uso": "Contexto."
+  },
+  {
+   "id": "F39",
+   "data": "2026",
+   "pais": "ES",
+   "categoria": "Blog/comercial",
+   "confianca": "baixa",
+   "titulo": "Kit72h: 21 kits para DANA, apagão e carro",
+   "resumo": "Loja espanhola nova de kits; mostra concorrência física crescendo.",
+   "url": "https://kit72h.com/",
+   "uso": "Concorrente físico."
+  },
+  {
+   "id": "F40",
+   "data": "2026-09-25",
+   "pais": "PL",
+   "categoria": "Imprensa",
+   "confianca": "alta",
+   "titulo": "Polônia lança guia contra ataques aéreos",
+   "resumo": "Guia de 12 páginas do Ministério do Interior: rota para abrigo, regra das duas paredes, mochila de evacuação. Complementa o manual de 2025 enviado a 17 milhões de casas. 85 mil abrigos para 64% da população.",
+   "url": "https://notesfrompoland.com/2026/09/25/poland-issues-guidance-on-responding-to-air-attacks-and-warns-of-russia-threat/",
+   "uso": "Explica o pico polonês de set/2026."
+  },
+  {
+   "id": "F41",
+   "data": "2026-09-24",
+   "pais": "PL",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "Polônia prepara a população para a guerra (Spotmedia)",
+   "resumo": "Detalhes do guia de evacuação.",
+   "url": "https://spotmedia.ro/en/news/news/poland-prepares-the-population-for-war-official-guide-for-air-attacks-and-evacuation",
+   "uso": "Contexto."
+  },
+  {
+   "id": "F42",
+   "data": "2026-11-11",
+   "pais": "LT/LV/EE",
+   "categoria": "Imprensa",
+   "confianca": "alta",
+   "titulo": "Alertas de abrigo nos Bálticos por drones",
+   "resumo": "Na noite de 11/11/2026, Lituânia, Letônia e Estônia mandaram a população se abrigar por drones vindos da Rússia ou Belarus; caças da OTAN decolaram; alertas cancelados em horas.",
+   "url": "https://cyprus-mail.com/2026/11/11/nato-jets-scrambled-as-drone-alerts-sweep-baltic-states",
+   "uso": "Gatilho mais recente no Báltico."
+  },
+  {
+   "id": "F43",
+   "data": "2026-03-25",
+   "pais": "LV/EE",
+   "categoria": "Imprensa",
+   "confianca": "alta",
+   "titulo": "Drones caem na Letônia e na Estônia",
+   "resumo": "Primeira série de incidentes (Lituânia 23/03, Letônia e Estônia 25/03); levou à queda do governo letão.",
+   "url": "https://www.aljazeera.com/amp/news/2026/3/25/estonia-latvia-report-drone-incursions-from-russian-airspace",
+   "uso": "Explica o pico báltico de março."
+  },
+  {
+   "id": "F44",
+   "data": "2026",
+   "pais": "LT/LV/EE",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "Incursões de drones ucranianos nos Bálticos (Wikipedia)",
+   "resumo": "Linha do tempo dos incidentes de 2026.",
+   "url": "https://en.wikipedia.org/wiki/2026_Ukrainian_drone_incursions_into_the_Baltic_states",
+   "uso": "Linha do tempo."
+  },
+  {
+   "id": "F45",
+   "data": "2026-09/10",
+   "pais": "LT",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "Rússia ameaça a Lituânia",
+   "resumo": "Rússia advertiu a Lituânia contra armas nucleares no país; coluna ligada ao Kremlin falou em \"blitzkrieg\" e foi apagada.",
+   "url": "https://www.ynetnews.com/article/ryvv2krqgx",
+   "uso": "Origem do vídeo que motivou a pesquisa."
+  },
+  {
+   "id": "F46",
+   "data": "2026-03-05",
+   "pais": "EE/LV/FI",
+   "categoria": "Oficial",
+   "confianca": "alta",
+   "titulo": "Novos folhetos de preparação (rede de proteção civil da UE)",
+   "resumo": "Estônia (estoque, alerta, abrigo, ciber), Letônia (72 h) e Finlândia (72 h em casa) publicaram folhetos em 05/03/2026.",
+   "url": "https://civil-protection-knowledge-network.europa.eu/list-of-terms/guidelines-and-manuals?page=0",
+   "uso": "Bálticos e Finlândia já têm guia oficial grátis."
+  },
+  {
+   "id": "F47",
+   "data": "2026-05-21",
+   "pais": "LV",
+   "categoria": "Imprensa",
+   "confianca": "alta",
+   "titulo": "Letônia avisa moradores sobre drone (Euronews)",
+   "resumo": "Alerta em três municípios do leste; a crise dos drones derrubou o governo em 14/05/2026. Em 14/08 a OTAN derrubou um drone sobre Balvi; em 01/09 houve ordem de abrigo nas fronteiras da Letônia e da Estônia.",
+   "url": "https://euronews.com/my-europe/2026/05/21/latvia-issues-warning-to-residents-after-detecting-unmanned-aerial-vehicle-in-its-airspace",
+   "uso": "Explica os picos letões de 2026."
+  },
+  {
+   "id": "F48",
+   "data": "2026-05-29",
+   "pais": "RO",
+   "categoria": "Imprensa",
+   "confianca": "alta",
+   "titulo": "Drone russo atinge prédio em Galați (Cyprus Mail)",
+   "resumo": "Dois feridos; moradores de Galați, Brăila e Tulcea recebem RO-Alert para se abrigar. Em 23/12/2025 e 25/04/2026 houve alertas e evacuação na mesma região.",
+   "url": "https://cyprus-mail.com/2026/05/29/war-spillover-fears-grow-after-russian-drone-hits-romanian-residential-building-injuring-two",
+   "uso": "Explica os picos romenos."
+  },
+  {
+   "id": "F49",
+   "data": "2026-03-10",
+   "pais": "BG",
+   "categoria": "Imprensa",
+   "confianca": "alta",
+   "titulo": "Bulgária: só 18 dos 247 abrigos estão prontos (BTA)",
+   "resumo": "Mapa oficial mostra 247 abrigos para 60 mil pessoas, mas só 18 em condição de uso; cidades e bairros de Sófia sem abrigo. Veio depois da guerra do Irã (28/02).",
+   "url": "https://www.bta.bg/en/news/bulgaria/1118599-map-shows-247-bomb-shelters-in-bulgaria-18-of-them-functional",
+   "uso": "Explica o pico búlgaro de fev/mar 2026."
+  },
+  {
+   "id": "F50",
+   "data": "2026-05-13",
+   "pais": "PL",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "Polônia em alerta com ataque de 800 drones (Polskie Radio)",
+   "resumo": "Primeiro grande ataque russo depois do cessar-fogo; caças e defesa antiaérea acionados. Em 16/09/2026 a Polônia fechou os aeroportos de Lublin e Rzeszów.",
+   "url": "https://www.polskieradio.pl/395/9766/artykul/3722035,poland-scrambles-fighter-jets-as-russia-rains-missiles-drones-on-ukraine",
+   "uso": "Explica os picos poloneses de 2026."
+  },
+  {
+   "id": "F51",
+   "data": "2026-09-24",
+   "pais": "RO/MD",
+   "categoria": "Imprensa",
+   "confianca": "alta",
+   "titulo": "Drones entram na Moldávia e na Romênia",
+   "resumo": "Moldávia contou 4 incursões no ataque de 24/09; 39 em 8 meses (17 em 2025). Romênia confirmou queda de drone.",
+   "url": "https://euromaidanpress.com/2026/09/24/drones-moldova-romania-poland-jets-russian-attack/",
+   "uso": "Leste com medo real e sem campanha nacional."
+  },
+  {
+   "id": "F52",
+   "data": "2026-09-10",
+   "pais": "RO",
+   "categoria": "Imprensa",
+   "confianca": "alta",
+   "titulo": "Drone russo atravessa a Romênia (Stars and Stripes)",
+   "resumo": "Drone voou fundo na Romênia antes de cair na Moldávia; Romênia soma pelo menos 28 incursões desde 2022.",
+   "url": "https://www.stripes.com/theaters/europe/2026-09-10/nato-romania-russian-drone-threat-22807183.html",
+   "uso": "Contexto Romênia."
+  },
+  {
+   "id": "F53",
+   "data": "2025-11",
+   "pais": "CZ",
+   "categoria": "Blog/comercial",
+   "confianca": "baixa",
+   "titulo": "Tchéquia: manual \"72 hodin\" em 5,2 milhões de casas",
+   "resumo": "Campanha do Ministério do Interior com manual enviado em novembro de 2025.",
+   "url": "https://phaenyx.com/compare/preparedness-campaigns",
+   "uso": "Confirmar em 72h.gov.cz."
+  },
+  {
+   "id": "F54",
+   "data": "2024-11",
+   "pais": "SE/NO/DK/FI",
+   "categoria": "Imprensa",
+   "confianca": "alta",
+   "titulo": "Nórdicos distribuem folhetos de guerra",
+   "resumo": "Suécia (Om krisen eller kriget kommer, 5,2 mi de casas, 1 semana), Noruega (1 semana desde maio/2024, 2,2 mi de cópias), Dinamarca (3 dias, 9 litros de água, junho/2024), Finlândia (72 h).",
+   "url": "https://theconversation.com/keep-nine-litres-of-water-in-storage-how-baltic-and-nordic-countries-are-preparing-for-a-crisis-or-war-244783",
+   "uso": "Explica o pico nórdico de nov/2024."
+  },
+  {
+   "id": "F55",
+   "data": "2026-01",
+   "pais": "SE",
+   "categoria": "Oficial",
+   "confianca": "alta",
+   "titulo": "Suécia: folheto de preparação para empresas",
+   "resumo": "A MSB publicou em janeiro de 2026 a versão para empresas.",
+   "url": "https://rib.msb.se/filer/pdf/31178.pdf",
+   "uso": "Contexto."
+  },
+  {
+   "id": "F56",
+   "data": "2026-11",
+   "pais": "Nórdicos",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "33 países pedem estoque (The Vibes)",
+   "resumo": "Noruega e Suécia pedem 1 semana; Dinamarca segue com 3 dias.",
+   "url": "https://www.thevibes.com/articles/world/129067/thirty-three-countries-urge-households-to-stockpile-essential-supplies-for-emergencies",
+   "uso": "Contexto."
+  },
+  {
+   "id": "F57",
+   "data": "2026-02-28",
+   "pais": "Global",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "Começa a guerra EUA/Israel x Irã",
+   "resumo": "Ataques coordenados de EUA e Israel ao Irã em 28/02/2026; o Irã fecha na prática o Estreito de Ormuz em 02/03; cessar-fogo de duas semanas no começo de abril e novos combates no verão.",
+   "url": "https://www.goodmorningamerica.com/news/story/4-phases-iran-war-key-moments-start-epic-132703824",
+   "uso": "Explica o pico de \"3ª guerra\" de março de 2026 em toda a Europa."
+  },
+  {
+   "id": "F58",
+   "data": "2026-08-26",
+   "pais": "Global",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "Guerra do Irã: dia 180 (GlobalSecurity)",
+   "resumo": "Balanço de seis meses do conflito.",
+   "url": "https://www.globalsecurity.org/military/ops/iran-war-20260826.htm",
+   "uso": "Linha do tempo."
+  },
+  {
+   "id": "F59",
+   "data": "2026-10-19",
+   "pais": "Global",
+   "categoria": "Imprensa",
+   "confianca": "alta",
+   "titulo": "Comandantes do Irã se preparam para mais guerra (CNN)",
+   "resumo": "Tensão EUA-Irã em 2026 e ameaça ao Estreito de Ormuz alimentam o medo de guerra maior.",
+   "url": "https://www.cnn.com/2026/10/19/middleeast/iran-us-conflict-warning-intl",
+   "uso": "Gatilho global de \"3ª guerra\"."
+  },
+  {
+   "id": "F60",
+   "data": "2026-05-18",
+   "pais": "Global",
+   "categoria": "Imprensa",
+   "confianca": "alta",
+   "titulo": "Choque do petróleo do Irã pode esvaziar estoques até 2027 (CNBC)",
+   "resumo": "Analistas avisam de falta de petróleo na Europa em semanas.",
+   "url": "https://www.cnbc.com/2026/05/18/europe-oil-shortage-iran-war-price-shock-inventory-strait-hormuz.html",
+   "uso": "Ângulo custo de vida e falta."
+  },
+  {
+   "id": "F61",
+   "data": "2026-11-03",
+   "pais": "Global",
+   "categoria": "Imprensa",
+   "confianca": "média",
+   "titulo": "Ameaças do Irã chegam à Europa (Iran International)",
+   "resumo": "Porta-voz iraniano fala em geografia de guerra \"quase em escala de 3ª Guerra Mundial\".",
+   "url": "https://www.iranintl.com/en/202611036564",
+   "uso": "Contexto."
+  },
+  {
+   "id": "F62",
+   "data": "2026",
+   "pais": "Global",
+   "categoria": "Dado de mercado",
+   "confianca": "baixa",
+   "titulo": "Mercado de kits de sobrevivência",
+   "resumo": "Estimativas de 2026 variam de US$ 2,15 bi a 8,7 bi no mundo, com a Europa em cerca de 24%; comida de emergência na Europa em US$ 1,82 bi (2026). Métodos não divulgados.",
+   "url": "https://growthmarketreports.com/report/survival-kit-market",
+   "uso": "Só como ordem de grandeza."
+  },
+  {
+   "id": "F63",
+   "data": "2026",
+   "pais": "Europa",
+   "categoria": "Dado de mercado",
+   "confianca": "baixa",
+   "titulo": "Mercado europeu de comida de emergência",
+   "resumo": "US$ 1,82 bi em 2026, segundo a MarkWide.",
+   "url": "https://markwideresearch.com/europe-emergency-food-market",
+   "uso": "Ordem de grandeza."
+  }
+ ],
+ "quadro_paises": [
+  {
+   "pais": "GB",
+   "guia": "Be Ready (Gabinete do governo)",
+   "prazo": "3 dias",
+   "quando": "22/10/2026",
+   "gatilho": "Vendas: água +67%, lanternas +284%. BBC 6,4 mi de views."
+  },
+  {
+   "pais": "IE",
+   "guia": "Be Emergency Ready (OEP)",
+   "prazo": "sem prazo fixo (divergente)",
+   "quando": "2026",
+   "gatilho": "Pico de busca de 5 anos em 08/11/2026."
+  },
+  {
+   "pais": "FR",
+   "guia": "Tous responsables (atualizado ago/2026)",
+   "prazo": "72 h",
+   "quando": "2025 e 27/10/2026 (Normandia)",
+   "gatilho": "Pico em 25/10/2026."
+  },
+  {
+   "pais": "BE",
+   "guia": "Prêts. Ensemble / Samen voorbereid",
+   "prazo": "72 h",
+   "quando": "guia de 01/10/2026",
+   "gatilho": "Campanha de 4 anos."
+  },
+  {
+   "pais": "NL",
+   "guia": "Denk vooruit (noodpakket)",
+   "prazo": "72 h",
+   "quando": "fim de 2025",
+   "gatilho": "50% das casas já têm kit (RTL, fev/2026)."
+  },
+  {
+   "pais": "DE",
+   "guia": "BBK \"Vorsorgen für Krisen\"",
+   "prazo": "3 e 10 dias",
+   "quando": "Pacto de 22/05/2026",
+   "gatilho": "Abrigos para menos de 1% da população."
+  },
+  {
+   "pais": "AT",
+   "guia": "Selbstschutz (Ministério do Interior)",
+   "prazo": "14 dias",
+   "quando": "não confirmado",
+   "gatilho": "Teste de sirenes em out/2026 (não confirmado)."
+  },
+  {
+   "pais": "CH",
+   "guia": "Kluger Rat – Notvorrat",
+   "prazo": "1 semana",
+   "quando": "permanente",
+   "gatilho": "360 mil abrigos."
+  },
+  {
+   "pais": "ES",
+   "guia": "Plano familiar (Proteção Civil)",
+   "prazo": "72 h",
+   "quando": "mai/2025 + guias regionais",
+   "gatilho": "Apagão de 28/04/2025; bunkers privados +200%."
+  },
+  {
+   "pais": "PT",
+   "guia": "sem guia nacional encontrado",
+   "prazo": "–",
+   "quando": "–",
+   "gatilho": "Apagão de 28/04/2025."
+  },
+  {
+   "pais": "IT",
+   "guia": "sem lista nacional única (Io non rischio)",
+   "prazo": "72 h (UE)",
+   "quando": "debate em 10/11/2026",
+   "gatilho": "Onda de matérias em 10 e 11/11; custo estimado 73 €/pessoa."
+  },
+  {
+   "pais": "GR",
+   "guia": "sem guia nacional encontrado",
+   "prazo": "72 h (UE)",
+   "quando": "–",
+   "gatilho": "Imprensa cobre a diretriz da UE (14/11)."
+  },
+  {
+   "pais": "PL",
+   "guia": "Poradnik bezpieczeństwa + guia de ataque aéreo",
+   "prazo": "3 dias",
+   "quando": "2025 e 24/09/2026",
+   "gatilho": "17 mi de casas; 85 mil abrigos."
+  },
+  {
+   "pais": "CZ",
+   "guia": "Příručka 72 hodin",
+   "prazo": "72 h",
+   "quando": "nov/2025",
+   "gatilho": "5,2 mi de manuais."
+  },
+  {
+   "pais": "RO",
+   "guia": "sem guia nacional encontrado",
+   "prazo": "–",
+   "quando": "–",
+   "gatilho": "28+ incursões de drones desde 2022."
+  },
+  {
+   "pais": "MD",
+   "guia": "sem guia nacional encontrado",
+   "prazo": "–",
+   "quando": "–",
+   "gatilho": "39 incursões de drones em 8 meses."
+  },
+  {
+   "pais": "LT",
+   "guia": "Jei krizė ar karas",
+   "prazo": "72 h",
+   "quando": "2024",
+   "gatilho": "Alertas de abrigo por drones em 23/03 e 11/11/2026."
+  },
+  {
+   "pais": "LV",
+   "guia": "72 stundas",
+   "prazo": "72 h",
+   "quando": "abr/2024 e 05/03/2026",
+   "gatilho": "Queda do governo após drones (2026)."
+  },
+  {
+   "pais": "EE",
+   "guia": "Folheto do Resgate",
+   "prazo": "–",
+   "quando": "05/03/2026",
+   "gatilho": "Alerta de abrigo em 11/11/2026."
+  },
+  {
+   "pais": "FI",
+   "guia": "Kotivara / 72 h",
+   "prazo": "72 h",
+   "quando": "05/03/2026",
+   "gatilho": "–"
+  },
+  {
+   "pais": "SE",
+   "guia": "Om krisen eller kriget kommer",
+   "prazo": "1 semana",
+   "quando": "nov/2024",
+   "gatilho": "5,2 mi de casas."
+  },
+  {
+   "pais": "NO",
+   "guia": "Egenberedskap",
+   "prazo": "1 semana",
+   "quando": "mai/2024",
+   "gatilho": "2,2 mi de cópias."
+  },
+  {
+   "pais": "DK",
+   "guia": "Forbered dig på kriser",
+   "prazo": "3 dias",
+   "quando": "jun/2024",
+   "gatilho": "9 litros de água."
+  }
+ ]
+}

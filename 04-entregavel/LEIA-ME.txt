@@ -1,0 +1,16 @@
+ETAPA 04, PRODUZIR O ENTREGÁVEL
+
+O sumário do produto está em ../02-oferta/oferta.md e na tela "Sua
+oferta" (seção "O que a pessoa recebe" e "Como produzir em até 7 dias").
+
+O que fazer:
+1. Produza o produto principal seguindo o sumário, na quantidade e na
+   organização decididas (o mecanismo da modelagem).
+2. Produza os order bumps (são produtos pequenos, mas são produtos).
+3. Use o material da tela "Entregáveis do nicho" só como referência de
+   formato, volume e organização. Nunca copie, revenda ou rebatize material
+   de terceiros: o seu entregável é feito do zero.
+4. Guarde aqui os arquivos finais (PDF, imagens, link do app) e um
+   arquivo de "como acessar" que o comprador vai receber.
+
+Depois de pronto, vá para a etapa 05-pagina-e-checkout/.

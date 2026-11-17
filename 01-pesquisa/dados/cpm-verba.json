@@ -1,0 +1,619 @@
+{
+ "premissas": {
+  "ticket_front_eur": 37.0,
+  "ticket_medio_eur": 55.0,
+  "ctr": [
+   0.009,
+   0.012,
+   0.015
+  ],
+  "conversao_vsl": [
+   0.01,
+   0.015,
+   0.02
+  ],
+  "regra": "1 ticket por criativo por dia; 3 criativos x 3 dias = teste minimo; 5 criativos x 4 dias = teste seguro; oferta sem venda apos 2-3 tickets medios desliga",
+  "fontes_regua": "skill low-ticket 05-teste-e-escala.md; Ouro VTurb (conversao VSL frio 1-2%)",
+  "cpm": "mediana das 3 fontes, USD convertido a 1,1193"
+ },
+ "paises": [
+  {
+   "pais": "HU",
+   "cpm_eur": 4.68,
+   "cpm_faixa": [
+    4.68,
+    5.11
+   ],
+   "fontes": 3,
+   "cpa_estimado": {
+    "bom": 15.6,
+    "medio": 26.0,
+    "ruim": 52.0
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 71153,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": true
+  },
+  {
+   "pais": "RO",
+   "cpm_eur": 4.81,
+   "cpm_faixa": [
+    4.4,
+    4.81
+   ],
+   "fontes": 3,
+   "cpa_estimado": {
+    "bom": 16.0,
+    "medio": 26.7,
+    "ruim": 53.4
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 69230,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": true
+  },
+  {
+   "pais": "PL",
+   "cpm_eur": 4.96,
+   "cpm_faixa": [
+    4.91,
+    5.33
+   ],
+   "fontes": 3,
+   "cpa_estimado": {
+    "bom": 16.5,
+    "medio": 27.6,
+    "ruim": 55.1
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 67137,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": true
+  },
+  {
+   "pais": "GR",
+   "cpm_eur": 5.27,
+   "cpm_faixa": [
+    4.37,
+    6.53
+   ],
+   "fontes": 3,
+   "cpa_estimado": {
+    "bom": 17.6,
+    "medio": 29.3,
+    "ruim": 58.6
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 63187,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": true
+  },
+  {
+   "pais": "LV",
+   "cpm_eur": 5.41,
+   "cpm_faixa": [
+    5.41,
+    6.04
+   ],
+   "fontes": 3,
+   "cpa_estimado": {
+    "bom": 18.0,
+    "medio": 30.1,
+    "ruim": 60.1
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 61552,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": true
+  },
+  {
+   "pais": "PT",
+   "cpm_eur": 5.45,
+   "cpm_faixa": [
+    5.38,
+    6.75
+   ],
+   "fontes": 3,
+   "cpa_estimado": {
+    "bom": 18.2,
+    "medio": 30.3,
+    "ruim": 60.6
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 61100,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": true
+  },
+  {
+   "pais": "CZ",
+   "cpm_eur": 5.54,
+   "cpm_faixa": [
+    5.09,
+    6.04
+   ],
+   "fontes": 3,
+   "cpa_estimado": {
+    "bom": 18.5,
+    "medio": 30.8,
+    "ruim": 61.6
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 60108,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": true
+  },
+  {
+   "pais": "LT",
+   "cpm_eur": 5.82,
+   "cpm_faixa": [
+    5.82,
+    6.04
+   ],
+   "fontes": 3,
+   "cpa_estimado": {
+    "bom": 19.4,
+    "medio": 32.3,
+    "ruim": 64.7
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 57216,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": true
+  },
+  {
+   "pais": "ES",
+   "cpm_eur": 5.94,
+   "cpm_faixa": [
+    5.18,
+    7.1
+   ],
+   "fontes": 3,
+   "cpa_estimado": {
+    "bom": 19.8,
+    "medio": 33.0,
+    "ruim": 66.0
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 56060,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": true
+  },
+  {
+   "pais": "EE",
+   "cpm_eur": 6.16,
+   "cpm_faixa": [
+    6.16,
+    6.25
+   ],
+   "fontes": 3,
+   "cpa_estimado": {
+    "bom": 20.5,
+    "medio": 34.2,
+    "ruim": 68.4
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 54058,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": true
+  },
+  {
+   "pais": "IT",
+   "cpm_eur": 6.43,
+   "cpm_faixa": [
+    5.41,
+    6.96
+   ],
+   "fontes": 3,
+   "cpa_estimado": {
+    "bom": 21.4,
+    "medio": 35.7,
+    "ruim": 71.4
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 51788,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": true
+  },
+  {
+   "pais": "FI",
+   "cpm_eur": 6.9,
+   "cpm_faixa": [
+    6.9,
+    8.17
+   ],
+   "fontes": 3,
+   "cpa_estimado": {
+    "bom": 23.0,
+    "medio": 38.3,
+    "ruim": 76.7
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 48260,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": true
+  },
+  {
+   "pais": "FR",
+   "cpm_eur": 7.19,
+   "cpm_faixa": [
+    6.21,
+    7.46
+   ],
+   "fontes": 3,
+   "cpa_estimado": {
+    "bom": 24.0,
+    "medio": 39.9,
+    "ruim": 79.9
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 46314,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": true
+  },
+  {
+   "pais": "BE",
+   "cpm_eur": 7.5,
+   "cpm_faixa": [
+    7.11,
+    7.81
+   ],
+   "fontes": 3,
+   "cpa_estimado": {
+    "bom": 25.0,
+    "medio": 41.7,
+    "ruim": 83.3
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 44400,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": true
+  },
+  {
+   "pais": "NO",
+   "cpm_eur": 7.88,
+   "cpm_faixa": [
+    6.53,
+    9.23
+   ],
+   "fontes": 2,
+   "cpa_estimado": {
+    "bom": 26.3,
+    "medio": 43.8,
+    "ruim": 87.6
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 42258,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": true
+  },
+  {
+   "pais": "AT",
+   "cpm_eur": 8.09,
+   "cpm_faixa": [
+    7.71,
+    8.49
+   ],
+   "fontes": 3,
+   "cpa_estimado": {
+    "bom": 27.0,
+    "medio": 44.9,
+    "ruim": 89.9
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 41161,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": true
+  },
+  {
+   "pais": "SE",
+   "cpm_eur": 8.13,
+   "cpm_faixa": [
+    7.25,
+    8.66
+   ],
+   "fontes": 3,
+   "cpa_estimado": {
+    "bom": 27.1,
+    "medio": 45.2,
+    "ruim": 90.3
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 40959,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": true
+  },
+  {
+   "pais": "NL",
+   "cpm_eur": 8.22,
+   "cpm_faixa": [
+    7.67,
+    8.52
+   ],
+   "fontes": 3,
+   "cpa_estimado": {
+    "bom": 27.4,
+    "medio": 45.7,
+    "ruim": 91.3
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 40510,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": true
+  },
+  {
+   "pais": "IE",
+   "cpm_eur": 8.38,
+   "cpm_faixa": [
+    7.38,
+    9.65
+   ],
+   "fontes": 3,
+   "cpa_estimado": {
+    "bom": 27.9,
+    "medio": 46.6,
+    "ruim": 93.1
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 39737,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": true
+  },
+  {
+   "pais": "CH",
+   "cpm_eur": 8.65,
+   "cpm_faixa": [
+    7.5,
+    9.8
+   ],
+   "fontes": 2,
+   "cpa_estimado": {
+    "bom": 28.8,
+    "medio": 48.1,
+    "ruim": 96.1
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 38497,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": true
+  },
+  {
+   "pais": "DK",
+   "cpm_eur": 8.76,
+   "cpm_faixa": [
+    7.81,
+    8.88
+   ],
+   "fontes": 3,
+   "cpa_estimado": {
+    "bom": 29.2,
+    "medio": 48.7,
+    "ruim": 97.3
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 38013,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": true
+  },
+  {
+   "pais": "DE",
+   "cpm_eur": 8.98,
+   "cpm_faixa": [
+    8.09,
+    9.37
+   ],
+   "fontes": 3,
+   "cpa_estimado": {
+    "bom": 29.9,
+    "medio": 49.9,
+    "ruim": 99.8
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 37082,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": false
+  },
+  {
+   "pais": "GB",
+   "cpm_eur": 9.89,
+   "cpm_faixa": [
+    9.23,
+    10.55
+   ],
+   "fontes": 2,
+   "cpa_estimado": {
+    "bom": 33.0,
+    "medio": 54.9,
+    "ruim": 109.9
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 33670,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": false
+  },
+  {
+   "pais": "CA",
+   "cpm_eur": 10.25,
+   "cpm_faixa": [
+    10.25,
+    10.25
+   ],
+   "fontes": 1,
+   "cpa_estimado": {
+    "bom": 34.2,
+    "medio": 56.9,
+    "ruim": 113.9
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 32487,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": false
+  },
+  {
+   "pais": "AU",
+   "cpm_eur": 10.39,
+   "cpm_faixa": [
+    10.39,
+    10.39
+   ],
+   "fontes": 1,
+   "cpa_estimado": {
+    "bom": 34.6,
+    "medio": 57.7,
+    "ruim": 115.4
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 32050,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": false
+  },
+  {
+   "pais": "US",
+   "cpm_eur": 12.51,
+   "cpm_faixa": [
+    10.65,
+    14.37
+   ],
+   "fontes": 2,
+   "cpa_estimado": {
+    "bom": 41.7,
+    "medio": 69.5,
+    "ruim": 139.0
+   },
+   "verba_dia": 111.0,
+   "teste_min": 333.0,
+   "teste_seguro": 740.0,
+   "impressoes_teste_min": 26618,
+   "corte_oferta": [
+    74.0,
+    111.0
+   ],
+   "fecha_conta": false
+  }
+ ]
+}

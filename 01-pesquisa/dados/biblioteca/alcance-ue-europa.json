@@ -1,0 +1,654 @@
+{
+ "1595793038586702": {
+  "dados": {
+   "targets_eu": true,
+   "location_audience": [
+    {
+     "name": "Austria",
+     "num_obfuscated": 0,
+     "type": "countries",
+     "excluded": false
+    },
+    {
+     "name": "Alemania",
+     "num_obfuscated": 0,
+     "type": "countries",
+     "excluded": false
+    }
+   ],
+   "gender_audience": "Todos",
+   "eu_total_reach": 426,
+   "age_country_gender_reach_breakdown": [
+    {
+     "country": "DE",
+     "age_gender_breakdowns": [
+      {
+       "age_range": "18-24",
+       "male": 1,
+       "female": null,
+       "unknown": null
+      },
+      {
+       "age_range": "25-34",
+       "male": 3,
+       "female": 1,
+       "unknown": null
+      },
+      {
+       "age_range": "35-44",
+       "male": 15,
+       "female": 5,
+       "unknown": null
+      },
+      {
+       "age_range": "45-54",
+       "male": 32,
+       "female": 21,
+       "unknown": null
+      },
+      {
+       "age_range": "55-64",
+       "male": 63,
+       "female": 51,
+       "unknown": null
+      },
+      {
+       "age_range": "65+",
+       "male": 70,
+       "female": 50,
+       "unknown": 1
+      }
+     ]
+    },
+    {
+     "country": "AT",
+     "age_gender_breakdowns": [
+      {
+       "age_range": "25-34",
+       "male": 1,
+       "female": 1,
+       "unknown": null
+      },
+      {
+       "age_range": "35-44",
+       "male": 5,
+       "female": 3,
+       "unknown": null
+      },
+      {
+       "age_range": "45-54",
+       "male": 9,
+       "female": 8,
+       "unknown": 1
+      },
+      {
+       "age_range": "55-64",
+       "male": 22,
+       "female": 22,
+       "unknown": null
+      },
+      {
+       "age_range": "65+",
+       "male": 16,
+       "female": 14,
+       "unknown": 3
+      }
+     ]
+    }
+   ],
+   "is_violating_eu_siep": false
+  },
+  "trecho": "Biblioteca de anuncios de Meta Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca ​ España ​ ​ ​ ​ Todos los anuncios ​ Buscar por palabra clave o anunciante ​ ​ Notfall Kompass Anuncios Información Iniciar sesión Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca Estado del si"
+ },
+ "3059354620935912": {
+  "dados": {
+   "targets_eu": true,
+   "location_audience": [
+    {
+     "name": "Reino Unido",
+     "num_obfuscated": 0,
+     "type": "countries",
+     "excluded": false
+    }
+   ],
+   "gender_audience": "Todos",
+   "eu_total_reach": 534,
+   "age_country_gender_reach_breakdown": [
+    {
+     "country": "GB",
+     "age_gender_breakdowns": [
+      {
+       "age_range": "18-24",
+       "male": 1,
+       "female": 9,
+       "unknown": null
+      },
+      {
+       "age_range": "25-34",
+       "male": 51,
+       "female": 281,
+       "unknown": 5
+      },
+      {
+       "age_range": "35-44",
+       "male": 162,
+       "female": 1374,
+       "unknown": 18
+      },
+      {
+       "age_range": "45-54",
+       "male": 196,
+       "female": 2036,
+       "unknown": 48
+      },
+      {
+       "age_range": "55-64",
+       "male": 290,
+       "female": 2400,
+       "unknown": 43
+      },
+      {
+       "age_range": "65+",
+       "male": 393,
+       "female": 3275,
+       "unknown": 66
+      }
+     ]
+    }
+   ],
+   "total_reach": 10746,
+   "is_violating_eu_siep": false
+  },
+  "trecho": "Biblioteca de anuncios de Meta Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca ​ España ​ ​ ​ ​ Todos los anuncios ​ Buscar por palabra clave o anunciante ​ ​ Ready Families Network Anuncios Información Iniciar sesión Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca Estado"
+ },
+ "1897861411383278": {
+  "dados": {
+   "targets_eu": true,
+   "location": "AR",
+   "location_audience": [
+    {
+     "name": "Worldwide",
+     "num_obfuscated": 0,
+     "type": "country_groups",
+     "excluded": false
+    }
+   ],
+   "gender_audience": "Todos",
+   "eu_total_reach": 469,
+   "age_country_gender_reach_breakdown": [
+    {
+     "country": "GB",
+     "age_gender_breakdowns": [
+      {
+       "age_range": "25-34",
+       "male": 1,
+       "female": 1,
+       "unknown": null
+      },
+      {
+       "age_range": "35-44",
+       "male": 1,
+       "female": 1,
+       "unknown": null
+      },
+      {
+       "age_range": "55-64",
+       "male": 1,
+       "female": null,
+       "unknown": null
+      }
+     ]
+    }
+   ],
+   "total_reach": 5,
+   "is_violating_eu_siep": false
+  },
+  "trecho": "Biblioteca de anuncios de Meta Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca ​ España ​ ​ ​ ​ Todos los anuncios ​ Buscar por palabra clave o anunciante ​ ​ SuperArte Anuncios Información Iniciar sesión Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca Estado del sistema "
+ },
+ "4411192599131718": {
+  "dados": {
+   "targets_eu": true,
+   "location_audience": [
+    {
+     "name": "Bélgica",
+     "num_obfuscated": 0,
+     "type": "countries",
+     "excluded": false
+    },
+    {
+     "name": "Francia",
+     "num_obfuscated": 0,
+     "type": "countries",
+     "excluded": false
+    }
+   ],
+   "gender_audience": "Todos",
+   "eu_total_reach": 1318,
+   "age_country_gender_reach_breakdown": [
+    {
+     "country": "BE",
+     "age_gender_breakdowns": [
+      {
+       "age_range": "18-24",
+       "male": 2,
+       "female": null,
+       "unknown": null
+      },
+      {
+       "age_range": "25-34",
+       "male": 17,
+       "female": 4,
+       "unknown": null
+      },
+      {
+       "age_range": "35-44",
+       "male": 34,
+       "female": 17,
+       "unknown": null
+      },
+      {
+       "age_range": "45-54",
+       "male": 56,
+       "female": 17,
+       "unknown": 1
+      },
+      {
+       "age_range": "55-64",
+       "male": 126,
+       "female": 36,
+       "unknown": 2
+      },
+      {
+       "age_range": "65+",
+       "male": 139,
+       "female": 36,
+       "unknown": 1
+      }
+     ]
+    },
+    {
+     "country": "FR",
+     "age_gender_breakdowns": [
+      {
+       "age_range": "18-24",
+       "male": 14,
+       "female": 2,
+       "unknown": 1
+      },
+      {
+       "age_range": "25-34",
+       "male": 45,
+       "female": 18,
+       "unknown": 1
+      },
+      {
+       "age_range": "35-44",
+       "male": 65,
+       "female": 21,
+       "unknown": 2
+      },
+      {
+       "age_range": "45-54",
+       "male": 128,
+       "female": 29,
+       "unknown": 1
+      },
+      {
+       "age_range": "55-64",
+       "male": 210,
+       "female": 56,
+       "unknown": 2
+      },
+      {
+       "age_range": "65+",
+       "male": 200,
+       "female": 64,
+       "unknown": 5
+      }
+     ]
+    }
+   ],
+   "is_violating_eu_siep": false
+  },
+  "trecho": "Biblioteca de anuncios de Meta Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca ​ España ​ ​ ​ ​ Todos los anuncios ​ Buscar por palabra clave o anunciante ​ ​ Topdeals Anuncios Información Iniciar sesión Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca Estado del sistema S"
+ },
+ "1695522062106030": {
+  "dados": {
+   "targets_eu": true,
+   "location_audience": [
+    {
+     "name": "Austria",
+     "num_obfuscated": 0,
+     "type": "countries",
+     "excluded": false
+    },
+    {
+     "name": "Alemania",
+     "num_obfuscated": 0,
+     "type": "countries",
+     "excluded": false
+    }
+   ],
+   "gender_audience": "Todos",
+   "eu_total_reach": 270,
+   "age_country_gender_reach_breakdown": [
+    {
+     "country": "AT",
+     "age_gender_breakdowns": [
+      {
+       "age_range": "18-24",
+       "male": null,
+       "female": 1,
+       "unknown": null
+      },
+      {
+       "age_range": "25-34",
+       "male": 2,
+       "female": 1,
+       "unknown": null
+      },
+      {
+       "age_range": "35-44",
+       "male": 4,
+       "female": 4,
+       "unknown": null
+      },
+      {
+       "age_range": "45-54",
+       "male": 3,
+       "female": 6,
+       "unknown": null
+      },
+      {
+       "age_range": "55-64",
+       "male": 6,
+       "female": 2,
+       "unknown": null
+      },
+      {
+       "age_range": "65+",
+       "male": 2,
+       "female": 1,
+       "unknown": null
+      }
+     ]
+    },
+    {
+     "country": "DE",
+     "age_gender_breakdowns": [
+      {
+       "age_range": "18-24",
+       "male": 3,
+       "female": 1,
+       "unknown": null
+      },
+      {
+       "age_range": "25-34",
+       "male": 19,
+       "female": 10,
+       "unknown": 1
+      },
+      {
+       "age_range": "35-44",
+       "male": 30,
+       "female": 22,
+       "unknown": null
+      },
+      {
+       "age_range": "45-54",
+       "male": 19,
+       "female": 39,
+       "unknown": null
+      },
+      {
+       "age_range": "55-64",
+       "male": 33,
+       "female": 23,
+       "unknown": null
+      },
+      {
+       "age_range": "65+",
+       "male": 21,
+       "female": 19,
+       "unknown": null
+      }
+     ]
+    }
+   ],
+   "is_violating_eu_siep": false
+  },
+  "trecho": "Biblioteca de anuncios de Meta Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca ​ España ​ ​ ​ ​ Todos los anuncios ​ Buscar por palabra clave o anunciante ​ ​ BlackoutReport Anuncios Información Iniciar sesión Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca Estado del sis"
+ },
+ "4149441552023802": {
+  "dados": {
+   "location_audience": [
+    {
+     "name": "Reino Unido",
+     "num_obfuscated": 0,
+     "type": "countries",
+     "excluded": false
+    }
+   ],
+   "gender_audience": "Todos",
+   "total_reach": 6497,
+   "age_country_gender_reach_breakdown": [
+    {
+     "country": "GB",
+     "age_gender_breakdowns": [
+      {
+       "age_range": "18-24",
+       "male": 1,
+       "female": 2,
+       "unknown": null
+      },
+      {
+       "age_range": "25-34",
+       "male": 8,
+       "female": 25,
+       "unknown": null
+      },
+      {
+       "age_range": "35-44",
+       "male": 16,
+       "female": 53,
+       "unknown": 1
+      },
+      {
+       "age_range": "45-54",
+       "male": 35,
+       "female": 183,
+       "unknown": 4
+      },
+      {
+       "age_range": "55-64",
+       "male": 193,
+       "female": 854,
+       "unknown": 5
+      },
+      {
+       "age_range": "65+",
+       "male": 731,
+       "female": 4291,
+       "unknown": 64
+      }
+     ]
+    }
+   ],
+   "is_violating_eu_siep": false
+  },
+  "trecho": "Biblioteca de anuncios de Meta Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca ​ España ​ ​ ​ ​ Todos los anuncios ​ Buscar por palabra clave o anunciante ​ ​ UK Be Ready Anuncios Información Iniciar sesión Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca Estado del sistem"
+ },
+ "1651526093035701": {
+  "dados": {
+   "targets_eu": true,
+   "location_audience": [
+    {
+     "name": "Bélgica",
+     "num_obfuscated": 0,
+     "type": "countries",
+     "excluded": false
+    },
+    {
+     "name": "Francia",
+     "num_obfuscated": 0,
+     "type": "countries",
+     "excluded": false
+    }
+   ],
+   "gender_audience": "Todos",
+   "eu_total_reach": 1191,
+   "age_country_gender_reach_breakdown": [
+    {
+     "country": "BE",
+     "age_gender_breakdowns": [
+      {
+       "age_range": "18-24",
+       "male": null,
+       "female": 1,
+       "unknown": null
+      },
+      {
+       "age_range": "25-34",
+       "male": 14,
+       "female": 6,
+       "unknown": null
+      },
+      {
+       "age_range": "35-44",
+       "male": 34,
+       "female": 7,
+       "unknown": null
+      },
+      {
+       "age_range": "45-54",
+       "male": 69,
+       "female": 26,
+       "unknown": null
+      },
+      {
+       "age_range": "55-64",
+       "male": 101,
+       "female": 30,
+       "unknown": 6
+      },
+      {
+       "age_range": "65+",
+       "male": 71,
+       "female": 27,
+       "unknown": null
+      }
+     ]
+    },
+    {
+     "country": "FR",
+     "age_gender_breakdowns": [
+      {
+       "age_range": "18-24",
+       "male": 9,
+       "female": 2,
+       "unknown": null
+      },
+      {
+       "age_range": "25-34",
+       "male": 48,
+       "female": 5,
+       "unknown": null
+      },
+      {
+       "age_range": "35-44",
+       "male": 80,
+       "female": 13,
+       "unknown": 1
+      },
+      {
+       "age_range": "45-54",
+       "male": 166,
+       "female": 43,
+       "unknown": 2
+      },
+      {
+       "age_range": "55-64",
+       "male": 205,
+       "female": 41,
+       "unknown": 3
+      },
+      {
+       "age_range": "65+",
+       "male": 144,
+       "female": 38,
+       "unknown": 4
+      }
+     ]
+    }
+   ],
+   "is_violating_eu_siep": false
+  },
+  "trecho": "Biblioteca de anuncios de Meta Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca ​ España ​ ​ ​ ​ Todos los anuncios ​ Buscar por palabra clave o anunciante ​ ​ Nord Survival Anuncios Información Iniciar sesión Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca Estado del sist"
+ },
+ "2179173592946499": {
+  "dados": {
+   "targets_eu": true,
+   "location_audience": [
+    {
+     "name": "Polonia",
+     "num_obfuscated": 0,
+     "type": "countries",
+     "excluded": false
+    }
+   ],
+   "gender_audience": "Todos",
+   "eu_total_reach": 2064,
+   "age_country_gender_reach_breakdown": [
+    {
+     "country": "PL",
+     "age_gender_breakdowns": [
+      {
+       "age_range": "18-24",
+       "male": 17,
+       "female": 16,
+       "unknown": null
+      },
+      {
+       "age_range": "25-34",
+       "male": 42,
+       "female": 81,
+       "unknown": null
+      },
+      {
+       "age_range": "35-44",
+       "male": 66,
+       "female": 146,
+       "unknown": 2
+      },
+      {
+       "age_range": "45-54",
+       "male": 102,
+       "female": 247,
+       "unknown": 2
+      },
+      {
+       "age_range": "55-64",
+       "male": 119,
+       "female": 312,
+       "unknown": 3
+      },
+      {
+       "age_range": "65+",
+       "male": 267,
+       "female": 632,
+       "unknown": 9
+      },
+      {
+       "age_range": "Unknown",
+       "male": null,
+       "female": null,
+       "unknown": 2
+      }
+     ]
+    }
+   ],
+   "is_violating_eu_siep": false
+  },
+  "trecho": "Biblioteca de anuncios de Meta Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca ​ España ​ ​ ​ ​ Todos los anuncios ​ Buscar por palabra clave o anunciante ​ ​ Bezpieczne Radio Anuncios Información Iniciar sesión Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca Estado del s"
+ }
+}

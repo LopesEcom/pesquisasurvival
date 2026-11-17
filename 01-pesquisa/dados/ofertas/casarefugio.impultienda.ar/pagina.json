@@ -1,0 +1,146 @@
+{
+ "url": "https://casarefugio.impultienda.ar/",
+ "slug": "casarefugio.impultienda.ar",
+ "url_final": "https://casarefugio.impultienda.ar/",
+ "titulo": "Casa Refugio Protocolo 72 Horas | Guía imprimible para emergencias",
+ "construtor": null,
+ "estrutura": [
+  "H1: SI MAÑANA SE CORTA TODO POR 3 DÍAS, TU FAMILIA YA SABE QUÉ HACER",
+  "H3: ✦ DENTRO DE LA GUÍA VAS A ENCONTRAR",
+  "H3: ✦ LO QUE VAS A RECIBIR:",
+  "H3: PRUÉBALA SIN RIESGO",
+  "H2: CUANDO SE CORTA TODO, NADIE PIENSA CON CLARIDAD",
+  "H3: \"No sé qué hacer primero\"",
+  "H3: Sin luz, sin celular, sin internet",
+  "H3: Se corta el agua",
+  "H3: Niños asustados y nervios en casa",
+  "H2: EL DÍA QUE LA NECESITES, NO VAS A TENER BATERÍA",
+  "H3: 📱 Si solo la tienes en el celular",
+  "H3: 🖨️ Con Casa Refugio impresa",
+  "H2: LAS 8 CLAVES QUE CUBREN TODO",
+  "H3: 1 · Agua",
+  "H3: 2 · Comida",
+  "H3: 3 · Luz y energía",
+  "H3: 4 · Comunicación",
+  "H3: 5 · Salud y botiquín",
+  "H3: 6 · Casa segura",
+  "H3: 7 · Dinero y documentos",
+  "H3: 8 · Calma",
+  "H2: ASÍ ES LA GUÍA POR DENTRO",
+  "H2: BASADA EN LAS GUÍAS OFICIALES DE EMERGENCIA",
+  "H2: LA GUÍA + 3 BONOS DE REGALO",
+  "H3: 72 Horas · Método Casa Refugio",
+  "H3: Plan de 30 días",
+  "H3: Kit de Calma en Crisis",
+  "H3: Recetario · 21 comidas sin luz",
+  "H2: UNA TARDE HOY, TRANQUILIDAD SIEMPRE",
+  "H3: Descarga e imprime",
+  "H3: Completa tu plan",
+  "H3: Prepárate de a poco",
+  "H3: Métodos de pago",
+  "H2: LO QUE NECESITAS SABER"
+ ],
+ "ctas": [],
+ "checkouts": [],
+ "precos": [
+  {
+   "valor": 22.1,
+   "moeda": "US$",
+   "tipo": "preco",
+   "ancora": false,
+   "parcela": false,
+   "contexto": "a inmediata en PDF ✦ LANZAMIENTO AHORRAS US$ 22.10 SI MAÑANA SE CORTA TODO "
+  },
+  {
+   "valor": 37,
+   "moeda": "US$",
+   "tipo": "preco",
+   "ancora": false,
+   "parcela": false,
+   "contexto": "uía Casa Refugio · 72 Horas (PDF imprimible) US$ 37 Bono 1: Plan de 30 días "
+  },
+  {
+   "valor": 37,
+   "moeda": "US$",
+   "tipo": "total",
+   "ancora": false,
+   "parcela": false,
+   "contexto": "rio · 21 comidas sin luz GRATIS Valor total: US$ 37 US$ 14.90 AHORRAS US$ 22"
+  },
+  {
+   "valor": 14.9,
+   "moeda": "US$",
+   "tipo": "preco",
+   "ancora": false,
+   "parcela": false,
+   "contexto": "1 comidas sin luz GRATIS Valor total: US$ 37 US$ 14.90 AHORRAS US$ 22.10 ✦ Des"
+  },
+  {
+   "valor": 22.1,
+   "moeda": "US$",
+   "tipo": "preco",
+   "ancora": false,
+   "parcela": false,
+   "contexto": "GRATIS Valor total: US$ 37 US$ 14.90 AHORRAS US$ 22.10 ✦ Descarga inmediata en"
+  },
+  {
+   "valor": 14.9,
+   "moeda": "US$",
+   "tipo": "preco",
+   "ancora": false,
+   "parcela": false,
+   "contexto": " no me sirve? 72 Horas · Método Casa Refugio US$ 14.90 US$ 37 ✦ Ahorras US$ 22."
+  },
+  {
+   "valor": 37,
+   "moeda": "US$",
+   "tipo": "preco",
+   "ancora": false,
+   "parcela": false,
+   "contexto": "ve? 72 Horas · Método Casa Refugio US$ 14.90 US$ 37 ✦ Ahorras US$ 22.10 Te l"
+  },
+  {
+   "valor": 22.1,
+   "moeda": "US$",
+   "tipo": "preco",
+   "ancora": false,
+   "parcela": false,
+   "contexto": "todo Casa Refugio US$ 14.90 US$ 37 ✦ Ahorras US$ 22.10 Te llega al correo en 1 "
+  }
+ ],
+ "elementos": {
+  "garantia_dias": 15,
+  "mencoes_bonus": 0,
+  "acesso_imediato": false,
+  "acesso_vitalicio": false,
+  "pix": false,
+  "parcelamento": false,
+  "contador": false,
+  "depoimentos": false,
+  "faq": false,
+  "video": false,
+  "vsl": false,
+  "quiz": false,
+  "whatsapp_print": false
+ },
+ "rastreio": {
+  "pixel_meta": [],
+  "tiktok": false,
+  "gtm": null,
+  "ga4": null,
+  "utmify": false,
+  "clarity": false,
+  "hotjar": false
+ },
+ "altura_celular_px": 10328,
+ "prints": {
+  "celular": "celular.jpg",
+  "computador": "computador.jpg"
+ },
+ "checkout": [],
+ "lacunas": [
+  "Nenhum link de checkout no HTML: o botão pode abrir por script, por WhatsApp ou por quiz. Abrir a página e clicar à mão (ou Claude in Chrome).",
+  "Upsell e downsell pós-compra não são visíveis sem comprar: declarar como não obtido."
+ ],
+ "texto": "🖨️ 100% imprimible     🏠 Funciona aunque no haya luz     🔒 Pago 100% seguro     🛡️ Garantía de 15 días     📄 Descarga inmediata en PDF     🖨️ 100% imprimible     🏠 Funciona aunque no haya luz     🔒 Pago 100% seguro     🛡️ Garantía de 15 días     📄 Descarga inmediata en PDF    \n✦ LANZAMIENTO\nAHORRAS US$ 22.10\nSI MAÑANA SE CORTA TODO POR 3 DÍAS, TU FAMILIA YA SABE QUÉ HACER\n\nEl plan impreso de 72 horas que funciona aunque no haya luz, batería ni internet.\n\n✓\n\nBasado en las recomendaciones de Cruz Roja, Protección Civil y organismos internacionales de gestión de emergencias\n\nCon la tabla de fuentes oficiales al final de la guía, para que verifiques cada dato.\n\nEl Método Casa Refugio te dice qué hacer, en qué orden y con qué, para que tu familia atraviese una inundación, un apagón largo o un corte de agua en casa, tranquila y sin pánico.\n\n✦ DENTRO DE LA GUÍA VAS A ENCONTRAR\n💧\nLos hasta 150 litros de agua que ya tienes en casa (en el termotanque) y cómo sacarlos sin riesgo\n🧮\nCuánta agua necesitas de verdad: 4 litros por persona por día. Una familia de 4, 48 litros\n🔧\nDónde está cada llave de paso de tu casa y qué hacer si huele a gas\n🧊\nCuánto aguanta tu heladera cerrada y qué comer primero\n📇\nLa hoja en papel con los teléfonos que hoy solo están en tu celular\n⏱️\nQué hacer en los primeros 10 minutos, la primera hora y los 3 días\n🖨️\n\nTodo es imprimible: tu plan en papel, siempre a mano\n\nCuando se corta la luz, el celular se apaga. Imprímela hoy y tenla pegada en el refrigerador para el día que la necesites.\n\n✦ LO QUE VAS A RECIBIR:\nGuía Casa Refugio · 72 Horas (PDF imprimible)\nUS$ 37\nBono 1: Plan de 30 días\nGRATIS\nBono 2: Kit de Calma en Crisis\nGRATIS\nBono 3: Recetario · 21 comidas sin luz\nGRATIS\nValor total:\nUS$ 37\nUS$ 14.90\nAHORRAS US$ 22.10\n\n✦\nDescarga inmediata en PDF: lo recibes en tu correo al instante, listo para imprimir · Pago único\n\nQUIERO MI PROTOCOLO\n15\nDÍAS\n\nGARANTÍA TOTAL\n\nPRUÉBALA SIN RIESGO\n\nTienes 15 días completos para leerla, imprimirla y armar tu plan. Si sientes que no te ayudó a organizar a tu familia con claridad, escríbenos y te devolvemos el 100% de tu dinero. Sin preguntas.\n\n✦ Compra segura · Acceso inmediato · Sin riesgo\n✦ POR QUÉ EXISTE ESTA GUÍA\nCUANDO SE CORTA TODO, NADIE PIENSA CON CLARIDAD\n\nTormentas que llegan de golpe, apagones de horas, cortes de agua, bancos e internet caídos. No hace falta una catástrofe: alcanza con tres días complicados para que una familia sin plan lo pase muy mal.\n\n😰\n\"No sé qué hacer primero\"\n\nEl protocolo hora por hora te dice qué hacer en la primera hora, el primer día y los tres días.\n\n📵\nSin luz, sin celular, sin internet\n\nUn plan analógico en papel: teléfonos, direcciones y puntos de encuentro que funcionan aunque nada ande.\n\n🚱\nSe corta el agua\n\nCuánta guardar, dónde conseguirla dentro de tu casa y cómo potabilizarla paso a paso.\n\n🧒\nNiños asustados y nervios en casa\n\nTécnicas de calma y un guion para contener a los niños, a los mayores y a ti misma.\n\n✦ POR QUÉ EN PAPEL\nEL DÍA QUE LA NECESITES, NO VAS A TENER BATERÍA\n\nUna guía en el celular sirve hasta que se agota la batería. Por eso Casa Refugio está pensada para imprimirse: fichas, checklists y el Plan Familiar en papel, listos para usar sin luz, sin señal y sin internet.\n\n📱 Si solo la tienes en el celular\nSe apaga cuando más la necesitas\nSin señal no puedes buscar nada\nGastas la batería que necesitas para comunicarte\n🖨️ Con Casa Refugio impresa\nTu plan pegado en el refrigerador\nTeléfonos y puntos de encuentro en papel\nCualquiera en la casa puede seguir los pasos\n✦ EL MÉTODO CASA REFUGIO\nLAS 8 CLAVES QUE CUBREN TODO\n\nLo logístico, lo físico y lo emocional, en un solo plan que se imprime y se pega en el refrigerador.\n\n💧\n1 · Agua\n\nCuánta por persona, cómo guardarla y 7 formas de potabilizarla.\n\n🥫\n2 · Comida\n\nMenú de 3 días sin refrigerador, sin gas y sin cocinar.\n\n🔦\n3 · Luz y energía\n\nLinternas, power bank y cómo usar un generador sin riesgos.\n\n📻\n4 · Comunicación\n\nRadio, teléfonos en papel y cómo encontrarse si se separan.\n\n🩹\n5 · Salud y botiquín\n\nQué tener en casa y cómo cuidar a quien necesita medicación.\n\n🏠\n6 · Casa segura\n\nGas, electricidad, incendios y monóxido de carbono.\n\n📁\n7 · Dinero y documentos\n\nEfectivo, copias y qué hacer si caen los bancos.\n\n🫁\n8 · Calma\n\nRespiración, convivencia y cómo bajar el miedo en familia.\n\n✦ MIRÁ POR DENTRO\nASÍ ES LA GUÍA POR DENTRO\n\nPáginas reales de la guía. Lo resaltado es lo que vas a tener en papel el día que se corte todo.\n\nPág. 7 · Dónde encontrar agua dentro de tu casa cuando se corta\n\nPág. 9 · Menú de 3 días sin refrigerador, sin gas y sin cocinar\n\nPág. 21 · Qué hacer hora por hora, desde el minuto 0\n\nPág. 19 · Cómo bajar el pánico en minutos y calmar a los niños\n\nQUIERO MI PROTOCOLO\n✦ INFORMACIÓN VERIFICADA\nBASADA EN LAS GUÍAS OFICIALES DE EMERGENCIA\n\nCada recomendación de la guía coincide con lo que indican estos organismos. Al final del PDF tienes la tabla de fuentes con los links oficiales, para que lo compruebes tú misma.\n\nCruz Roja\nProtección Civil\nComisión Europea\nSENAPRED · Chile\nCDC · EE. UU.\nFoodSafety.gov\n\nEstos organismos no patrocinan esta guía: la guía sigue sus recomendaciones públicas y las cita.\n\n✦ TODO LO QUE RECIBES HOY\nLA GUÍA + 3 BONOS DE REGALO\n\nUn PDF para leer en el celular o imprimir y tener a mano el día que no haya luz.\n\nLA GUÍA\nINCLUIDA\n72 Horas · Método Casa Refugio\n\nLas 8 claves, el protocolo hora por hora, fichas por tipo de emergencia, el Plan Familiar para completar y las checklists imprimibles.\n\n✦ Imprimible\n✦ Plan Familiar\n✦ Checklists\nBONO 1\nGRATIS\nPlan de 30 días\n\nUna tarea por día para preparar tu casa de a poco, sin gastar todo junto y sin agobiarte.\n\n✦ 1 tarea por día\nBONO 2\nGRATIS\nKit de Calma en Crisis\n\n5 tarjetas de respiración para recortar y un guion paso a paso para calmar a los niños.\n\n✦ Tarjetas\n✦ Guion para niños\nBONO 3\nGRATIS\nRecetario · 21 comidas sin luz\n\nComidas sin refrigerador y sin gas, con lo que tienes en la alacena, y la checklist \"Mi alacena de 72 horas\".\n\n✦ 21 recetas\n✦ Checklist\n\n✦ Los 3 bonos vienen incluidos, sin costo extra. Descarga inmediata: llegan a tu correo en PDF.\n\n✦ CÓMO FUNCIONA\nUNA TARDE HOY, TRANQUILIDAD SIEMPRE\n1\nDescarga e imprime\n\nTe llega al correo apenas compras. Imprime las fichas y el Plan Familiar.\n\n2\nCompleta tu plan\n\nAnota teléfonos, puntos de encuentro y necesidades de tu familia. Pégalo en el refrigerador.\n\n3\nPrepárate de a poco\n\nSigue el Plan de 30 días. Si llega la emergencia, abres la ficha y sigues los pasos.\n\nMétodos de pago\nMercado Pago\nVisa\nMastercard\nApple Pay\nGoogle Pay\nOXXO (México)\n🔒\nPAGO 100% SEGURO CON ENCRIPTACIÓN SSL\n✦ PREGUNTAS FRECUENTES\nLO QUE NECESITAS SABER\n¿Cómo la recibo?\n¿Sirve para mi país?\n¿De verdad funciona sin luz?\n¿Tengo que comprar muchas cosas?\n¿Es una guía alarmista?\n¿En qué se basa la información?\n¿Qué pasa si no me sirve?\n72 Horas · Método Casa Refugio\nUS$ 14.90\nUS$ 37\n✦ Ahorras US$ 22.10\nTe llega al correo en 1 minuto\nQUIERO MI PROTOCOLO"
+}

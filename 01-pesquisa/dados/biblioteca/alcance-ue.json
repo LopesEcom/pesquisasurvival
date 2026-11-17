@@ -1,0 +1,554 @@
+{
+ "1146617511147477": {
+  "dados": {
+   "location_audience": [
+    {
+     "name": "Reino Unido",
+     "num_obfuscated": 0,
+     "type": "countries",
+     "excluded": false
+    }
+   ],
+   "gender_audience": "Todos",
+   "total_reach": 8227,
+   "age_country_gender_reach_breakdown": [
+    {
+     "country": "GB",
+     "age_gender_breakdowns": [
+      {
+       "age_range": "18-24",
+       "male": 14,
+       "female": 12,
+       "unknown": null
+      },
+      {
+       "age_range": "25-34",
+       "male": 85,
+       "female": 80,
+       "unknown": 3
+      },
+      {
+       "age_range": "35-44",
+       "male": 263,
+       "female": 316,
+       "unknown": 7
+      },
+      {
+       "age_range": "45-54",
+       "male": 538,
+       "female": 654,
+       "unknown": 31
+      },
+      {
+       "age_range": "55-64",
+       "male": 1131,
+       "female": 1221,
+       "unknown": 53
+      },
+      {
+       "age_range": "65+",
+       "male": 1586,
+       "female": 1782,
+       "unknown": 81
+      }
+     ]
+    }
+   ],
+   "is_violating_eu_siep": false
+  },
+  "trecho": "Biblioteca de anuncios de Meta Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca ​ España ​ ​ ​ ​ Todos los anuncios ​ Buscar por palabra clave o anunciante ​ ​ The Amish Ways Anuncios Información Iniciar sesión Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca Estado del sis"
+ },
+ "1183109287383076": {
+  "dados": {
+   "location_audience": [
+    {
+     "name": "Reino Unido",
+     "num_obfuscated": 0,
+     "type": "countries",
+     "excluded": false
+    }
+   ],
+   "gender_audience": "Todos",
+   "total_reach": 1242,
+   "age_country_gender_reach_breakdown": [
+    {
+     "country": "GB",
+     "age_gender_breakdowns": [
+      {
+       "age_range": "18-24",
+       "male": 1,
+       "female": 4,
+       "unknown": null
+      },
+      {
+       "age_range": "25-34",
+       "male": 11,
+       "female": 19,
+       "unknown": null
+      },
+      {
+       "age_range": "35-44",
+       "male": 15,
+       "female": 39,
+       "unknown": null
+      },
+      {
+       "age_range": "45-54",
+       "male": 37,
+       "female": 79,
+       "unknown": 4
+      },
+      {
+       "age_range": "55-64",
+       "male": 78,
+       "female": 176,
+       "unknown": 2
+      },
+      {
+       "age_range": "65+",
+       "male": 237,
+       "female": 493,
+       "unknown": 23
+      }
+     ]
+    }
+   ],
+   "is_violating_eu_siep": false
+  },
+  "trecho": "Biblioteca de anuncios de Meta Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca ​ España ​ ​ ​ ​ Todos los anuncios ​ Buscar por palabra clave o anunciante ​ ​ The Amish Ways Anuncios Información Iniciar sesión Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca Estado del sis"
+ },
+ "1478378760964055": {
+  "dados": {
+   "targets_eu": true,
+   "location": "RO",
+   "location_audience": [
+    {
+     "name": "Worldwide",
+     "num_obfuscated": 0,
+     "type": "country_groups",
+     "excluded": false
+    }
+   ],
+   "gender_audience": "Todos",
+   "eu_total_reach": 878,
+   "age_country_gender_reach_breakdown": [
+    {
+     "country": "GB",
+     "age_gender_breakdowns": [
+      {
+       "age_range": "18-24",
+       "male": 3,
+       "female": null,
+       "unknown": null
+      },
+      {
+       "age_range": "25-34",
+       "male": 3,
+       "female": 1,
+       "unknown": 1
+      },
+      {
+       "age_range": "35-44",
+       "male": 3,
+       "female": 2,
+       "unknown": null
+      },
+      {
+       "age_range": "45-54",
+       "male": 8,
+       "female": 2,
+       "unknown": null
+      },
+      {
+       "age_range": "55-64",
+       "male": 19,
+       "female": 12,
+       "unknown": 1
+      },
+      {
+       "age_range": "65+",
+       "male": 10,
+       "female": 8,
+       "unknown": 1
+      }
+     ]
+    }
+   ],
+   "total_reach": 74,
+   "is_violating_eu_siep": false
+  },
+  "trecho": "Biblioteca de anuncios de Meta Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca ​ España ​ ​ ​ ​ Todos los anuncios ​ Buscar por palabra clave o anunciante ​ ​ Self-Sufficient Backyard - by Ron and Johanna Anuncios Información Iniciar sesión Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Co"
+ },
+ "1439124317803066": {
+  "dados": {
+   "targets_eu": true,
+   "location": "RO",
+   "location_audience": [
+    {
+     "name": "Worldwide",
+     "num_obfuscated": 0,
+     "type": "country_groups",
+     "excluded": false
+    }
+   ],
+   "gender_audience": "Todos",
+   "eu_total_reach": 4026,
+   "age_country_gender_reach_breakdown": [
+    {
+     "country": "GB",
+     "age_gender_breakdowns": [
+      {
+       "age_range": "18-24",
+       "male": 4,
+       "female": 1,
+       "unknown": null
+      },
+      {
+       "age_range": "25-34",
+       "male": 19,
+       "female": 2,
+       "unknown": 1
+      },
+      {
+       "age_range": "35-44",
+       "male": 92,
+       "female": 17,
+       "unknown": 1
+      },
+      {
+       "age_range": "45-54",
+       "male": 150,
+       "female": 49,
+       "unknown": 9
+      },
+      {
+       "age_range": "55-64",
+       "male": 206,
+       "female": 74,
+       "unknown": 6
+      },
+      {
+       "age_range": "65+",
+       "male": 101,
+       "female": 26,
+       "unknown": 5
+      }
+     ]
+    }
+   ],
+   "total_reach": 781,
+   "is_violating_eu_siep": false
+  },
+  "trecho": "Biblioteca de anuncios de Meta Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca ​ España ​ ​ ​ ​ Todos los anuncios ​ Buscar por palabra clave o anunciante ​ ​ Self-Sufficient Backyard - by Ron and Johanna Anuncios Información Iniciar sesión Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Co"
+ },
+ "1171243545472360": {
+  "dados": {
+   "targets_eu": true,
+   "location_audience": [
+    {
+     "name": "Austria",
+     "num_obfuscated": 0,
+     "type": "countries",
+     "excluded": false
+    },
+    {
+     "name": "Alemania",
+     "num_obfuscated": 0,
+     "type": "countries",
+     "excluded": false
+    }
+   ],
+   "gender_audience": "Todos",
+   "eu_total_reach": 1133,
+   "age_country_gender_reach_breakdown": [
+    {
+     "country": "AT",
+     "age_gender_breakdowns": [
+      {
+       "age_range": "18-24",
+       "male": 1,
+       "female": 1,
+       "unknown": null
+      },
+      {
+       "age_range": "25-34",
+       "male": 5,
+       "female": 7,
+       "unknown": null
+      },
+      {
+       "age_range": "35-44",
+       "male": 13,
+       "female": 13,
+       "unknown": null
+      },
+      {
+       "age_range": "45-54",
+       "male": 19,
+       "female": 14,
+       "unknown": null
+      },
+      {
+       "age_range": "55-64",
+       "male": 16,
+       "female": 15,
+       "unknown": null
+      },
+      {
+       "age_range": "65+",
+       "male": 11,
+       "female": 7,
+       "unknown": null
+      }
+     ]
+    },
+    {
+     "country": "DE",
+     "age_gender_breakdowns": [
+      {
+       "age_range": "18-24",
+       "male": 20,
+       "female": 21,
+       "unknown": 1
+      },
+      {
+       "age_range": "25-34",
+       "male": 76,
+       "female": 52,
+       "unknown": 1
+      },
+      {
+       "age_range": "35-44",
+       "male": 123,
+       "female": 97,
+       "unknown": 1
+      },
+      {
+       "age_range": "45-54",
+       "male": 108,
+       "female": 110,
+       "unknown": null
+      },
+      {
+       "age_range": "55-64",
+       "male": 137,
+       "female": 104,
+       "unknown": 2
+      },
+      {
+       "age_range": "65+",
+       "male": 81,
+       "female": 85,
+       "unknown": null
+      }
+     ]
+    }
+   ],
+   "is_violating_eu_siep": false
+  },
+  "trecho": "Biblioteca de anuncios de Meta Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca ​ España ​ ​ ​ ​ Todos los anuncios ​ Buscar por palabra clave o anunciante ​ ​ BlackoutReport Anuncios Información Iniciar sesión Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca Estado del sis"
+ },
+ "882421578250444": {
+  "dados": {
+   "targets_eu": true,
+   "location_audience": [
+    {
+     "name": "Austria",
+     "num_obfuscated": 0,
+     "type": "countries",
+     "excluded": false
+    },
+    {
+     "name": "Alemania",
+     "num_obfuscated": 0,
+     "type": "countries",
+     "excluded": false
+    }
+   ],
+   "gender_audience": "Todos",
+   "eu_total_reach": 1091,
+   "age_country_gender_reach_breakdown": [
+    {
+     "country": "AT",
+     "age_gender_breakdowns": [
+      {
+       "age_range": "18-24",
+       "male": 1,
+       "female": null,
+       "unknown": null
+      },
+      {
+       "age_range": "25-34",
+       "male": 3,
+       "female": 1,
+       "unknown": null
+      },
+      {
+       "age_range": "35-44",
+       "male": 10,
+       "female": 7,
+       "unknown": null
+      },
+      {
+       "age_range": "45-54",
+       "male": 20,
+       "female": 6,
+       "unknown": 1
+      },
+      {
+       "age_range": "55-64",
+       "male": 39,
+       "female": 20,
+       "unknown": 1
+      },
+      {
+       "age_range": "65+",
+       "male": 51,
+       "female": 18,
+       "unknown": null
+      }
+     ]
+    },
+    {
+     "country": "DE",
+     "age_gender_breakdowns": [
+      {
+       "age_range": "18-24",
+       "male": 2,
+       "female": 3,
+       "unknown": null
+      },
+      {
+       "age_range": "25-34",
+       "male": 20,
+       "female": 5,
+       "unknown": null
+      },
+      {
+       "age_range": "35-44",
+       "male": 43,
+       "female": 27,
+       "unknown": 1
+      },
+      {
+       "age_range": "45-54",
+       "male": 88,
+       "female": 45,
+       "unknown": 1
+      },
+      {
+       "age_range": "55-64",
+       "male": 219,
+       "female": 87,
+       "unknown": 4
+      },
+      {
+       "age_range": "65+",
+       "male": 215,
+       "female": 108,
+       "unknown": 1
+      }
+     ]
+    }
+   ],
+   "is_violating_eu_siep": false
+  },
+  "trecho": "Biblioteca de anuncios de Meta Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca ​ España ​ ​ ​ ​ Todos los anuncios ​ Buscar por palabra clave o anunciante ​ ​ BlackoutReport Anuncios Información Iniciar sesión Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca Estado del sis"
+ },
+ "1453737406206995": {
+  "dados": {
+   "targets_eu": true,
+   "location_audience": [
+    {
+     "name": "España",
+     "num_obfuscated": 0,
+     "type": "countries",
+     "excluded": false
+    }
+   ],
+   "gender_audience": "Todos",
+   "eu_total_reach": 13,
+   "age_country_gender_reach_breakdown": [
+    {
+     "country": "ES",
+     "age_gender_breakdowns": [
+      {
+       "age_range": "25-34",
+       "male": 2,
+       "female": 1,
+       "unknown": null
+      },
+      {
+       "age_range": "35-44",
+       "male": null,
+       "female": 1,
+       "unknown": null
+      },
+      {
+       "age_range": "45-54",
+       "male": 2,
+       "female": 3,
+       "unknown": null
+      },
+      {
+       "age_range": "55-64",
+       "male": 1,
+       "female": 2,
+       "unknown": null
+      },
+      {
+       "age_range": "65+",
+       "male": 1,
+       "female": null,
+       "unknown": null
+      }
+     ]
+    }
+   ],
+   "is_violating_eu_siep": false
+  },
+  "trecho": "Biblioteca de anuncios de Meta Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca ​ España ​ ​ ​ ​ Todos los anuncios ​ Buscar por palabra clave o anunciante ​ ​ Búnker en Casa Anuncios Información Iniciar sesión Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca Estado del sis"
+ },
+ "1176436751477917": {
+  "dados": {
+   "targets_eu": true,
+   "location_audience": [
+    {
+     "name": "España",
+     "num_obfuscated": 0,
+     "type": "countries",
+     "excluded": false
+    }
+   ],
+   "gender_audience": "Todos",
+   "eu_total_reach": 3,
+   "age_country_gender_reach_breakdown": [
+    {
+     "country": "ES",
+     "age_gender_breakdowns": [
+      {
+       "age_range": "35-44",
+       "male": null,
+       "female": null,
+       "unknown": 1
+      },
+      {
+       "age_range": "45-54",
+       "male": 1,
+       "female": null,
+       "unknown": null
+      },
+      {
+       "age_range": "65+",
+       "male": null,
+       "female": 1,
+       "unknown": null
+      }
+     ]
+    }
+   ],
+   "is_violating_eu_siep": false
+  },
+  "trecho": "Biblioteca de anuncios de Meta Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca ​ España ​ ​ ​ ​ Todos los anuncios ​ Buscar por palabra clave o anunciante ​ ​ Búnker en Casa Anuncios Información Iniciar sesión Biblioteca de anuncios Informe de la Biblioteca de anuncios API de la Biblioteca de anuncios Contenido de marca Estado del sis"
+ }
+}

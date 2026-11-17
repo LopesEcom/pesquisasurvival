@@ -1,0 +1,46 @@
+{
+ "url": "https://thefaithmade.com/pages/last-days",
+ "slug": "thefaithmade.com-pages-last-days",
+ "url_final": "https://thefaithmade.com/pages/last-days",
+ "titulo": "Access Denied",
+ "construtor": null,
+ "estrutura": [],
+ "ctas": [],
+ "checkouts": [],
+ "precos": [],
+ "elementos": {
+  "garantia_dias": null,
+  "mencoes_bonus": 0,
+  "acesso_imediato": false,
+  "acesso_vitalicio": false,
+  "pix": false,
+  "parcelamento": false,
+  "contador": false,
+  "depoimentos": false,
+  "faq": false,
+  "video": false,
+  "vsl": false,
+  "quiz": false,
+  "whatsapp_print": false
+ },
+ "rastreio": {
+  "pixel_meta": [],
+  "tiktok": false,
+  "gtm": null,
+  "ga4": null,
+  "utmify": false,
+  "clarity": false,
+  "hotjar": false
+ },
+ "altura_celular_px": 844,
+ "prints": {
+  "celular": "celular.jpg",
+  "computador": "computador.jpg"
+ },
+ "checkout": [],
+ "lacunas": [
+  "Nenhum link de checkout no HTML: o botão pode abrir por script, por WhatsApp ou por quiz. Abrir a página e clicar à mão (ou Claude in Chrome).",
+  "Upsell e downsell pós-compra não são visíveis sem comprar: declarar como não obtido."
+ ],
+ "texto": "Access Denied\nSorry, this site is no longer available."
+}

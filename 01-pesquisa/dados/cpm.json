@@ -1,0 +1,12 @@
+{"fontes":{
+ "transparencyads":{"url":"https://www.transparencyads.com/meta-ads-cost-europe.html","moeda":"EUR","periodo":"ago/2025 a jul/2026","metodo":"estimativa Pantheon a partir de Triple Whale, Lebesgue, AdManage, Trendtrack, WordStream; nao e dado da Meta"},
+ "lebesgue":{"url":"https://lebesgue.io/facebook-ads/facebook-cpm-by-country","moeda":"USD","periodo":"2026 (post de 27/07/2026)","metodo":"benchmark de lojas da base Lebesgue (e-commerce)"},
+ "adspendspy":{"url":"https://www.adspendspy.com/facebook-cpm-by-country","moeda":"EUR","periodo":"2026","metodo":"modelo a partir do alcance UE/UK publicado pela Meta; padrao e-commerce; lead-gen 1,6x"}},
+"usd_eur":1.1193,
+"paises":{
+"GB":[null,11.81,9.23],"IE":[9.65,8.26,8.38],"DE":[8.98,9.05,9.37],"AT":[8.49,8.63,8.09],"CH":[null,8.40,9.80],
+"NL":[8.22,8.58,8.52],"BE":[7.50,7.96,7.81],"FR":[7.19,6.95,7.46],"ES":[5.18,6.65,7.10],"PT":[5.45,6.02,6.75],
+"IT":[6.43,6.06,6.96],"PL":[4.91,5.55,5.33],"LT":[5.82,6.51,6.04],"LV":[5.41,6.05,6.04],"EE":[6.16,6.89,6.25],
+"FI":[6.90,7.72,8.17],"SE":[8.13,8.12,8.66],"NO":[null,7.31,9.23],"DK":[8.76,8.74,8.88],"CZ":[5.54,5.70,6.04],
+"RO":[4.81,5.38,4.40],"GR":[5.27,4.89,6.53],"HU":[4.68,5.24,5.11],"US":[null,16.08,10.65],"CA":[null,11.47,null],"AU":[null,11.63,null]},
+"ordem":["transparencyads EUR","lebesgue USD","adspendspy EUR"]}
